@@ -1,1 +1,1 @@
-# biocompare
+# Biocompare
