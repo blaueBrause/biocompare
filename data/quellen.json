@@ -1,10 +1,98 @@
 [
- {"id":"SRC-001","titel":"Bildungsplan Allgemeinbildendes Gymnasium Biologie","typ":"Bildungsplan","status":"ausgewertet"},
- {"id":"SRC-002","titel":"Bildungsplan Berufliches Gymnasium Biologie","typ":"Bildungsplan","status":"ausgewertet"},
- {"id":"SRC-003","titel":"Sondergebiete der Biowissenschaften","typ":"Ergänzungsfach","status":"teilweise ausgewertet"},
- {"id":"SRC-004","titel":"Jahresplanung Basisfach","typ":"Unterricht","status":"ausgewertet"},
- {"id":"SRC-005","titel":"Jahresplanung Leistungsfach","typ":"Unterricht","status":"ausgewertet"},
- {"id":"SRC-006","titel":"KM Baden-Württemberg Anforderungen Abitur 2026","typ":"Prüfung","status":"ausgewertet"},
- {"id":"SRC-007","titel":"IQB Beispielaufgaben 2025","typ":"Prüfung","status":"teilweise ausgewertet"},
- {"id":"SRC-008","titel":"STARK Musteraufgaben","typ":"Ergänzende Quelle","status":"teilweise ausgewertet"}
+  {
+    "id": "SRC-001",
+    "title": "Bildungsplan 2016 Gymnasium Biologie",
+    "type": "Bildungsplan",
+    "scope": "Basisfach und Leistungsfach",
+    "status": "vorhanden",
+    "use": "Primärquelle Lehrplan allgemeinbildendes Gymnasium"
+  },
+  {
+    "id": "SRC-002",
+    "title": "Bildungsplan Berufliches Gymnasium Biologie 2021",
+    "type": "Bildungsplan",
+    "scope": "reguläre BG-Biologie",
+    "status": "vorhanden",
+    "use": "Primärquelle für SGG Soziales relevant"
+  },
+  {
+    "id": "SRC-003",
+    "title": "Sondergebiete der Biowissenschaften",
+    "type": "Bildungsplan Ergänzungsfach",
+    "scope": "optionales Ergänzungsfach",
+    "status": "vorhanden",
+    "use": "Zusatzchance, nicht Pflichtumfang"
+  },
+  {
+    "id": "SRC-004",
+    "title": "Jahresplanung Biologie Basisfach",
+    "type": "Jahresplanung",
+    "scope": "Unterricht allgemeinbildendes Gymnasium",
+    "status": "vorhanden",
+    "use": "Unterrichtszeit und Sequenzierung"
+  },
+  {
+    "id": "SRC-005",
+    "title": "Jahresplanung Biologie Leistungsfach",
+    "type": "Jahresplanung",
+    "scope": "Unterricht allgemeinbildendes Gymnasium",
+    "status": "vorhanden",
+    "use": "Tiefe und Unterrichtslogik LF"
+  },
+  {
+    "id": "SRC-006",
+    "title": "KM Anforderungen Abitur 2026 Berufliche Gymnasien",
+    "type": "Prüfungsvorgaben",
+    "scope": "Berufliche Gymnasien",
+    "status": "vorhanden",
+    "use": "Prüfungsrollen, Abgrenzung SGG Soziales"
+  },
+  {
+    "id": "SRC-007",
+    "title": "IQB 2025 Algen grundlegendes Niveau",
+    "type": "Prüfungsaufgabe",
+    "scope": "allgemeinbildendes Gymnasium",
+    "status": "vorhanden",
+    "use": "Prüfungsvergleich Basisfach/grundlegend"
+  },
+  {
+    "id": "SRC-008",
+    "title": "IQB 2025 Cyanobakterien erhöhtes Niveau",
+    "type": "Prüfungsaufgabe",
+    "scope": "allgemeinbildendes Gymnasium",
+    "status": "vorhanden",
+    "use": "Prüfungsvergleich Leistungsfach"
+  },
+  {
+    "id": "SRC-009",
+    "title": "IQB 2025 Elefanten erhöhtes Niveau",
+    "type": "Prüfungsaufgabe",
+    "scope": "allgemeinbildendes Gymnasium",
+    "status": "vorhanden",
+    "use": "Evolution, Populationsdaten, Bewertung"
+  },
+  {
+    "id": "SRC-010",
+    "title": "IQB 2025 Farbenblindheit erhöhtes Niveau",
+    "type": "Prüfungsaufgabe",
+    "scope": "allgemeinbildendes Gymnasium",
+    "status": "vorhanden",
+    "use": "Genetik, Diagnostik, Gentherapie"
+  },
+  {
+    "id": "SRC-011",
+    "title": "STARK Leistungsfach Leseprobe",
+    "type": "Sekundärquelle",
+    "scope": "Prüfungsorientierung",
+    "status": "vorhanden",
+    "use": "nur ergänzend, keine Volltextübernahme"
+  },
+  {
+    "id": "SRC-012",
+    "title": "STARK Berufliches Gymnasium Leseprobe",
+    "type": "Sekundärquelle",
+    "scope": "Prüfungsorientierung BG",
+    "status": "vorhanden",
+    "use": "nur ergänzend, keine Volltextübernahme"
+  }
 ]
