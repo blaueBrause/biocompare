@@ -1,0 +1,10 @@
+[
+ {"id":"SRC-001","titel":"Bildungsplan Allgemeinbildendes Gymnasium Biologie","typ":"Bildungsplan","status":"ausgewertet"},
+ {"id":"SRC-002","titel":"Bildungsplan Berufliches Gymnasium Biologie","typ":"Bildungsplan","status":"ausgewertet"},
+ {"id":"SRC-003","titel":"Sondergebiete der Biowissenschaften","typ":"Ergänzungsfach","status":"teilweise ausgewertet"},
+ {"id":"SRC-004","titel":"Jahresplanung Basisfach","typ":"Unterricht","status":"ausgewertet"},
+ {"id":"SRC-005","titel":"Jahresplanung Leistungsfach","typ":"Unterricht","status":"ausgewertet"},
+ {"id":"SRC-006","titel":"KM Baden-Württemberg Anforderungen Abitur 2026","typ":"Prüfung","status":"ausgewertet"},
+ {"id":"SRC-007","titel":"IQB Beispielaufgaben 2025","typ":"Prüfung","status":"teilweise ausgewertet"},
+ {"id":"SRC-008","titel":"STARK Musteraufgaben","typ":"Ergänzende Quelle","status":"teilweise ausgewertet"}
+]
