@@ -1,0 +1,50 @@
+[
+  {
+    "id": "F-001",
+    "status": "BELEGT",
+    "claim": "Die großen Themenfelder der Biologie sind in beiden betrachteten Systemen vorhanden.",
+    "meaning": "Kein automatischer Verlust zentraler biologischer Themen beim Wechsel.",
+    "sources": [
+      "SRC-001",
+      "SRC-002"
+    ]
+  },
+  {
+    "id": "F-002",
+    "status": "BELEGT",
+    "claim": "Das Leistungsfach ist stärker als vertieftes schriftliches Biologiefach dokumentiert.",
+    "meaning": "Für ausdrücklich schriftliche Biologie-Vertiefung spricht das Leistungsfach.",
+    "sources": [
+      "SRC-001",
+      "SRC-005",
+      "SRC-008",
+      "SRC-009",
+      "SRC-010"
+    ]
+  },
+  {
+    "id": "F-003",
+    "status": "BELEGT",
+    "claim": "SGG Soziales hat nicht Biologie als Profilfach.",
+    "meaning": "Der Vergleich darf nicht mit Gesundheit/Biologie-Profilen vermischt werden.",
+    "sources": [
+      "SRC-006"
+    ]
+  },
+  {
+    "id": "F-004",
+    "status": "TEILWEISE BELEGT",
+    "claim": "Sondergebiete können fachlich attraktive biologische Vertiefungen bieten.",
+    "meaning": "Relevant nur bei tatsächlichem Angebot der Zielschule.",
+    "sources": [
+      "SRC-003"
+    ]
+  },
+  {
+    "id": "F-005",
+    "status": "OFFEN",
+    "claim": "Die konkrete Unterrichtsqualität am Ziel-BG ist öffentlich nicht abschließend belegbar.",
+    "meaning": "Schulgespräch bleibt nötig.",
+    "sources": []
+  }
+]
