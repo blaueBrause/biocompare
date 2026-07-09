@@ -1,8 +1,83 @@
 [
-{"thema":"Zellbiologie","ag":"ja","bg":"ja","lf_vertiefung":"ja"},
-{"thema":"Stoffwechsel","ag":"ja","bg":"ja","lf_vertiefung":"teilweise"},
-{"thema":"Genetik","ag":"ja","bg":"ja","lf_vertiefung":"ja"},
-{"thema":"Evolution","ag":"ja","bg":"ja","lf_vertiefung":"ja"},
-{"thema":"Ökologie","ag":"ja","bg":"ja","lf_vertiefung":"teilweise"},
-{"thema":"Neurobiologie","ag":"ja","bg":"ja","lf_vertiefung":"teilweise"}
+  {
+    "id": "T-001",
+    "topic": "Zellbiologie",
+    "ag": "enthalten",
+    "lf": "vertieft enthalten",
+    "bg": "enthalten",
+    "sonbio": "ergänzend möglich",
+    "status": "BELEGT"
+  },
+  {
+    "id": "T-002",
+    "topic": "Stoffwechsel",
+    "ag": "enthalten",
+    "lf": "vertieft enthalten",
+    "bg": "enthalten",
+    "sonbio": "ergänzend möglich",
+    "status": "BELEGT"
+  },
+  {
+    "id": "T-003",
+    "topic": "Genetik",
+    "ag": "enthalten",
+    "lf": "deutlich vertieft",
+    "bg": "enthalten",
+    "sonbio": "ergänzend möglich",
+    "status": "BELEGT"
+  },
+  {
+    "id": "T-004",
+    "topic": "Gentechnik",
+    "ag": "enthalten",
+    "lf": "deutlich vertieft",
+    "bg": "teilweise belegt",
+    "sonbio": "möglich",
+    "status": "TEILWEISE BELEGT"
+  },
+  {
+    "id": "T-005",
+    "topic": "Neurobiologie",
+    "ag": "enthalten",
+    "lf": "vertieft enthalten",
+    "bg": "enthalten",
+    "sonbio": "vertiefend möglich",
+    "status": "BELEGT"
+  },
+  {
+    "id": "T-006",
+    "topic": "Hormonsystem",
+    "ag": "enthalten/prüfen",
+    "lf": "eigenständiger Bereich",
+    "bg": "nicht gleichwertig nachgewiesen",
+    "sonbio": "nicht gesichert",
+    "status": "TEILWEISE BELEGT"
+  },
+  {
+    "id": "T-007",
+    "topic": "Immunbiologie",
+    "ag": "enthalten/prüfen",
+    "lf": "enthalten",
+    "bg": "enthalten",
+    "sonbio": "vertiefend möglich",
+    "status": "TEILWEISE BELEGT"
+  },
+  {
+    "id": "T-008",
+    "topic": "Evolution",
+    "ag": "enthalten",
+    "lf": "vertieft enthalten",
+    "bg": "enthalten",
+    "sonbio": "vertiefend möglich",
+    "status": "BELEGT"
+  },
+  {
+    "id": "T-009",
+    "topic": "Ökologie",
+    "ag": "enthalten",
+    "lf": "vertieft enthalten",
+    "bg": "enthalten",
+    "sonbio": "vertiefend möglich",
+    "status": "BELEGT"
+  }
 ]
