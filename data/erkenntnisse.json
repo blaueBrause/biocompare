@@ -1,0 +1,14 @@
+[
+  {
+    "id":"BIO-001",
+    "status":"belegt",
+    "aussage":"Beide Bildungsgänge behandeln die zentralen biologischen Themenfelder.",
+    "quellen":["Bildungsplan Allgemeinbildendes Gymnasium","Bildungsplan Berufliches Gymnasium"]
+  },
+  {
+    "id":"BIO-002",
+    "status":"belegt",
+    "aussage":"Das Leistungsfach enthält zusätzliche Vertiefungen.",
+    "quellen":["Bildungsplan LF","Jahresplanung LF"]
+  }
+]
