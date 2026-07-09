@@ -1,1 +1,1 @@
-# Biocompare
+# Biologie-Vergleich BW
