@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-07-10 – Zellenweise Kompetenzbelege
+- `data/kompetenzen.json` auf getrennte Variantenobjekte für Basisfach, Leistungsfach und reguläres BG umgestellt.
+- Bewertungen ohne eigene Fundstelle auf `OFFEN` oder `TEILWEISE BELEGT` zurückgestuft, statt Belege zwischen Schulvarianten zu übertragen.
+- Kompetenzansicht als Kartenvergleich mit eigenem Status und eigenen Fundstellen pro Variante neu aufgebaut.
+- `tools/validate_competencies.py` ergänzt: prüft Pflichtvarianten, tote Quellen-IDs, alte Schemafelder und seitengenaue Fundstellen für `BELEGT`.
+- GitHub Actions führt nun allgemeine Datenvalidierung und Kompetenzvalidierung gemeinsam aus.
+- JSON der Kompetenzmatrix lesbar formatiert.
+
 ## 2026-07-10 – Amtliche BG-Abiturprüfung 2025
 - Amtlichen Haupttermin 2025 für das Prüfungsfach 4.3 Biologie als `SRC-013` erfasst.
 - Vier BG-Aufgaben zu Genetik, Evolution, Neurobiologie und Ökologie in `data/pruefungen.json` ausgewertet.
