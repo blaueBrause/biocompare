@@ -129,6 +129,225 @@
     }
   },
   {
+    "id": "PV-AG-2026",
+    "year": 2026,
+    "system": "AG",
+    "variant": "Biologie-Leistungsfach",
+    "written": {
+      "central": true,
+      "duration_minutes": 300,
+      "tasks_offered": 4,
+      "tasks_required": 3,
+      "assessment_units": null,
+      "scope": "Überarbeiteter Bildungsplan 2016, Version 2 vom 08.03.2022",
+      "exclusions": [
+        "Kapitel 3.5.7 Immunsystem beziehungsweise alternativer Inhaltsbereich"
+      ]
+    },
+    "basisfach": {
+      "central_written": false,
+      "exam_mode": "mündlich",
+      "topics": [
+        "Biomoleküle und molekulare Genetik",
+        "Stoff- und Energieumwandlung",
+        "Evolution",
+        "Ökologie",
+        "Neurobiologie",
+        "Angewandte Biologie"
+      ]
+    },
+    "leistungsfach_oral_topics": [
+      "Biomoleküle und molekulare Genetik",
+      "Stoff- und Energieumwandlung",
+      "Evolution",
+      "Ökologie",
+      "Neurobiologie und Hormone",
+      "Angewandte Biologie",
+      "Immunsystem beziehungsweise alternativer Inhaltsbereich"
+    ],
+    "notes": [
+      "In jeder Klausur sollten Erkenntnisgewinnung, Kommunikation und Bewertung Anwendung finden.",
+      "Folgerichtige Argumentationen und die korrekte, konsequente Fachsprache sind ausdrücklich zu beachten.",
+      "Mündliche Prüfungen können Lehrer- oder Schülerexperimente enthalten."
+    ],
+    "source": {
+      "filename": "Facherlasse_2026_Stand_01.10.2024(1).pdf",
+      "pages": "119–123",
+      "sha256": "b5b77bbad9ae434b48412b8f3ca7ba2af691abe2877a4004d39c65f79eba1688",
+      "bytes": 1960290
+    }
+  },
+  {
+    "id": "PV-AG-2027",
+    "year": 2027,
+    "system": "AG",
+    "variant": "Biologie-Leistungsfach",
+    "written": {
+      "central": true,
+      "duration_minutes": 300,
+      "tasks_offered": 4,
+      "tasks_required": 3,
+      "assessment_units": 120,
+      "scope": "Überarbeiteter Bildungsplan 2016, Version 2 vom 08.03.2022",
+      "exclusions": [
+        "Kapitel 3.5.7 Immunsystem beziehungsweise alternativer Inhaltsbereich"
+      ]
+    },
+    "basisfach": {
+      "central_written": false,
+      "exam_mode": "mündlich",
+      "topics": [
+        "Biomoleküle und molekulare Genetik",
+        "Stoff- und Energieumwandlung",
+        "Evolution",
+        "Ökologie",
+        "Neurobiologie",
+        "Angewandte Biologie"
+      ]
+    },
+    "leistungsfach_oral_topics": [
+      "Biomoleküle und molekulare Genetik",
+      "Stoff- und Energieumwandlung",
+      "Evolution",
+      "Ökologie",
+      "Neurobiologie und Hormone",
+      "Angewandte Biologie",
+      "Immunsystem beziehungsweise alternativer Inhaltsbereich"
+    ],
+    "notes": [
+      "In jeder Klausur sollten Erkenntnisgewinnung, Kommunikation und Bewertung Anwendung finden.",
+      "Folgerichtige Argumentationen und die korrekte, konsequente Fachsprache sind ausdrücklich zu beachten.",
+      "Mündliche Prüfungen können Lehrer- oder Schülerexperimente enthalten."
+    ],
+    "assessment": {
+      "whole_units_only": true,
+      "language_form_penalty_notenpunkte": [
+        1,
+        2
+      ],
+      "expectation_horizon_allows_alternative_solutions": true,
+      "correction_codes": {
+        "formal": [
+          "A Ausdruck",
+          "Gr Grammatik",
+          "Rs Rechtschreibung",
+          "Sb Satzbau",
+          "Z Zeichensetzung"
+        ],
+        "content": [
+          "Bg Begründung",
+          "Def Definition",
+          "f falsch",
+          "Ff Folgefehler",
+          "Fs Fachsprache/Fachbegriff",
+          "Log Logik",
+          "Rf Rechenfehler",
+          "Th Thema/Aufgabenstellung",
+          "ug ungenau",
+          "uk unklare Formulierung/Darstellung",
+          "ul unleserlich",
+          "uv unvollständig",
+          "W Wiederholung",
+          "Zshg Zusammenhang"
+        ]
+      },
+      "grade_scale": [
+        {
+          "min_be": 114,
+          "max_be": 120,
+          "notenpunkte": 15
+        },
+        {
+          "min_be": 108,
+          "max_be": 113,
+          "notenpunkte": 14
+        },
+        {
+          "min_be": 102,
+          "max_be": 107,
+          "notenpunkte": 13
+        },
+        {
+          "min_be": 96,
+          "max_be": 101,
+          "notenpunkte": 12
+        },
+        {
+          "min_be": 90,
+          "max_be": 95,
+          "notenpunkte": 11
+        },
+        {
+          "min_be": 84,
+          "max_be": 89,
+          "notenpunkte": 10
+        },
+        {
+          "min_be": 78,
+          "max_be": 83,
+          "notenpunkte": 9
+        },
+        {
+          "min_be": 72,
+          "max_be": 77,
+          "notenpunkte": 8
+        },
+        {
+          "min_be": 66,
+          "max_be": 71,
+          "notenpunkte": 7
+        },
+        {
+          "min_be": 60,
+          "max_be": 65,
+          "notenpunkte": 6
+        },
+        {
+          "min_be": 54,
+          "max_be": 59,
+          "notenpunkte": 5
+        },
+        {
+          "min_be": 48,
+          "max_be": 53,
+          "notenpunkte": 4
+        },
+        {
+          "min_be": 40,
+          "max_be": 47,
+          "notenpunkte": 3
+        },
+        {
+          "min_be": 32,
+          "max_be": 39,
+          "notenpunkte": 2
+        },
+        {
+          "min_be": 24,
+          "max_be": 31,
+          "notenpunkte": 1
+        },
+        {
+          "min_be": 0,
+          "max_be": 23,
+          "notenpunkte": 0
+        }
+      ],
+      "source": {
+        "filename": "Beurteilungs-_und_Korrekturrichtlinienerlass_Abitur_2027_Stand_07.07.2025(1).pdf",
+        "pages": "32–34",
+        "sha256": "a9e9d29a9c79c393f3f0f53203fba7605f878d86db6c6165cdc2faca26300c32",
+        "bytes": 2096696
+      }
+    },
+    "source": {
+      "filename": "Facherlass_2027_Stand_09.09.2025(1).pdf",
+      "pages": "119–123",
+      "sha256": "81538881620cc509a826d6a7d694a3667cdf0866ebcf3f0a3f5c9bae153bf281",
+      "bytes": 5313206
+    }
+  },
+  {
     "id": "PV-BG-2023",
     "year": 2023,
     "system": "BG",
