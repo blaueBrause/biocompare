@@ -1,33 +1,12 @@
-# ROADMAP.md
+# Roadmap
 
-## Phase 1 – Repository sichern
-- Projektkontext
-- Entscheidungen
-- Quellen
-- offene Fragen
-- Erkenntnisse
+Erledigt:
+- Einstieg, Quellenstrategie, Quellenmetadaten
+- Kompetenz- und Prüfungsdaten
+- Themen, Befunde, offene Fragen
+- statische HTML-Anwendung
 
-## Phase 2 – Datenbank ausbauen
-- Quellen detailreich
-- Themenmatrix
-- Kompetenzmatrix
-- Prüfungsdatenbank
-
-## Phase 3 – HTML-Anwendung
-- Startseite
-- Entscheidungssicht
-- Themenvergleich
-- Prüfungsvergleich
-- Quellenbrowser
-- Glossar
-
-## Phase 4 – Qualitätssicherung
-- Keine Gesundheit-und-Biologie-Handreichung
-- Belegstatus prüfen
-- Sprache vereinheitlichen
-- Offene Punkte markieren
-
-## Phase 5 – Erweiterung
-- weitere amtliche BG-Prüfungen, falls verfügbar
-- schulspezifische Angaben
-- Ergänzungsfach-Angebote
+Nächste Schritte:
+- grobe Fundstellen durch Seiten-/BPE-/Unterpunkte ersetzen
+- amtliche BG-Prüfungen ergänzen
+- Zielschule zu Sondergebieten und Prüfungsoptionen befragen
