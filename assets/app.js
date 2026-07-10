@@ -4,6 +4,7 @@ const DATA_PATHS = {
   sources: 'data/quellen.json',
   topics: 'data/themen.json',
   competencies: 'data/kompetenzen.json',
+  supplementary: 'data/sondergebiete.json',
   exams: 'data/pruefungen.json',
   findings: 'data/befunde.json',
   questions: 'data/offene_fragen.json',
@@ -15,6 +16,7 @@ const VIEW_TITLES = {
   findings: 'Befunde',
   competencies: 'Kompetenzen',
   topics: 'Themen',
+  supplementary: 'Zusatzfach',
   exams: 'Prüfungen',
   sources: 'Quellen',
   questions: 'Offene Fragen',
@@ -51,17 +53,23 @@ const statusBadge = value => {
 
 const sourceById = id => state.data.sourceMap.get(id);
 
+const sourceLink = source => {
+  if (!source) return '';
+  const href = source.file || source.original_url;
+  if (!href) return escapeHtml(source.title || source.id);
+  return `<a href="${escapeHtml(encodeURI(href))}" target="_blank" rel="noopener">${escapeHtml(source.title || source.id)}</a>`;
+};
+
 const evidenceList = evidence => {
   if (!Array.isArray(evidence) || evidence.length === 0) {
     return '<p class="muted">Keine Fundstelle hinterlegt.</p>';
   }
   return `<ul class="evidence-list">${evidence.map(item => {
-    const source = sourceById(item.source);
-    const label = source?.title || item.source;
-    const link = source?.file
-      ? `<a href="${encodeURI(source.file)}" target="_blank" rel="noopener">${escapeHtml(label)}</a>`
-      : escapeHtml(label);
-    return `<li><span class="source-id">${escapeHtml(item.source)}</span> · ${link}<br><span class="muted">${escapeHtml(item.location || 'Fundstelle nicht präzisiert')}</span></li>`;
+    const source = sourceById(item.source || item.source_id);
+    const sourceId = item.source || item.source_id || '?';
+    const label = source ? sourceLink(source) : escapeHtml(sourceId);
+    const location = item.location || item.fundstelle || 'Fundstelle nicht präzisiert';
+    return `<li><span class="source-id">${escapeHtml(sourceId)}</span> · ${label}<br><span class="muted">${escapeHtml(location)}</span></li>`;
   }).join('')}</ul>`;
 };
 
@@ -72,7 +80,7 @@ async function loadProjectData() {
     return [key, key === 'glossary' ? await response.text() : await response.json()];
   }));
   const data = Object.fromEntries(entries);
-  data.sourceMap = new Map(data.sources.map(source => [source.id, source]));
+  data.sourceMap = new Map(data.sources.map(source => [source.id || source.source_id, source]));
   return data;
 }
 
@@ -80,19 +88,31 @@ function metric(label, value) {
   return `<article class="metric"><strong>${escapeHtml(value)}</strong><span>${escapeHtml(label)}</span></article>`;
 }
 
+function renderFindingCard(item) {
+  return `<article class="card">
+    <div class="card-header">
+      <div><span class="muted">${escapeHtml(item.id || item.finding_id)}</span><h3>${escapeHtml(item.claim || item.aussage)}</h3></div>
+      ${statusBadge(item.status)}
+    </div>
+    ${item.begruendung ? `<p>${escapeHtml(item.begruendung)}</p>` : ''}
+    ${evidenceList(item.evidence || item.fundstellen)}
+  </article>`;
+}
+
 function renderDashboard() {
-  const { findings, competencies, sources, questions } = state.data;
+  const { findings, competencies, sources, questions, supplementary } = state.data;
   const counts = findings.reduce((acc, item) => {
     const key = normalizeStatus(item.status);
     acc[key] = (acc[key] || 0) + 1;
     return acc;
   }, {});
+  const hardy = supplementary.find(item => item.kind === 'comparison');
 
   return `
     <section class="hero">
       <span class="badge">Quellenbasierter Zwischenstand</span>
       <h2>Ist SGG Soziales fachlich ein Nachteil gegenüber dem Biologie-Leistungsfach?</h2>
-      <p>Das Projekt stellt vorhandene Befunde, Kompetenzen, Prüfungsdaten und offene Fragen transparent nebeneinander. Eine abschließende Gesamtantwort wird nicht vorgetäuscht.</p>
+      <p>Das Projekt stellt vorhandene Befunde, Kompetenzen, Prüfungsdaten, das optionale Zusatzfach und offene Fragen transparent nebeneinander. Eine abschließende Gesamtantwort wird nicht vorgetäuscht.</p>
       <div class="hero-meta">
         ${statusBadge('BELEGT')}
         ${statusBadge('TEILWEISE BELEGT')}
@@ -118,28 +138,16 @@ function renderDashboard() {
       </section>
 
       <section class="panel">
-        <h2>Methodische Grenzen</h2>
-        <p>Optionale Sondergebiete werden nicht dem Pflichtcurriculum zugerechnet. Nicht gefundene Inhalte gelten nicht automatisch als fehlend.</p>
-        <p>Die Prüfungsansicht zeigt das vorhandene Korpus. Eine symmetrische BG-Vergleichsbasis ist weiterhin als offene Frage dokumentiert.</p>
+        <h2>Optionale BG-Erweiterung</h2>
+        <p><strong>Sondergebiete der Biowissenschaften</strong> besitzt einen eigenen amtlichen Fachplan, ist aber nicht dem regulären BG-Pflichtcurriculum zuzurechnen.</p>
+        ${hardy ? `<p>${escapeHtml(hardy.statement)}</p>${evidenceList(hardy.evidence)}` : ''}
+        <p class="muted">Ob die konkrete Zielschule das Fach anbietet, bleibt offen.</p>
       </section>
     </div>
 
     <div class="section-heading"><div><h2>Aktuelle Befunde</h2><p>Direkt mit den hinterlegten Fundstellen</p></div></div>
-    <section class="grid">
-      ${findings.map(renderFindingCard).join('')}
-    </section>
+    <section class="grid">${findings.map(renderFindingCard).join('')}</section>
   `;
-}
-
-function renderFindingCard(item) {
-  return `<article class="card">
-    <div class="card-header">
-      <div><span class="muted">${escapeHtml(item.id)}</span><h3>${escapeHtml(item.claim || item.aussage)}</h3></div>
-      ${statusBadge(item.status)}
-    </div>
-    ${item.begruendung ? `<p>${escapeHtml(item.begruendung)}</p>` : ''}
-    ${evidenceList(item.evidence || item.fundstellen)}
-  </article>`;
 }
 
 function renderFindings() {
@@ -148,7 +156,7 @@ function renderFindings() {
   return `
     <div class="controls">
       <div class="control"><label for="finding-status">Belegstatus</label><select id="finding-status">
-        ${['ALLE','BELEGT','TEILWEISE BELEGT','OFFEN'].map(value => `<option ${selected === value ? 'selected' : ''}>${value}</option>`).join('')}
+        ${['ALLE', 'BELEGT', 'TEILWEISE BELEGT', 'OFFEN'].map(value => `<option ${selected === value ? 'selected' : ''}>${value}</option>`).join('')}
       </select></div>
     </div>
     <section class="stack">${items.length ? items.map(renderFindingCard).join('') : '<div class="empty">Keine Befunde für diesen Filter.</div>'}</section>
@@ -165,13 +173,13 @@ function renderCompetencies() {
   );
 
   return `
-    <div class="notice"><strong>Vergleichsmaßstab: Kompetenzen</strong>Die Themen dienen der Navigation. Entscheidend ist, was Lernende in den drei Varianten können sollen.</div>
+    <div class="notice"><strong>Vergleichsmaßstab: Kompetenzen</strong>Die Tabelle vergleicht das reguläre Fachangebot. Optionale Inhalte des Zusatzfaches werden bewusst in einer eigenen Ansicht geführt.</div>
     <div class="controls">
       <div class="control"><label for="competency-query">Suche</label><input id="competency-query" type="search" value="${escapeHtml(state.filters.competencyQuery || '')}" placeholder="Kompetenz oder Thema"></div>
       <div class="control"><label for="competency-topic">Thema</label><select id="competency-topic"><option>ALLE</option>${topics.map(value => `<option ${topic === value ? 'selected' : ''}>${escapeHtml(value)}</option>`).join('')}</select></div>
     </div>
     <div class="table-wrap"><table>
-      <thead><tr><th>Kompetenz</th><th>Basisfach</th><th>Leistungsfach</th><th>BG</th><th>Status</th></tr></thead>
+      <thead><tr><th>Kompetenz</th><th>Basisfach</th><th>Leistungsfach</th><th>reguläres BG</th><th>Status</th></tr></thead>
       <tbody>${items.map(item => `<tr>
         <td><strong>${escapeHtml(item.competency)}</strong><br><span class="muted">${escapeHtml(item.topic)} · ${escapeHtml(item.id)}</span>${evidenceList(item.evidence)}</td>
         <td>${escapeHtml(item.basisfach || item.ag_basisfach)}</td>
@@ -184,9 +192,9 @@ function renderCompetencies() {
 }
 
 function renderTopics() {
-  return `<div class="notice"><strong>Orientierung, keine Rangliste</strong>Die Themenübersicht zeigt nur die dokumentierte Zuordnung. Fachliche Tiefe wird in der Kompetenzansicht geprüft.</div>
+  return `<div class="notice"><strong>Orientierung, keine Rangliste</strong>Die Themenübersicht beschreibt das reguläre Fach. Das optionale Zusatzfach wird getrennt dargestellt.</div>
     <div class="table-wrap"><table>
-      <thead><tr><th>Thema</th><th>Basisfach</th><th>Leistungsfach</th><th>BG</th><th>Status</th></tr></thead>
+      <thead><tr><th>Thema</th><th>Basisfach</th><th>Leistungsfach</th><th>reguläres BG</th><th>Status</th></tr></thead>
       <tbody>${state.data.topics.map(item => `<tr>
         <td><strong>${escapeHtml(item.topic)}</strong><br><span class="muted">${escapeHtml(item.id)}</span>${evidenceList(item.evidence)}</td>
         <td>${escapeHtml(item.basisfach || item.ag)}</td>
@@ -197,6 +205,39 @@ function renderTopics() {
     </table></div>`;
 }
 
+function renderSupplementary() {
+  const items = state.data.supplementary;
+  const overview = items.find(item => item.kind === 'overview');
+  const themes = items.find(item => item.kind === 'themes');
+  const methods = items.find(item => item.kind === 'methods');
+  const comparison = items.find(item => item.kind === 'comparison');
+  const availability = items.find(item => item.kind === 'availability');
+
+  return `
+    <div class="notice warning"><strong>Optional und schulabhängig</strong>„Sondergebiete der Biowissenschaften“ ist eine eigenständige BG-Erweiterung. Die Inhalte dürfen nicht so dargestellt werden, als gehörten sie automatisch zum regulären Biologieunterricht des SGG Soziales.</div>
+
+    <section class="grid">
+      ${overview ? `<article class="card"><div class="card-header"><div><span class="muted">${escapeHtml(overview.id)}</span><h3>${escapeHtml(overview.title)}</h3></div>${statusBadge(overview.status)}</div><p>${escapeHtml(overview.statement)}</p>${evidenceList(overview.evidence)}</article>` : ''}
+      ${themes ? `<article class="card"><div class="card-header"><div><span class="muted">${escapeHtml(themes.id)}</span><h3>${escapeHtml(themes.title)}</h3></div>${statusBadge(themes.status)}</div><p>${escapeHtml(themes.statement)}</p><div class="chip-list">${(themes.items || []).map(value => `<span class="tag">${escapeHtml(value)}</span>`).join('')}</div>${evidenceList(themes.evidence)}</article>` : ''}
+      ${methods ? `<article class="card"><div class="card-header"><div><span class="muted">${escapeHtml(methods.id)}</span><h3>${escapeHtml(methods.title)}</h3></div>${statusBadge(methods.status)}</div><p>${escapeHtml(methods.statement)}</p>${evidenceList(methods.evidence)}</article>` : ''}
+      ${availability ? `<article class="card"><div class="card-header"><div><span class="muted">${escapeHtml(availability.id)}</span><h3>${escapeHtml(availability.title)}</h3></div>${statusBadge(availability.status)}</div><p>${escapeHtml(availability.statement)}</p>${evidenceList(availability.evidence)}</article>` : ''}
+    </section>
+
+    ${comparison ? `<section class="panel">
+      <div class="section-heading"><div><h2>${escapeHtml(comparison.title)}</h2><p>${escapeHtml(comparison.statement)}</p></div>${statusBadge(comparison.status)}</div>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Variante</th><th>Dokumentierter Stand</th></tr></thead>
+        <tbody>
+          <tr><td><strong>reguläres BG-Biologie</strong></td><td>${escapeHtml(comparison.regular_bg)}</td></tr>
+          <tr><td><strong>BG-Zusatzfach</strong></td><td>${escapeHtml(comparison.supplement)}</td></tr>
+          <tr><td><strong>AG-Leistungsfach</strong></td><td>${escapeHtml(comparison.ag_lf)}</td></tr>
+        </tbody>
+      </table></div>
+      ${evidenceList(comparison.evidence)}
+    </section>` : ''}
+  `;
+}
+
 function renderExams() {
   return `
     <div class="notice warning"><strong>Quellenlage beachten</strong>Das vorhandene Korpus enthält derzeit IQB-Aufgaben. Ein vergleichbares öffentliches BG-Korpus ist weiterhin als offene Frage zu prüfen.</div>
@@ -204,7 +245,7 @@ function renderExams() {
       const source = sourceById(item.source);
       return `<article class="card">
         <div class="card-header"><div><span class="muted">${escapeHtml(item.id)} · ${escapeHtml(item.level)}</span><h3>${escapeHtml(item.title)}</h3></div><span class="badge">${escapeHtml(item.be)} BE</span></div>
-        <p class="muted">Quelle: ${escapeHtml(source?.title || item.source)}</p>
+        <p class="muted">Quelle: ${source ? sourceLink(source) : escapeHtml(item.source)}</p>
         <div class="afb">
           <div><strong>${escapeHtml(item.afb?.I ?? '–')}</strong><span>AFB I</span></div>
           <div><strong>${escapeHtml(item.afb?.II ?? '–')}</strong><span>AFB II</span></div>
@@ -237,7 +278,7 @@ function renderSources() {
         <td><strong>${escapeHtml(item.title)}</strong><br><span class="muted">${escapeHtml(item.id)} · ${escapeHtml(item.publisher || '')}</span></td>
         <td>${escapeHtml(item.type)}<br><span class="muted">${escapeHtml(item.scope || '')}</span></td>
         <td><span class="muted">SHA-256</span><br><code title="${escapeHtml(item.sha256 || '')}">${escapeHtml((item.sha256 || '').slice(0, 14))}${item.sha256 ? '…' : '–'}</code><br><span class="muted">${escapeHtml(item.license_status || '')}</span></td>
-        <td>${item.file ? `<a href="${encodeURI(item.file)}" target="_blank" rel="noopener">Repository-Datei</a><br>` : ''}${item.original_url ? `<a href="${escapeHtml(item.original_url)}" target="_blank" rel="noopener">Originalquelle</a>` : ''}</td>
+        <td>${item.file ? `<a href="${escapeHtml(encodeURI(item.file))}" target="_blank" rel="noopener">Repository-Datei</a><br>` : ''}${item.original_url ? `<a href="${escapeHtml(item.original_url)}" target="_blank" rel="noopener">Originalquelle</a>` : ''}</td>
       </tr>`).join('')}</tbody>
     </table></div>`;
 }
@@ -279,6 +320,7 @@ function renderCurrentView() {
     findings: renderFindings,
     competencies: renderCompetencies,
     topics: renderTopics,
+    supplementary: renderSupplementary,
     exams: renderExams,
     sources: renderSources,
     questions: renderQuestions,
