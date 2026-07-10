@@ -8,6 +8,7 @@ on:
       - 'tools/validate_data.py'
       - 'tools/validate_competencies.py'
       - 'tools/validate_exam_rules.py'
+      - 'tools/validate_ag_2022.py'
       - '.github/workflows/validate-data.yml'
   pull_request:
     paths:
@@ -16,6 +17,7 @@ on:
       - 'tools/validate_data.py'
       - 'tools/validate_competencies.py'
       - 'tools/validate_exam_rules.py'
+      - 'tools/validate_ag_2022.py'
       - '.github/workflows/validate-data.yml'
 
 permissions:
@@ -37,3 +39,5 @@ jobs:
         run: python tools/validate_competencies.py
       - name: Prüfungsvorgaben 2023–2027 validieren
         run: python tools/validate_exam_rules.py
+      - name: Überarbeiteten AG-Bildungsplan 2022 validieren
+        run: python tools/validate_ag_2022.py
