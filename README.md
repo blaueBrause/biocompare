@@ -28,18 +28,21 @@ Vor einem Commit mit fachlichen Änderungen:
 
 ```bash
 python tools/validate_data.py
+python tools/validate_competencies.py
 ```
 
-Der Validator prüft insbesondere:
+Die Validatoren prüfen insbesondere:
 
 - gültige JSON-Syntax,
 - fehlende und doppelte IDs,
 - tote Quellen- und Dateiverweise,
 - `BELEGT`-Einträge ohne Quelle und Fundstelle,
+- für jede Kompetenz getrennte Belege zu Basisfach, Leistungsfach und regulärem BG,
+- seitengenaue Fundstellen, bevor eine Kompetenzzelle `BELEGT` heißen darf,
 - die vollständige Trennung und Belegung des optionalen Zusatzfachs,
 - widersprüchliche Summen der Anforderungsbereiche bei Prüfungsaufgaben.
 
-GitHub Actions führt diese Prüfung bei Änderungen an `data/`, `sources/` oder dem Validator automatisch aus.
+GitHub Actions führt beide Prüfungen bei Änderungen an `data/`, `sources/` oder den Validatoren automatisch aus.
 
 ## Fachliche Daten
 
@@ -52,3 +55,5 @@ GitHub Actions führt diese Prüfung bei Änderungen an `data/`, `sources/` oder
 - `data/offene_fragen.json`
 
 `data/befunde.json` ist die kanonische Erkenntnisdatei. Das HTML enthält keine eigene Kopie der fachlichen Daten.
+
+In `data/kompetenzen.json` besitzt jede Schulvariante eine eigene Bewertung, einen eigenen Belegstatus und eigene Fundstellen. Eine Quelle darf nicht automatisch mehrere Varianten belegen.
