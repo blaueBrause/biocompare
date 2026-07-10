@@ -136,8 +136,21 @@
     "id": "F-006",
     "category": "zusatzfach",
     "status": "BELEGT",
-    "claim": "Sondergebiete der Biowissenschaften ist eine optionale, schulabhängige BG-Erweiterung und gehört nicht automatisch zum regulären BG-Pflichtfach.",
-    "interpretation": "Inhalte des Zusatzfachs dürfen nur dann in eine konkrete Schulwahl einbezogen werden, wenn die Zielschule das Fach und die relevanten Module tatsächlich anbietet.",
+    "claim": "Das optionale Zusatzfach ist in elf der zwanzig untersuchten Kompetenzbereiche BPE-genau belegt und in sechs weiteren teilweise belegt.",
+    "interpretation": "Das Zusatzfach kann bei tatsächlichem Schulangebot deutlich mehr als Hardy-Weinberg ergänzen: belegt sind unter anderem Zellstoffwechsel, Neurobiologie, Immunbiologie, Evolution und Populationsgenetik, Ökologie und Umwelttoxikologie, Reproduktionsmedizin sowie wissenschaftliches Arbeiten. Die konkrete Wirkung auf die Schulwahl hängt davon ab, welche Module die Zielschule tatsächlich anbietet.",
+    "competency_ids": [
+      "K-001",
+      "K-003",
+      "K-004",
+      "K-007",
+      "K-009",
+      "K-010",
+      "K-011",
+      "K-012",
+      "K-015",
+      "K-017",
+      "K-019"
+    ],
     "supplementary_ids": [
       "SG-001",
       "SG-002",
@@ -148,7 +161,11 @@
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Einordnung des Fachplans, S. 4"
+        "location": "BPE 1–3, S. 11–15"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 4–9, S. 16–35"
       }
     ]
   },
