@@ -15,6 +15,7 @@ FILES = {
     "sources": ("quellen.json", ("id", "source_id")),
     "topics": ("themen.json", ("id", "topic_id")),
     "competencies": ("kompetenzen.json", ("id", "competence_id")),
+    "supplementary_competencies": ("kompetenzen_zusatzfach.json", ("id", "competence_id")),
     "supplementary": ("sondergebiete.json", ("id", "supplement_id")),
     "exams": ("pruefungen.json", ("id", "exam_id")),
     "findings": ("befunde.json", ("id", "finding_id")),
@@ -104,7 +105,13 @@ def validate() -> tuple[list[str], list[str]]:
         if not source.get("original_url") and not repo_file:
             warnings.append(f"QUELLE OHNE ZUGRIFF: {source_id} hat weder Datei noch Original-URL")
 
-    evidence_datasets = ("topics", "competencies", "supplementary", "findings")
+    evidence_datasets = (
+        "topics",
+        "competencies",
+        "supplementary_competencies",
+        "supplementary",
+        "findings",
+    )
     for dataset_name in evidence_datasets:
         filename, id_keys = FILES[dataset_name]
         for item in datasets[dataset_name]:
