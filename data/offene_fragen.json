@@ -1,27 +1,7 @@
 [
-  {
-    "id": "O-001",
-    "priority": "hoch",
-    "question": "Welche Sondergebiete-Module bietet die Zielschule an?"
-  },
-  {
-    "id": "O-002",
-    "priority": "hoch",
-    "question": "Wird Biologie am SGG Soziales als mündliches Prüfungsfach eingerichtet?"
-  },
-  {
-    "id": "O-003",
-    "priority": "mittel",
-    "question": "Welche Labor-, Projekt- oder Kooperationsangebote gibt es?"
-  },
-  {
-    "id": "O-004",
-    "priority": "hoch",
-    "question": "Gibt es amtliche BG-Biologie-Musterprüfungen mit Erwartungshorizont?"
-  },
-  {
-    "id": "O-005",
-    "priority": "mittel",
-    "question": "Welche Wochenstundenzahl gibt es in J1/J2 konkret?"
-  }
+  {"id":"O-001","priority":"hoch","question":"Welche Sondergebiete-Module bietet die Zielschule an?"},
+  {"id":"O-002","priority":"hoch","question":"Wird Biologie am SGG Soziales als mündliches Prüfungsfach eingerichtet?"},
+  {"id":"O-003","priority":"mittel","question":"Welche Labor-, Projekt- oder Kooperationsangebote gibt es?"},
+  {"id":"O-004","priority":"hoch","question":"Gibt es amtliche BG-Biologie-Musterprüfungen mit Erwartungshorizont?"},
+  {"id":"O-005","priority":"mittel","question":"Wie viele Wochenstunden Biologie gibt es in J1/J2?"}
 ]
