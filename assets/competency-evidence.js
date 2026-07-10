@@ -3,7 +3,8 @@
 const COMPETENCY_VARIANT_LABELS = {
   ag_basisfach: 'AG Basisfach',
   ag_leistungsfach: 'AG Leistungsfach',
-  bg_regulaer: 'reguläres BG'
+  bg_regulaer: 'reguläres BG',
+  bg_zusatzfach: 'BG Zusatzfach (optional)'
 };
 
 const COMPETENCY_FEATURES = {
@@ -29,6 +30,53 @@ const COMPETENCY_FEATURES = {
   }
 };
 
+let supplementaryCompetencyMap = new Map();
+let supplementaryCompetenciesLoaded = false;
+let supplementaryCompetenciesError = null;
+
+fetch('data/kompetenzen_zusatzfach.json')
+  .then(response => {
+    if (!response.ok) throw new Error(`data/kompetenzen_zusatzfach.json: HTTP ${response.status}`);
+    return response.json();
+  })
+  .then(items => {
+    supplementaryCompetencyMap = new Map(items.map(item => [item.id, item]));
+    supplementaryCompetenciesLoaded = true;
+    if (state.data) state.data.supplementaryCompetencies = items;
+    if (state.data && state.view === 'competencies') renderCurrentView();
+  })
+  .catch(error => {
+    console.error(error);
+    supplementaryCompetenciesError = error;
+    supplementaryCompetenciesLoaded = true;
+    if (state.data && state.view === 'competencies') renderCurrentView();
+  });
+
+function competencyVariant(item, variantKey) {
+  if (variantKey === 'bg_zusatzfach') {
+    if (!supplementaryCompetenciesLoaded) {
+      return {
+        assessment: 'Zusatzfachdaten werden geladen …',
+        status: 'OFFEN',
+        evidence: []
+      };
+    }
+    if (supplementaryCompetenciesError) {
+      return {
+        assessment: 'Die Zusatzfachdaten konnten nicht geladen werden.',
+        status: 'OFFEN',
+        evidence: []
+      };
+    }
+    return supplementaryCompetencyMap.get(item.id) || {
+      assessment: 'Für diese Kompetenz ist noch kein Zusatzfacheintrag vorhanden.',
+      status: 'OFFEN',
+      evidence: []
+    };
+  }
+  return item.variants?.[variantKey];
+}
+
 function competencyCoverage(items, variantKey) {
   const counts = {
     BELEGT: 0,
@@ -37,7 +85,7 @@ function competencyCoverage(items, variantKey) {
   };
 
   for (const item of items) {
-    const status = normalizeStatus(item.variants?.[variantKey]?.status);
+    const status = normalizeStatus(competencyVariant(item, variantKey)?.status);
     counts[status] += 1;
   }
   return counts;
@@ -47,8 +95,10 @@ function renderCoverageSummary(items) {
   return `<section class="coverage-grid" aria-label="Beleglage nach Schulvariante">
     ${Object.entries(COMPETENCY_VARIANT_LABELS).map(([key, label]) => {
       const counts = competencyCoverage(items, key);
-      return `<article class="coverage-card">
+      const optional = key === 'bg_zusatzfach';
+      return `<article class="coverage-card" ${optional ? 'data-optional="true"' : ''}>
         <strong>${escapeHtml(label)}</strong>
+        ${optional ? '<small>nur bei tatsächlichem Schulangebot</small>' : ''}
         <span>${counts.BELEGT} belegt</span>
         <span>${counts['TEILWEISE BELEGT']} teilweise belegt</span>
         <span>${counts.OFFEN} offen</span>
@@ -89,10 +139,14 @@ function renderCompetencyVariant(variantKey, variant) {
     evidence: []
   };
   const status = normalizeStatus(data.status);
+  const optional = variantKey === 'bg_zusatzfach';
 
-  return `<section class="variant-card" data-status="${status}">
+  return `<section class="variant-card" data-status="${status}" ${optional ? 'data-optional="true"' : ''}>
     <div class="variant-header">
-      <h4>${escapeHtml(COMPETENCY_VARIANT_LABELS[variantKey] || variantKey)}</h4>
+      <div>
+        <h4>${escapeHtml(COMPETENCY_VARIANT_LABELS[variantKey] || variantKey)}</h4>
+        ${optional ? '<span class="optional-label">schulabhängig</span>' : ''}
+      </div>
       ${statusBadge(status)}
     </div>
     <p>${escapeHtml(data.assessment || 'Keine Bewertung hinterlegt.')}</p>
@@ -102,10 +156,6 @@ function renderCompetencyVariant(variantKey, variant) {
 }
 
 function renderCompetencyEvidenceCard(item) {
-  const related = Array.isArray(item.related_supplementary) && item.related_supplementary.length
-    ? `<p class="related-note"><strong>Getrennte optionale Ergänzung:</strong> ${item.related_supplementary.map(escapeHtml).join(', ')} – siehe Ansicht „Zusatzfach“.</p>`
-    : '';
-
   return `<article class="card competency-card">
     <div class="card-header">
       <div>
@@ -113,10 +163,9 @@ function renderCompetencyEvidenceCard(item) {
         <h3>${escapeHtml(item.competency)}</h3>
       </div>
     </div>
-    ${related}
     <div class="variant-grid">
       ${Object.keys(COMPETENCY_VARIANT_LABELS)
-        .map(key => renderCompetencyVariant(key, item.variants?.[key]))
+        .map(key => renderCompetencyVariant(key, competencyVariant(item, key)))
         .join('')}
     </div>
   </article>`;
@@ -133,10 +182,9 @@ renderCompetencies = function renderCompetenciesWithSeparateEvidence() {
 
   return `
     <div class="notice">
-      <strong>Zellenweise Beleglogik statt Rangliste</strong>
-      Basisfach, Leistungsfach und reguläres BG besitzen jeweils eigene Bewertungen und Fundstellen.
-      Merkmale wie Experiment oder Bewertung werden nur angezeigt, wenn sie in der belegten Fundstelle
-      ausdrücklich dokumentiert sind. Es wird daraus kein Punktwert berechnet.
+      <strong>Vier getrennte Vergleichsspalten</strong>
+      Basisfach, Leistungsfach, reguläres BG und das optionale BG-Zusatzfach besitzen jeweils eigene Bewertungen und Fundstellen.
+      Das Zusatzfach wird nur als mögliche Erweiterung dargestellt und darf nicht dem regulären BG-Pflichtumfang zugerechnet werden.
     </div>
     ${renderCoverageSummary(state.data.competencies)}
     ${renderFeatureLegend()}
