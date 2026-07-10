@@ -40,10 +40,12 @@ def validate() -> tuple[list[str], list[str]]:
     try:
         sources = load_list("quellen.json")
         competencies = load_list("kompetenzen.json")
+        supplementary = load_list("sondergebiete.json")
     except ValueError as exc:
         return [str(exc)], []
 
     source_ids = {str(item.get("id") or item.get("source_id")) for item in sources}
+    supplementary_ids = {str(item.get("id") or item.get("supplement_id")) for item in supplementary}
     competence_ids: set[str] = set()
 
     for item in competencies:
@@ -58,6 +60,14 @@ def validate() -> tuple[list[str], list[str]]:
         legacy = [field for field in LEGACY_FIELDS if field in item]
         if legacy:
             errors.append(f"ALTES SCHEMA: {competence_id} enthält {', '.join(legacy)}")
+
+        related = item.get("related_supplementary", [])
+        if not isinstance(related, list):
+            errors.append(f"FALSCHE ZUSATZFACH-REFERENZ: {competence_id}")
+        else:
+            for supplement_id in related:
+                if str(supplement_id) not in supplementary_ids:
+                    errors.append(f"TOTE ZUSATZFACH-ID: {competence_id} verweist auf {supplement_id}")
 
         variants = item.get("variants")
         if not isinstance(variants, dict):
@@ -104,6 +114,8 @@ def validate() -> tuple[list[str], list[str]]:
                     errors.append(f"BELEGT OHNE FUNDSTELLE: {label}")
                 elif not any(precise_page(entry.get("location") or entry.get("fundstelle")) for entry in valid_evidence):
                     errors.append(f"BELEGT OHNE SEITENGENAUE FUNDSTELLE: {label}")
+            elif status == "TEILWEISE BELEGT" and not valid_evidence:
+                errors.append(f"TEILWEISE BELEGT OHNE FUNDSTELLE: {label}")
             elif status == "OFFEN" and valid_evidence:
                 warnings.append(f"OFFEN MIT FUNDSTELLE: {label}; Status prüfen")
 
