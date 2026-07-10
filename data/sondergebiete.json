@@ -1,0 +1,81 @@
+[
+  {
+    "id": "SG-001",
+    "kind": "overview",
+    "title": "Eigenständiges optionales BG-Fach",
+    "statement": "Der Fachplan Sondergebiete der Biowissenschaften gilt für AG, BTG, EG und SGG in der Eingangsklasse sowie in den Jahrgangsstufen 1 und 2. Ob und in welchem Umfang eine Schule das Fach anbietet, ist schulabhängig.",
+    "status": "BELEGT",
+    "required": false,
+    "school_dependent": true,
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Einordnung des Fachplans, S. 4"
+      }
+    ]
+  },
+  {
+    "id": "SG-002",
+    "kind": "themes",
+    "title": "Dokumentierte Themenkomplexe",
+    "statement": "Der Fachplan bündelt vertiefende und gesellschaftsrelevante biologische Fragestellungen in vier Themenkomplexen.",
+    "items": [
+      "Ökologie, Stoffwechsel und Umwelttoxikologie",
+      "Entwicklungsbiologie, Evolution und Reproduktionsmedizin",
+      "Neurobiologische Grundlagen von Lernen und Verhalten",
+      "Infektions- und Immunbiologie"
+    ],
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "SG-003",
+    "kind": "methods",
+    "title": "Experimentelle und modellgestützte Fachmethodik",
+    "statement": "Der Fachplan beschreibt die zunehmend selbstständige Planung, Durchführung und Auswertung von Experimenten sowie den Einsatz von Modellorganismen, Zell- oder Gewebekulturen und biologischen Modellen.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Prozessbezogene Kompetenzen, S. 7"
+      }
+    ]
+  },
+  {
+    "id": "SG-004",
+    "kind": "comparison",
+    "title": "Hardy-Weinberg-Gesetz",
+    "statement": "Hardy-Weinberg ist im Zusatzfach ausdrücklich enthalten und kann damit einen Unterschied zwischen regulärem BG-Biologieunterricht und einem BG mit diesem Zusatzangebot ausgleichen.",
+    "regular_bg": "Populationsgenetik, Genpool sowie Veränderungen von Genotyp- und Allelhäufigkeiten sind enthalten; das Hardy-Weinberg-Gesetz wird im regulären Fachplan nicht ausdrücklich genannt.",
+    "supplement": "BPE 6.4 verlangt ausdrücklich Berechnungen mit dem Hardy-Weinberg-Gesetz sowie die Beurteilung seiner Bedingungen, Aussagekraft und Grenzen.",
+    "ag_lf": "Die Jahresplanung des Biologie-Leistungsfachs nennt Hardy-Weinberg ausdrücklich bei der Konstanz von Allelfrequenzen in idealen Populationen.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-002",
+        "location": "BPE 5.2, S. 15"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 6.4, S. 26"
+      },
+      {
+        "source": "SRC-004",
+        "location": "Jahresplanung Leistungsfach, S. 10"
+      }
+    ]
+  },
+  {
+    "id": "SG-005",
+    "kind": "availability",
+    "title": "Konkretes Angebot der Zielschule",
+    "statement": "Noch offen ist, ob die konkrete Zielschule Sondergebiete der Biowissenschaften anbietet und welche Module dort tatsächlich gewählt werden.",
+    "status": "OFFEN",
+    "evidence": []
+  }
+]
