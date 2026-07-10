@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-07-10 – Zusatzfach vollständig auf BPE-Ebene ausgewertet
+- Alle 20 Kompetenzfragen gegen den Fachplan `SRC-003` geprüft.
+- Zusatzfachspalte von 2 belegten und 8 teilweise belegten Zellen auf 11 belegte, 6 teilweise belegte und 3 offene Zellen präzisiert.
+- Zellatmung, Fotosynthese, Neurobiologie, Immunbiologie, Evolution, Ökologie und Umwelttoxikologie, Reproduktionsmedizin, phylogenetische Analysen sowie wissenschaftliches Arbeiten BPE-genau belegt.
+- Teilbelege für DNA/Genaktivität, PCR ohne Gelelektrophorese, hormonelle Regulation, Genregulation/Epigenetik, Bewertung genetischer Diagnostik und Membrantransport präzisiert.
+- Offene Zellen auf Enzymatik, Gentherapie/CRISPR-Cas und Antibiotikawirkung/Resistenzmechanismen reduziert.
+- `docs/AUSWERTUNG_SONDERGEBIETE.md` als Audit-Dokument mit Statusbegründung und BPE-Zuordnung ergänzt.
+- Kanonischen Zusatzfachbefund in `data/befunde.json` an den neuen Belegstand angepasst.
+
 ## 2026-07-10 – Zusatzfach als vierte Kompetenzspalte
 - `data/kompetenzen_zusatzfach.json` mit genau einem optionalen Zusatzfacheintrag je Kompetenz ergänzt.
 - Kompetenzübersicht auf vier getrennte Spalten erweitert: AG Basisfach, AG Leistungsfach, reguläres BG und BG Zusatzfach (optional).
