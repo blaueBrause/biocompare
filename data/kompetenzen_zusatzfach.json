@@ -1,98 +1,164 @@
 [
   {
     "id": "K-001",
-    "assessment": "Für Zellstruktur und Kompartimentierung ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
+    "assessment": "Zellstruktur und Zellfunktion werden an mikroskopisch untersuchten Zellen erarbeitet; Kompartimentierung ist als biologisches Prinzip der Eingangsklasse ausdrücklich genannt.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Inhaltsbezogene Kompetenzen, S. 6"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 2.1, S. 13"
+      }
+    ],
+    "features": [
+      "experiment"
+    ]
   },
   {
     "id": "K-002",
-    "assessment": "Für Enzymatik ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "assessment": "Für Enzymstruktur, Enzymkinetik oder Enzymhemmung ist im ausgewerteten Zusatzfachplan keine spezifische Bildungsplaneinheit nachgewiesen.",
     "status": "OFFEN",
     "evidence": []
   },
   {
     "id": "K-003",
-    "assessment": "Der Themenkomplex umfasst Stoffwechsel; die konkrete Kompetenz Zellatmung und Dissimilation ist bislang nicht auf BPE-Ebene vollständig ausgewertet.",
-    "status": "TEILWEISE BELEGT",
+    "assessment": "Zellatmung wird als Energieumwandlungsprozess und Komplementärvorgang der Fotosynthese behandelt; Nettogleichung, ATP-Bildung sowie der Zusammenhang von Katabolismus und Energiebedarf sind ausgewiesen.",
+    "status": "BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 2.2 und 2.4, S. 13–14"
       }
+    ],
+    "features": [
+      "modellierung"
     ]
   },
   {
     "id": "K-004",
-    "assessment": "Der Themenkomplex umfasst Stoffwechsel; die konkrete Kompetenz Fotosynthese und Assimilation ist bislang nicht auf BPE-Ebene vollständig ausgewertet.",
-    "status": "TEILWEISE BELEGT",
+    "assessment": "Fotosynthese wird als Energieumwandlungsprozess einschließlich Nettogleichung behandelt; die Rolle von Chlorophyll und Licht wird experimentell untersucht und mit Messdaten ausgewertet.",
+    "status": "BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 2.2–2.3, S. 13–14"
       }
+    ],
+    "features": [
+      "experiment",
+      "datenauswertung",
+      "modellierung"
     ]
   },
   {
     "id": "K-005",
-    "assessment": "Für DNA, Replikation, Transkription und Translation ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
-  },
-  {
-    "id": "K-006",
-    "assessment": "Für PCR und Gelelektrophorese ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
-  },
-  {
-    "id": "K-007",
-    "assessment": "Neurobiologische Grundlagen von Lernen und Verhalten bilden einen eigenen Themenkomplex; die konkrete Kompetenz zu Nervenzelle und Synapse ist noch nicht vollständig auf BPE-Ebene ausgewertet.",
+    "assessment": "DNA-Replikation und Proteinbiosynthese werden im Stoffwechselüberblick genannt; Transkriptions- und Translationsregulation werden in der molekularen Entwicklungsgenetik detailliert behandelt. Die vollständige Grundsystematik von DNA-Struktur, Replikation, Transkription und Translation ist damit nur teilweise abgedeckt.",
     "status": "TEILWEISE BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 2.4, S. 14"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 5.4–5.6, S. 23–24"
       }
+    ],
+    "features": [
+      "modellierung"
+    ]
+  },
+  {
+    "id": "K-006",
+    "assessment": "PCR und DNA-Sequenzierung werden als Methoden der Pränataldiagnostik genannt; Gelelektrophorese ist in der ausgewerteten Fundstelle nicht ausdrücklich enthalten.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 8.3, S. 32"
+      }
+    ]
+  },
+  {
+    "id": "K-007",
+    "assessment": "Aufbau und Funktion von Nervenzellen, Ruhe- und Aktionspotenzial, erregende und hemmende Synapsen, Signaltransduktion sowie synaptische Plastizität werden ausführlich am Modellorganismus Aplysia und an Experimenten behandelt.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 4.1–4.11, S. 16–20"
+      }
+    ],
+    "features": [
+      "experiment",
+      "datenauswertung",
+      "modellierung"
     ]
   },
   {
     "id": "K-008",
-    "assessment": "Für hormonelle Regulation ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
-  },
-  {
-    "id": "K-009",
-    "assessment": "Infektions- und Immunbiologie bildet einen eigenen Themenkomplex; die konkrete Kompetenz zur spezifischen und unspezifischen Immunabwehr ist noch nicht vollständig auf BPE-Ebene ausgewertet.",
+    "assessment": "Weibliche Sexualhormone, Ovarialzyklus und Hormonbehandlung bei ungewollter Kinderlosigkeit sind ausgewiesen; eine allgemeine molekulare Hormonregulation wird damit nur teilweise abgedeckt.",
     "status": "TEILWEISE BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 8.1–8.2, S. 31–32"
       }
+    ]
+  },
+  {
+    "id": "K-009",
+    "assessment": "Angeborene und adaptive Immunantwort, Antigenpräsentation, T- und B-Lymphozyten, Antikörper, Gedächtniszellen sowie primäre und sekundäre Immunantwort sind verbindlich ausgewiesen.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 7.2–7.8, S. 29–31"
+      }
+    ],
+    "features": [
+      "modellierung",
+      "bewertung"
     ]
   },
   {
     "id": "K-010",
-    "assessment": "Evolution bildet einen eigenen Themenkomplex; Selektion, Artbildung und Populationsdaten sind noch nicht vollständig auf BPE-Ebene ausgewertet.",
-    "status": "TEILWEISE BELEGT",
+    "assessment": "Rekombination, Mutation, Selektion, Gendrift, Genpool, Isolationsmechanismen, Artbildung und synthetische Evolutionstheorie sind verbindlich ausgewiesen.",
+    "status": "BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 6.2–6.7, S. 26–27"
       }
+    ],
+    "features": [
+      "modellierung",
+      "bewertung"
     ]
   },
   {
     "id": "K-011",
-    "assessment": "Ökologie und Umwelttoxikologie bilden einen eigenen Themenkomplex; die konkrete Kompetenz zu Ökosystemen, Stoffkreisläufen und Bewertung ist noch nicht vollständig auf BPE-Ebene ausgewertet.",
-    "status": "TEILWEISE BELEGT",
+    "assessment": "Aquatische Ökosysteme, Eutrophierung, Stoffkreisläufe, quantitative Gewässeranalyse, Umweltchemikalien, Bioakkumulation, Abwasserreinigung und ökotoxikologische Bewertung werden verbindlich und experimentell behandelt.",
+    "status": "BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 3.1–3.3, S. 14–15"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 9.1–9.5, S. 34–35"
       }
+    ],
+    "features": [
+      "experiment",
+      "datenauswertung",
+      "modellierung",
+      "quantitativ",
+      "bewertung"
     ]
   },
   {
@@ -112,21 +178,37 @@
   },
   {
     "id": "K-013",
-    "assessment": "Für Genregulation und Epigenetik ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
+    "assessment": "Genregulation durch Transkriptionsfaktoren, regulatorische DNA, Enhancer und Silencer wird ausführlich behandelt; Epigenetik wird im Evolutionskontext genannt, aber nicht als gleichwertig ausgearbeiteter Schwerpunkt.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 5.4–5.6, S. 23–24"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 6.2, S. 26"
+      }
+    ],
+    "features": [
+      "modellierung"
+    ]
   },
   {
     "id": "K-014",
-    "assessment": "Für Gentherapie und CRISPR/Cas ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "assessment": "Für Gentherapie oder CRISPR/Cas ist im ausgewerteten Zusatzfachplan keine spezifische Bildungsplaneinheit nachgewiesen.",
     "status": "OFFEN",
     "evidence": []
   },
   {
     "id": "K-015",
-    "assessment": "Die zunehmend selbstständige Planung, Durchführung und Auswertung von Experimenten sowie der Einsatz biologischer Modelle sind ausdrücklich vorgesehen.",
+    "assessment": "Hypothesenbildung, Versuchsplanung, Durchführung, Messwerterhebung, Statistik, Fehlerbetrachtung, Ergebnisdiskussion und wissenschaftliche Dokumentation sind als eigener Pflichtblock ausgewiesen.",
     "status": "BELEGT",
     "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 1.1–1.3, S. 11–12"
+      },
       {
         "source": "SRC-003",
         "location": "Prozessbezogene Kompetenzen, S. 7"
@@ -135,47 +217,73 @@
     "features": [
       "experiment",
       "datenauswertung",
-      "modellierung"
+      "quantitativ",
+      "bewertung"
     ]
   },
   {
     "id": "K-016",
-    "assessment": "Für die Bewertung genetischer Verfahren ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
-  },
-  {
-    "id": "K-017",
-    "assessment": "Für Sequenzanalyse und phylogenetische Stammbäume ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
-  },
-  {
-    "id": "K-018",
-    "assessment": "Infektions- und Immunbiologie ist als Themenkomplex dokumentiert; Antibiotikawirkung und Resistenzmechanismen sind noch nicht spezifisch ausgewertet.",
+    "assessment": "DNA-basierte pränatale und präimplantationsdiagnostische Verfahren werden beschrieben, verglichen und unter medizinischen, ethischen und gesellschaftlichen Aspekten bewertet; andere genetische Verfahren sind damit nicht vollständig abgedeckt.",
     "status": "TEILWEISE BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 8.3–8.5, S. 32–33"
       }
+    ],
+    "features": [
+      "bewertung"
     ]
   },
   {
-    "id": "K-019",
-    "assessment": "Entwicklungsbiologie und Reproduktionsmedizin bilden einen eigenen Themenkomplex; die konkreten Kompetenzen sind noch nicht vollständig auf BPE-Ebene ausgewertet.",
-    "status": "TEILWEISE BELEGT",
+    "id": "K-017",
+    "assessment": "Phylogenetische Stammbäume werden anhand morphologischer und genetischer Daten, Genfamilien, mtDNA und alter DNA entwickelt und verschiedene Hypothesen zur Menschheitsentwicklung verglichen.",
+    "status": "BELEGT",
     "evidence": [
       {
         "source": "SRC-003",
-        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+        "location": "BPE 6.1 und 6.6, S. 25 und 27"
       }
+    ],
+    "features": [
+      "datenauswertung",
+      "modellierung"
+    ]
+  },
+  {
+    "id": "K-018",
+    "assessment": "Antibiotika werden als Umweltchemikalien genannt; Wirkmechanismen und Resistenzmechanismen sind im ausgewerteten Zusatzfachplan jedoch nicht als eigene Kompetenz nachgewiesen.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-019",
+    "assessment": "Ungewollte Kinderlosigkeit, Hormonbehandlung, assistierte Fortpflanzung, Pränataldiagnostik, Präimplantationsdiagnostik sowie medizinische, rechtliche und ethische Bewertung sind verbindlich ausgewiesen.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 8.2–8.5, S. 32–33"
+      }
+    ],
+    "features": [
+      "bewertung"
     ]
   },
   {
     "id": "K-020",
-    "assessment": "Für Biomembran, Osmose und Stofftransport ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
-    "status": "OFFEN",
-    "evidence": []
+    "assessment": "Selektiv permeable Membranen, Ionendiffusion und Membranpotenziale werden experimentell und modellgestützt untersucht; Osmose und allgemeine aktive beziehungsweise passive Stofftransportmechanismen sind damit nur teilweise abgedeckt.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 4.3–4.4, S. 17–18"
+      }
+    ],
+    "features": [
+      "experiment",
+      "datenauswertung",
+      "modellierung"
+    ]
   }
 ]
