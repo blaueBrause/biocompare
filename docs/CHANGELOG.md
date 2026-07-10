@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-07-10 – BG-Zusatzfach
+- `data/sondergebiete.json` als eigene Datenebene ergänzt.
+- Neue Ansicht „Zusatzfach“ in Navigation und Dashboard integriert.
+- Sondergebiete der Biowissenschaften ausdrücklich als optional und schulabhängig gekennzeichnet.
+- Hardy-Weinberg für reguläres BG, Zusatzfach und AG-Leistungsfach mit getrennten Fundstellen gegenübergestellt.
+- Validator um Zusatzfach-Daten und Vergleichsfelder erweitert.
+
 ## 2026-07-10 – Datenqualität
 - `tools/validate_data.py` ergänzt.
 - Prüfung auf ungültiges JSON, doppelte IDs, tote Quellenverweise und unbelegte `BELEGT`-Einträge eingeführt.
