@@ -20,6 +20,24 @@ Danach im Browser öffnen: `http://localhost:8000`
 
 Auf GitHub Pages funktioniert die Anwendung ohne Build-Schritt.
 
+## Daten prüfen
+
+Vor einem Commit mit fachlichen Änderungen:
+
+```bash
+python tools/validate_data.py
+```
+
+Der Validator prüft insbesondere:
+
+- gültige JSON-Syntax,
+- fehlende und doppelte IDs,
+- tote Quellen- und Dateiverweise,
+- `BELEGT`-Einträge ohne Quelle und Fundstelle,
+- widersprüchliche Summen der Anforderungsbereiche bei Prüfungsaufgaben.
+
+GitHub Actions führt diese Prüfung bei Änderungen an `data/`, `sources/` oder dem Validator automatisch aus.
+
 ## Fachliche Daten
 
 - `data/quellen.json`
