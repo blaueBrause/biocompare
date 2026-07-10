@@ -1,13 +1,32 @@
 # Biologie-Vergleich BW
 
-Start: `docs/START_HERE.md`
+Quellenbasierte Entscheidungshilfe zur Schulwahl zwischen allgemeinbildendem Gymnasium und Beruflichem Gymnasium, insbesondere SGG Soziales.
 
-Anwendung: `index.html`
+## Einstieg
 
-Daten:
+Projektkontext und Arbeitsregeln: `docs/START_HERE.md`
+
+## Anwendung
+
+Die Oberfläche liegt in `index.html` und lädt die fachlichen Inhalte ausschließlich aus den Dateien unter `data/`.
+
+Für den lokalen, internetunabhängigen Betrieb im Repository-Verzeichnis:
+
+```bash
+python -m http.server 8000
+```
+
+Danach im Browser öffnen: `http://localhost:8000`
+
+Auf GitHub Pages funktioniert die Anwendung ohne Build-Schritt.
+
+## Fachliche Daten
+
 - `data/quellen.json`
 - `data/themen.json`
 - `data/kompetenzen.json`
 - `data/pruefungen.json`
 - `data/befunde.json`
 - `data/offene_fragen.json`
+
+`data/befunde.json` ist die kanonische Erkenntnisdatei. Das HTML enthält keine eigene Kopie der fachlichen Daten.
