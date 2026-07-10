@@ -5,33 +5,47 @@
     "competency": "Zellstruktur und Kompartimentierung",
     "variants": {
       "ag_basisfach": {
-        "assessment": "Zellorganellen, Kompartimentierung sowie der Vergleich von Pro- und Eukaryoten sind verbindlich ausgewiesen.",
+        "assessment": "Zellorganellen, Kompartimentierung, Pro-/Eukaryotenvergleich, Biomembranmodelle und Membranexperimente sind verbindlich ausgewiesen.",
         "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-001",
-            "location": "3.4.1 System Zelle, S. 24, Teilkompetenzen (1)–(3)"
+            "location": "3.4.1 System Zelle, S. 24, Teilkompetenzen (1)–(6)"
           }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung",
+          "modellierung"
         ]
       },
       "ag_leistungsfach": {
-        "assessment": "Zellorganellen und Kompartimentierung sind verbindlich ausgewiesen; zusätzlich werden elektronenmikroskopische Bilder zugeordnet.",
+        "assessment": "Zellorganellen, Kompartimentierung, Elektronenmikroskopie, Biomembranmodelle und Membranexperimente sind verbindlich ausgewiesen.",
         "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-001",
-            "location": "3.5.1.1 Zellorganellen, S. 30, Teilkompetenzen (1)–(4)"
+            "location": "3.5.1.1–3.5.1.2 System Zelle, S. 29–30"
           }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung",
+          "modellierung"
         ]
       },
       "bg_regulaer": {
-        "assessment": "Struktur und Funktion von Zellorganellen, Pro-/Eukaryotenvergleich und Kompartimentierung sind verbindlich ausgewiesen.",
+        "assessment": "Zellorganellen, Pro-/Eukaryotenvergleich, Kompartimentierung sowie die Auswertung experimenteller Befunde zum Biomembranmodell sind verbindlich ausgewiesen.",
         "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 1.1 System Zelle, S. 10"
+            "location": "BPE 1.1–1.2 System Zelle, S. 10"
           }
+        ],
+        "features": [
+          "datenauswertung",
+          "modellierung"
         ]
       }
     }
@@ -49,6 +63,11 @@
             "source": "SRC-001",
             "location": "3.4.2 Biomoleküle und molekulare Genetik, S. 25, Teilkompetenzen (4)–(6)"
           }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung",
+          "modellierung"
         ]
       },
       "ag_leistungsfach": {
@@ -59,16 +78,26 @@
             "source": "SRC-001",
             "location": "3.5.2.2 Biokatalyse, S. 31, Teilkompetenzen (1)–(3)"
           }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung",
+          "modellierung"
         ]
       },
       "bg_regulaer": {
-        "assessment": "Biokatalyse, Enzymmodelle, technische Anwendungen, Einflussfaktoren und Enzymhemmung sind verbindlich ausgewiesen.",
+        "assessment": "Biokatalyse, Enzymmodelle, technische Anwendungen, Einflussfaktoren, experimentelle Datenauswertung und Enzymhemmung sind verbindlich ausgewiesen.",
         "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
             "location": "BPE 2.3–2.5 Biomoleküle und Biokatalyse, S. 11–12"
           }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung",
+          "modellierung"
         ]
       }
     }
@@ -126,13 +155,17 @@
         ]
       },
       "bg_regulaer": {
-        "assessment": "Blatt- und Chloroplastenbau, abiotische Faktoren sowie lichtabhängige und lichtunabhängige Reaktionen sind verbindlich ausgewiesen.",
+        "assessment": "Blatt- und Chloroplastenbau, abiotische Faktoren, klassische Experimente sowie lichtabhängige und lichtunabhängige Reaktionen sind verbindlich ausgewiesen.",
         "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
             "location": "BPE 7.1–7.2 Assimilation, S. 17–18"
           }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung"
         ]
       }
     }
@@ -150,6 +183,9 @@
             "source": "SRC-001",
             "location": "3.4.2 Biomoleküle und molekulare Genetik, S. 25, Teilkompetenzen (7)–(10)"
           }
+        ],
+        "features": [
+          "modellierung"
         ]
       },
       "ag_leistungsfach": {
@@ -164,10 +200,13 @@
             "source": "SRC-001",
             "location": "3.5.2.3 DNA und Genaktivität, S. 31–32, Teilkompetenzen (1)–(4)"
           }
+        ],
+        "features": [
+          "modellierung"
         ]
       },
       "bg_regulaer": {
-        "assessment": "DNA-Struktur, Replikation und Proteinbiosynthese sind grundlegend sowie in BPE 4 vertieft für Pro- und Eukaryoten ausgewiesen.",
+        "assessment": "DNA-Struktur und Replikation werden in BPE 2 eingeführt; BPE 4 erweitert dies um Proteinbiosynthese bei Pro- und Eukaryoten, Mutationen und Genaktivität.",
         "status": "BELEGT",
         "evidence": [
           {
@@ -178,6 +217,9 @@
             "source": "SRC-002",
             "location": "BPE 4.2 Genetik, S. 13–14"
           }
+        ],
+        "features": [
+          "modellierung"
         ]
       }
     }
@@ -205,16 +247,23 @@
             "source": "SRC-001",
             "location": "3.5.3 Molekularbiologische Verfahren und Gentechnik, S. 32–33, Teilkompetenzen (1) und (3)"
           }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung"
         ]
       },
       "bg_regulaer": {
-        "assessment": "PCR und Gelelektrophorese sind im Zusammenhang mit Gentests verbindlich ausgewiesen.",
+        "assessment": "PCR und Gelelektrophorese sind im Zusammenhang mit Gentests verbindlich ausgewiesen; Chancen und Risiken eines Gentests werden bewertet.",
         "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
             "location": "BPE 4.4 Genetik, S. 14"
           }
+        ],
+        "features": [
+          "bewertung"
         ]
       }
     }
@@ -274,6 +323,9 @@
             "source": "SRC-001",
             "location": "3.5.4.2 Hormonsystem, S. 34, Teilkompetenzen (1)–(2)"
           }
+        ],
+        "features": [
+          "modellierung"
         ]
       },
       "bg_regulaer": {
@@ -304,13 +356,16 @@
         ]
       },
       "bg_regulaer": {
-        "assessment": "Unspezifische und spezifische humorale und zelluläre Immunantwort sowie Impfung sind verbindlich ausgewiesen.",
+        "assessment": "Unspezifische und spezifische humorale und zelluläre Immunantwort sowie eine kriteriengeleitete Stellungnahme zur Impfung sind verbindlich ausgewiesen.",
         "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
             "location": "BPE 3.1–3.2 Immunsystem, S. 12–13"
           }
+        ],
+        "features": [
+          "bewertung"
         ]
       }
     }
@@ -348,6 +403,9 @@
             "source": "SRC-002",
             "location": "BPE 5.2 Evolution, S. 15"
           }
+        ],
+        "features": [
+          "bewertung"
         ]
       }
     }
@@ -365,6 +423,9 @@
             "source": "SRC-001",
             "location": "3.4.6 Evolution und Ökologie, S. 29, Teilkompetenzen (4)–(5)"
           }
+        ],
+        "features": [
+          "bewertung"
         ]
       },
       "ag_leistungsfach": {
@@ -375,6 +436,9 @@
             "source": "SRC-001",
             "location": "3.5.5 Evolution und Ökologie, S. 35–36, Teilkompetenzen (4)–(8)"
           }
+        ],
+        "features": [
+          "bewertung"
         ]
       },
       "bg_regulaer": {
@@ -385,6 +449,10 @@
             "source": "SRC-002",
             "location": "BPE 8 Ökologie, S. 18–19"
           }
+        ],
+        "features": [
+          "datenauswertung",
+          "bewertung"
         ]
       }
     }
@@ -420,6 +488,342 @@
             "source": "SRC-002",
             "location": "BPE 5.2 Evolution, S. 15"
           }
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-013",
+    "topic": "Genetik",
+    "competency": "Genregulation und Epigenetik",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Eine ausdrückliche Oberstufen-Fundstelle zu Genregulation oder Epigenetik ist im zweistündigen Kurs bislang nicht nachgewiesen.",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "Differenzielle Genaktivität und Genregulation bei Prokaryoten sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.2.3 DNA und Genaktivität, S. 32, Teilkompetenz (5)"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Genregulation bei Eukaryoten über Transkriptionsfaktoren und epigenetische Methylierung ist verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 4.2 Genetik, S. 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-014",
+    "topic": "Gentechnik",
+    "competency": "Gentherapie und CRISPR/Cas",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Therapieansätze moderner Medizin sind allgemein ausgewiesen; CRISPR/Cas ist in der verwendeten Fundstelle nicht ausdrücklich genannt.",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.4 Molekularbiologische Verfahren und Gentechnik, S. 27, Teilkompetenz (5)"
+          }
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "Ein ausdrücklicher Nachweis von CRISPR/Cas in der ausgewerteten Leistungsfach-Fundstelle liegt bislang nicht vor.",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "bg_regulaer": {
+        "assessment": "Gentherapie und CRISPR/Cas als gezielte molekularbiologische Veränderung von DNA sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 4.4 Genetik, S. 14"
+          }
+        ],
+        "features": [
+          "bewertung"
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-015",
+    "topic": "Erkenntnisgewinnung",
+    "competency": "Experimente planen, durchführen und auswerten",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Enzymexperimente sind zu planen, durchzuführen und auszuwerten.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.2 Biomoleküle und molekulare Genetik, S. 25, Teilkompetenz (5)"
+          }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung"
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "Enzymexperimente sowie ein molekularbiologisches Experiment sind zu planen beziehungsweise durchzuführen und auszuwerten.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.2.2 Biokatalyse, S. 31, Teilkompetenz (2)"
+          },
+          {
+            "source": "SRC-001",
+            "location": "3.5.3 Molekularbiologische Verfahren und Gentechnik, S. 33, Teilkompetenz (3)"
+          }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung"
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Experimentelle Daten zur Enzymaktivität werden ausgewertet; ein Schülerexperiment zu einem Einflussfaktor ist vorgesehen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 2.4 Biomoleküle und Biokatalyse, S. 11"
+          }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung"
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-016",
+    "topic": "Bewertung",
+    "competency": "Chancen und Risiken genetischer Verfahren bewerten",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Chancen und Risiken gentechnisch veränderter Organismen werden bewertet.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.4 Molekularbiologische Verfahren und Gentechnik, S. 27, Teilkompetenz (4)"
+          }
+        ],
+        "features": [
+          "bewertung"
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "Chancen und Risiken gentechnisch veränderter Organismen werden differenziert bewertet.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.3 Molekularbiologische Verfahren und Gentechnik, S. 33, Teilkompetenz (5)"
+          }
+        ],
+        "features": [
+          "bewertung"
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Chancen und Risiken von Gentests werden bewertet und ethische Aspekte genetischer Beratung einbezogen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 4.4 Genetik, S. 14"
+          }
+        ],
+        "features": [
+          "bewertung"
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-017",
+    "topic": "Evolution",
+    "competency": "Sequenzanalyse und phylogenetische Stammbäume",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "DNA-Analysen werden zur Konstruktion phylogenetischer Stammbäume genutzt.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.6 Evolution und Ökologie, S. 29, Teilkompetenz (1)"
+          }
+        ],
+        "features": [
+          "datenauswertung",
+          "modellierung"
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "DNA-Analysen werden zur Konstruktion von Stammbäumen genutzt und mit konvergenten Entwicklungen verglichen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.5 Evolution und Ökologie, S. 35, Teilkompetenz (2)"
+          }
+        ],
+        "features": [
+          "datenauswertung",
+          "modellierung"
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Sequenzanalysen und molekularbiologische Homologien werden für Stammbäume mit Alignmentprogrammen genutzt.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 5.3 Evolution, S. 15"
+          }
+        ],
+        "features": [
+          "datenauswertung",
+          "modellierung"
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-018",
+    "topic": "Genetik",
+    "competency": "Antibiotikawirkung und Resistenzmechanismen",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Eine ausdrückliche Oberstufen-Fundstelle zu Antibiotikawirkung oder Resistenzmechanismen ist im zweistündigen Kurs bislang nicht nachgewiesen.",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "Wirkungsweisen von Antibiotika werden über Unterschiede der Proteinbiosynthese erklärt; ein Resistenzmechanismus ist in der verwendeten Fundstelle nicht ausdrücklich ausgewiesen.",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.2.3 DNA und Genaktivität, S. 32, Teilkompetenz (4)"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Wirkorte von Antibiotika und ein Resistenzmechanismus über β-Lactam-Antibiotika und Plasmide sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 4.3 Genetik, S. 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-019",
+    "topic": "Reproduktionsbiologie",
+    "competency": "Reproduktionsmedizin und Pränataldiagnostik",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Verfahren der Reproduktionsbiologie sowie Methoden der Pränataldiagnostik werden beschrieben und bewertet.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.5 Reproduktionsbiologie, S. 27–28, Teilkompetenzen (1)–(3)"
+          }
+        ],
+        "features": [
+          "bewertung"
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "Reproduktionsbiologie, Pränatal- und Präimplantationsdiagnostik werden beschrieben und bewertet.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.6 Chancen und Risiken biomedizinischer Verfahren, S. 36–37, Teilkompetenzen (1)–(3)"
+          }
+        ],
+        "features": [
+          "bewertung"
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Ein eigenständiger Pflichtblock zu Reproduktionsmedizin und Pränataldiagnostik ist im regulären BG-Fachplan bislang nicht positiv nachgewiesen.",
+        "status": "OFFEN",
+        "evidence": []
+      }
+    }
+  },
+  {
+    "id": "K-020",
+    "topic": "Zellbiologie",
+    "competency": "Biomembran, Osmose und Stofftransport",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Biomembranmodell, Osmoseexperimente sowie aktive und passive Transportmechanismen sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.1 System Zelle, S. 24, Teilkompetenzen (4)–(6)"
+          }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung",
+          "modellierung"
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "Biomembranmodelle werden anhand experimenteller Befunde bewertet; Osmoseexperimente und Transportmechanismen sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.1.2 Biomembran, S. 30, Teilkompetenzen (1)–(3)"
+          }
+        ],
+        "features": [
+          "experiment",
+          "datenauswertung",
+          "modellierung"
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Experimentelle Ergebnisse zum Biomembranaufbau, ein Membranmodell sowie Diffusion, Osmose und aktiver Transport sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 1.2 System Zelle, S. 10"
+          }
+        ],
+        "features": [
+          "datenauswertung",
+          "modellierung"
         ]
       }
     }
