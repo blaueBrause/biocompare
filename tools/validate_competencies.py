@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prüft die zellenweise Evidenz im Kompetenzvergleich."""
+"""Prüft die zellenweise Evidenz und die operationalisierten Vergleichsmerkmale."""
 
 from __future__ import annotations
 
@@ -14,6 +14,8 @@ DATA = ROOT / "data"
 REQUIRED_VARIANTS = ("ag_basisfach", "ag_leistungsfach", "bg_regulaer")
 LEGACY_FIELDS = ("basisfach", "ag_basisfach", "leistungsfach", "ag_leistungsfach", "bg", "status", "evidence")
 VALID_STATUSES = {"BELEGT", "TEILWEISE BELEGT", "OFFEN"}
+VALID_FEATURES = {"experiment", "datenauswertung", "modellierung", "quantitativ", "bewertung"}
+VAGUE_COMPARISONS = re.compile(r"\b(vertieft|tiefer|höherwertig|anspruchsvoller)\b", re.IGNORECASE)
 
 
 def load_list(filename: str) -> list[dict[str, Any]]:
@@ -48,6 +50,9 @@ def validate() -> tuple[list[str], list[str]]:
     supplementary_ids = {str(item.get("id") or item.get("supplement_id")) for item in supplementary}
     competence_ids: set[str] = set()
 
+    if len(competencies) < 20:
+        warnings.append(f"KOMPETENZMATRIX KLEINER ALS ZIELUMFANG: {len(competencies)} Einträge")
+
     for item in competencies:
         competence_id = str(item.get("id") or item.get("competence_id") or "").strip()
         if not competence_id:
@@ -74,6 +79,10 @@ def validate() -> tuple[list[str], list[str]]:
             errors.append(f"FEHLENDE VARIANTEN: {competence_id}")
             continue
 
+        unexpected_variants = set(variants) - set(REQUIRED_VARIANTS)
+        if unexpected_variants:
+            errors.append(f"UNBEKANNTE VARIANTEN: {competence_id} – {', '.join(sorted(unexpected_variants))}")
+
         for variant_key in REQUIRED_VARIANTS:
             label = f"{competence_id}/{variant_key}"
             variant = variants.get(variant_key)
@@ -81,8 +90,11 @@ def validate() -> tuple[list[str], list[str]]:
                 errors.append(f"FEHLENDE VARIANTE: {label}")
                 continue
 
-            if not str(variant.get("assessment") or "").strip():
+            assessment = str(variant.get("assessment") or "").strip()
+            if not assessment:
                 errors.append(f"FEHLENDE BEWERTUNG: {label}")
+            elif VAGUE_COMPARISONS.search(assessment):
+                errors.append(f"UNOPERATIONALISIERTE VERGLEICHSAUSSAGE: {label} – {assessment}")
 
             status = str(variant.get("status") or "").strip().upper()
             if status not in VALID_STATUSES:
@@ -108,6 +120,19 @@ def validate() -> tuple[list[str], list[str]]:
                     errors.append(f"FUNDSTELLE OHNE ORT: {label}")
                 if source_id and location:
                     valid_evidence.append(entry)
+
+            features = variant.get("features", [])
+            if not isinstance(features, list):
+                errors.append(f"FALSCHE MERKMALSSTRUKTUR: {label}")
+            else:
+                duplicate_features = {feature for feature in features if features.count(feature) > 1}
+                if duplicate_features:
+                    errors.append(f"DOPPELTE MERKMALE: {label} – {', '.join(sorted(duplicate_features))}")
+                unknown_features = {str(feature) for feature in features} - VALID_FEATURES
+                if unknown_features:
+                    errors.append(f"UNBEKANNTE MERKMALE: {label} – {', '.join(sorted(unknown_features))}")
+                if features and not valid_evidence:
+                    errors.append(f"MERKMALE OHNE FUNDSTELLE: {label}")
 
             if status == "BELEGT":
                 if not valid_evidence:
