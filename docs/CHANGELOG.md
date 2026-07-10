@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-07-10 – Überarbeiteter AG-Bildungsplan 2022 als Primärquelle
+- Amtliche Fassung vom 08.03.2022 als `SRC-014` mit SHA-256 und Dateigröße erfasst.
+- Bisherige offene Frage nach der passenden Primärfassung geschlossen.
+- AG-Kompetenzkorrekturen als eigene Evidenzschicht ergänzt, ohne die historische Matrix blind zu überschreiben.
+- Zellatmung, Fotosynthese und Genregulation im Basisfach positiv belegt.
+- CRISPR/Cas9 im Leistungsfach ausdrücklich belegt.
+- Immunsystem im Leistungsfach wegen möglicher Ersetzung auf `TEILWEISE BELEGT` präzisiert.
+- Antibiotikawirkung im Leistungsfach mangels ausdrücklicher Kursstufenkompetenz auf `OFFEN` korrigiert.
+- Gemeinsamen Kern von zehn auf zwölf vollständig belegte Kompetenzbereiche erweitert.
+- Eigenen Validator und UI-Merge für Quellen-, Kompetenz- und Befundkorrekturen ergänzt.
+
 ## 2026-07-10 – Zusatzfach vollständig auf BPE-Ebene ausgewertet
 - Alle 20 Kompetenzfragen gegen den Fachplan `SRC-003` geprüft.
 - Zusatzfachspalte von 2 belegten und 8 teilweise belegten Zellen auf 11 belegte, 6 teilweise belegte und 3 offene Zellen präzisiert.
