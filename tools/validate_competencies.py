@@ -1,0 +1,127 @@
+#!/usr/bin/env python3
+"""Prüft die zellenweise Evidenz im Kompetenzvergleich."""
+
+from __future__ import annotations
+
+import json
+import re
+import sys
+from pathlib import Path
+from typing import Any
+
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "data"
+REQUIRED_VARIANTS = ("ag_basisfach", "ag_leistungsfach", "bg_regulaer")
+LEGACY_FIELDS = ("basisfach", "ag_basisfach", "leistungsfach", "ag_leistungsfach", "bg", "status", "evidence")
+VALID_STATUSES = {"BELEGT", "TEILWEISE BELEGT", "OFFEN"}
+
+
+def load_list(filename: str) -> list[dict[str, Any]]:
+    path = DATA / filename
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        raise ValueError(f"FEHLT: data/{filename}") from None
+    except json.JSONDecodeError as exc:
+        raise ValueError(f"UNGÜLTIGES JSON: data/{filename}:{exc.lineno}:{exc.colno} – {exc.msg}") from None
+    if not isinstance(value, list) or not all(isinstance(item, dict) for item in value):
+        raise ValueError(f"FALSCHER DATENTYP: data/{filename} muss eine Liste aus Objekten enthalten")
+    return value
+
+
+def precise_page(location: Any) -> bool:
+    return bool(re.search(r"(?:\bS\.?\s*\d+|\bSeite\s+\d+|\bp\.?\s*\d+)", str(location or ""), re.IGNORECASE))
+
+
+def validate() -> tuple[list[str], list[str]]:
+    errors: list[str] = []
+    warnings: list[str] = []
+
+    try:
+        sources = load_list("quellen.json")
+        competencies = load_list("kompetenzen.json")
+    except ValueError as exc:
+        return [str(exc)], []
+
+    source_ids = {str(item.get("id") or item.get("source_id")) for item in sources}
+    competence_ids: set[str] = set()
+
+    for item in competencies:
+        competence_id = str(item.get("id") or item.get("competence_id") or "").strip()
+        if not competence_id:
+            errors.append("KOMPETENZ OHNE ID")
+            continue
+        if competence_id in competence_ids:
+            errors.append(f"DOPPELTE KOMPETENZ-ID: {competence_id}")
+        competence_ids.add(competence_id)
+
+        legacy = [field for field in LEGACY_FIELDS if field in item]
+        if legacy:
+            errors.append(f"ALTES SCHEMA: {competence_id} enthält {', '.join(legacy)}")
+
+        variants = item.get("variants")
+        if not isinstance(variants, dict):
+            errors.append(f"FEHLENDE VARIANTEN: {competence_id}")
+            continue
+
+        for variant_key in REQUIRED_VARIANTS:
+            label = f"{competence_id}/{variant_key}"
+            variant = variants.get(variant_key)
+            if not isinstance(variant, dict):
+                errors.append(f"FEHLENDE VARIANTE: {label}")
+                continue
+
+            if not str(variant.get("assessment") or "").strip():
+                errors.append(f"FEHLENDE BEWERTUNG: {label}")
+
+            status = str(variant.get("status") or "").strip().upper()
+            if status not in VALID_STATUSES:
+                errors.append(f"UNGÜLTIGER STATUS: {label} – {status or 'leer'}")
+
+            evidence = variant.get("evidence")
+            if not isinstance(evidence, list):
+                errors.append(f"FALSCHE FUNDSTELLENSTRUKTUR: {label}")
+                continue
+
+            valid_evidence = []
+            for entry in evidence:
+                if not isinstance(entry, dict):
+                    errors.append(f"FALSCHE FUNDSTELLE: {label}")
+                    continue
+                source_id = entry.get("source") or entry.get("source_id")
+                location = entry.get("location") or entry.get("fundstelle")
+                if not source_id:
+                    errors.append(f"FUNDSTELLE OHNE QUELLE: {label}")
+                elif str(source_id) not in source_ids:
+                    errors.append(f"TOTE QUELLEN-ID: {label} verweist auf {source_id}")
+                if not location:
+                    errors.append(f"FUNDSTELLE OHNE ORT: {label}")
+                if source_id and location:
+                    valid_evidence.append(entry)
+
+            if status == "BELEGT":
+                if not valid_evidence:
+                    errors.append(f"BELEGT OHNE FUNDSTELLE: {label}")
+                elif not any(precise_page(entry.get("location") or entry.get("fundstelle")) for entry in valid_evidence):
+                    errors.append(f"BELEGT OHNE SEITENGENAUE FUNDSTELLE: {label}")
+            elif status == "OFFEN" and valid_evidence:
+                warnings.append(f"OFFEN MIT FUNDSTELLE: {label}; Status prüfen")
+
+    return errors, warnings
+
+
+def main() -> int:
+    errors, warnings = validate()
+    for message in warnings:
+        print(f"WARNUNG: {message}")
+    for message in errors:
+        print(f"FEHLER: {message}")
+    if errors:
+        print(f"\nKompetenzvalidierung fehlgeschlagen: {len(errors)} Fehler, {len(warnings)} Warnungen.")
+        return 1
+    print(f"Kompetenzvalidierung erfolgreich: 0 Fehler, {len(warnings)} Warnungen.")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
