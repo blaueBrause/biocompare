@@ -6,6 +6,29 @@ const COMPETENCY_VARIANT_LABELS = {
   bg_regulaer: 'reguläres BG'
 };
 
+const COMPETENCY_FEATURES = {
+  experiment: {
+    label: 'Experiment',
+    description: 'Eigenständiges Planen, Durchführen oder verbindlich vorgesehenes Schülerexperiment.'
+  },
+  datenauswertung: {
+    label: 'Datenauswertung',
+    description: 'Experimentelle Daten, Messwerte, Sequenzen oder andere Materialien werden ausdrücklich ausgewertet.'
+  },
+  modellierung: {
+    label: 'Modellierung',
+    description: 'Modelle werden ausdrücklich genutzt, entwickelt, erklärt oder bewertet.'
+  },
+  quantitativ: {
+    label: 'Quantitativ',
+    description: 'Berechnungen oder andere ausdrücklich quantitative Anforderungen sind dokumentiert.'
+  },
+  bewertung: {
+    label: 'Bewertung',
+    description: 'Sach- oder Werturteile, Chancen und Risiken oder ethische Fragen werden ausdrücklich beurteilt oder bewertet.'
+  }
+};
+
 function competencyCoverage(items, variantKey) {
   const counts = {
     BELEGT: 0,
@@ -34,6 +57,31 @@ function renderCoverageSummary(items) {
   </section>`;
 }
 
+function renderFeatureLegend() {
+  return `<details class="feature-legend">
+    <summary>Was bedeuten die Vergleichsmerkmale?</summary>
+    <div class="feature-legend-grid">
+      ${Object.values(COMPETENCY_FEATURES).map(feature => `<div>
+        <strong>${escapeHtml(feature.label)}</strong>
+        <span>${escapeHtml(feature.description)}</span>
+      </div>`).join('')}
+    </div>
+    <p class="muted">Nicht angezeigte Merkmale gelten nicht als fehlend. Sie wurden für diese Kompetenzzelle lediglich nicht ausdrücklich belegt.</p>
+  </details>`;
+}
+
+function renderFeatures(features) {
+  if (!Array.isArray(features) || features.length === 0) return '';
+  return `<div class="feature-list" aria-label="Explizit dokumentierte Vergleichsmerkmale">
+    ${features.map(id => {
+      const feature = COMPETENCY_FEATURES[id];
+      return feature
+        ? `<span class="feature-chip" title="${escapeHtml(feature.description)}">${escapeHtml(feature.label)}</span>`
+        : '';
+    }).join('')}
+  </div>`;
+}
+
 function renderCompetencyVariant(variantKey, variant) {
   const data = variant || {
     assessment: 'noch nicht erfasst',
@@ -48,6 +96,7 @@ function renderCompetencyVariant(variantKey, variant) {
       ${statusBadge(status)}
     </div>
     <p>${escapeHtml(data.assessment || 'Keine Bewertung hinterlegt.')}</p>
+    ${renderFeatures(data.features)}
     ${evidenceList(data.evidence)}
   </section>`;
 }
@@ -84,12 +133,13 @@ renderCompetencies = function renderCompetenciesWithSeparateEvidence() {
 
   return `
     <div class="notice">
-      <strong>Zellenweise Beleglogik</strong>
-      Basisfach, Leistungsfach und reguläres BG besitzen jeweils eine eigene Bewertung,
-      einen eigenen Status und eigene Fundstellen. Eine Quelle belegt niemals automatisch
-      die anderen Varianten.
+      <strong>Zellenweise Beleglogik statt Rangliste</strong>
+      Basisfach, Leistungsfach und reguläres BG besitzen jeweils eigene Bewertungen und Fundstellen.
+      Merkmale wie Experiment oder Bewertung werden nur angezeigt, wenn sie in der belegten Fundstelle
+      ausdrücklich dokumentiert sind. Es wird daraus kein Punktwert berechnet.
     </div>
     ${renderCoverageSummary(state.data.competencies)}
+    ${renderFeatureLegend()}
     <div class="controls">
       <div class="control">
         <label for="competency-query">Suche</label>
