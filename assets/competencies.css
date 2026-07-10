@@ -1,0 +1,49 @@
+/* Kompetenzvergleich: jede Schulvariante besitzt eine eigene Evidenzzelle. */
+.compact-stack { gap: .65rem; }
+
+.competency-card { padding: 1.35rem; }
+.competency-card > .card-header { margin-bottom: 1rem; }
+
+.variant-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .8rem;
+}
+
+.variant-card {
+  min-width: 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-top-width: 4px;
+  border-radius: 14px;
+  background: var(--surface-soft);
+}
+
+.variant-card[data-status="BELEGT"] { border-top-color: var(--proved); }
+.variant-card[data-status="TEILWEISE BELEGT"] { border-top-color: var(--partial); }
+.variant-card[data-status="OFFEN"] { border-top-color: var(--open); }
+
+.variant-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: .6rem;
+}
+
+.variant-header h4 {
+  margin: .1rem 0 .65rem;
+  font-size: .95rem;
+}
+
+.variant-card > p { margin: 0 0 .8rem; }
+.variant-card .evidence-list { margin-top: .65rem; }
+.variant-card .evidence-list li { background: var(--surface); }
+.evidence-empty { margin: .65rem 0 0; font-size: .84rem; }
+
+@media (max-width: 1080px) {
+  .variant-grid { grid-template-columns: 1fr; }
+}
+
+@media print {
+  .variant-card { break-inside: avoid; }
+}
