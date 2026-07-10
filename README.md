@@ -22,6 +22,8 @@ Auf GitHub Pages funktioniert die Anwendung ohne Build-Schritt.
 
 Die Ansicht **Zusatzfach** führt `Sondergebiete der Biowissenschaften` als optionale und schulabhängige BG-Erweiterung. Diese Inhalte werden ausdrücklich nicht dem regulären BG-Pflichtfach zugerechnet.
 
+Die Ansicht **Prüfungen** enthält eine getrennte Zeitreihe der amtlichen Biologie-Prüfungsvorgaben 2023–2027. Jahresbezogene Prüfungsausschlüsse werden nicht als Curriculumslücken interpretiert.
+
 ## Daten prüfen
 
 Vor einem Commit mit fachlichen Änderungen:
@@ -29,6 +31,7 @@ Vor einem Commit mit fachlichen Änderungen:
 ```bash
 python tools/validate_data.py
 python tools/validate_competencies.py
+python tools/validate_exam_rules.py
 ```
 
 Die Validatoren prüfen insbesondere:
@@ -40,17 +43,22 @@ Die Validatoren prüfen insbesondere:
 - für jede Kompetenz getrennte Belege zu Basisfach, Leistungsfach und regulärem BG,
 - seitengenaue Fundstellen, bevor eine Kompetenzzelle `BELEGT` heißen darf,
 - die vollständige Trennung und Belegung des optionalen Zusatzfachs,
-- widersprüchliche Summen der Anforderungsbereiche bei Prüfungsaufgaben.
+- widersprüchliche Summen der Anforderungsbereiche bei Prüfungsaufgaben,
+- erwartete System-Jahr-Paare der Prüfungsvorgaben,
+- vollständige Quellenmetadaten und SHA-256-Werte,
+- die lückenlose 120-BE-Notenskala der AG-Korrekturrichtlinie 2027.
 
-GitHub Actions führt beide Prüfungen bei Änderungen an `data/`, `sources/` oder den Validatoren automatisch aus.
+GitHub Actions führt alle drei Prüfungen bei Änderungen an `data/`, `sources/` oder den Validatoren automatisch aus.
 
 ## Fachliche Daten
 
 - `data/quellen.json`
 - `data/themen.json`
 - `data/kompetenzen.json`
+- `data/kompetenzen_zusatzfach.json`
 - `data/sondergebiete.json`
 - `data/pruefungen.json`
+- `data/pruefungsvorgaben.json`
 - `data/befunde.json`
 - `data/offene_fragen.json`
 
