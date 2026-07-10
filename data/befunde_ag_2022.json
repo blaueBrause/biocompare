@@ -1,0 +1,124 @@
+[
+  {
+    "id": "F-001",
+    "category": "gemeinsamer_kern",
+    "status": "BELEGT",
+    "claim": "In zwölf untersuchten Kompetenzbereichen sind AG-Basisfach, AG-Leistungsfach und reguläres BG jeweils positiv und seitengenau belegt.",
+    "interpretation": "Der gemeinsame Kern umfasst Enzymatik, Zellatmung, Fotosynthese, Molekulargenetik, PCR und Gelelektrophorese, Neurobiologie, Evolution, Ökologie, Genregulation, experimentelle Erkenntnisgewinnung, Bewertung genetischer Verfahren und phylogenetische Analysen. Das belegt gemeinsame verbindliche Inhalte, aber keine identische Ausgestaltung.",
+    "competency_ids": [
+      "K-002",
+      "K-003",
+      "K-004",
+      "K-005",
+      "K-006",
+      "K-007",
+      "K-010",
+      "K-011",
+      "K-013",
+      "K-015",
+      "K-016",
+      "K-017"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-014",
+        "location": "Kursstufenstandards 3.4 und 3.5, S. 25–42"
+      },
+      {
+        "source": "SRC-002",
+        "location": "BPE 1–9, S. 10–20"
+      }
+    ]
+  },
+  {
+    "id": "F-002",
+    "category": "ag_spezifisch",
+    "status": "TEILWEISE BELEGT",
+    "claim": "Hormonelle Regulation sowie Pränatal- und Präimplantationsdiagnostik sind im AG-Leistungsfach ausdrücklich ausgewiesen; im Basisfach und regulären BG ist diese Kombination nicht vollständig belegt.",
+    "interpretation": "Der Unterschied betrifft konkrete Kursstufenkompetenzen, nicht die gesamte biologische Qualität eines Bildungsgangs. Das Basisfach enthält genetische Beratung und somatische Gentherapie, aber keine ausdrückliche PND/PID-Kompetenz.",
+    "competency_ids": [
+      "K-008",
+      "K-019"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-014",
+        "location": "3.5.5 Hormone, S. 41, Teilkompetenzen (11)–(13)"
+      },
+      {
+        "source": "SRC-014",
+        "location": "3.5.6 Angewandte Biologie, S. 42, Teilkompetenzen (5)–(7)"
+      }
+    ]
+  },
+  {
+    "id": "F-003",
+    "category": "differenzierung",
+    "status": "TEILWEISE BELEGT",
+    "claim": "CRISPR/Cas9 ist sowohl im AG-Leistungsfach als auch im regulären BG ausdrücklich ausgewiesen; der konkrete β-Lactam-Resistenzmechanismus ist in der aktuellen Matrix nur für das BG positiv belegt.",
+    "interpretation": "Die überarbeitete AG-Primärfassung korrigiert den früheren Eindruck eines ausschließlich BG-spezifischen CRISPR-Schwerpunkts. Für Antibiotikaresistenzen bleibt der aktuelle Belegstand asymmetrisch.",
+    "competency_ids": [
+      "K-014",
+      "K-018"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-014",
+        "location": "3.5.6 Angewandte Biologie, S. 41–42, Teilkompetenzen (2), (5)–(7)"
+      },
+      {
+        "source": "SRC-002",
+        "location": "BPE 4.3–4.4 Genetik, S. 14"
+      }
+    ]
+  },
+  {
+    "id": "F-004",
+    "category": "hardy_weinberg",
+    "status": "TEILWEISE BELEGT",
+    "claim": "Änderungen von Allelhäufigkeiten sind im AG-Basisfach, AG-Leistungsfach und regulären BG verbindlich ausgewiesen; das Hardy-Weinberg-Gesetz selbst ist im BG-Zusatzfach und in der AG-Jahresplanung ausdrücklich genannt.",
+    "interpretation": "Hardy-Weinberg ist kein nachgewiesener Bestandteil des regulären BG-Pflichtfachs. Das Zusatzfach deckt ihn ausdrücklich ab; im AG-Leistungsfach ist er über die amtliche Jahresplanung, nicht über die Kompetenzformulierung des Bildungsplans, dokumentiert.",
+    "competency_ids": [
+      "K-012"
+    ],
+    "supplementary_ids": [
+      "SG-004"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-014",
+        "location": "3.4.3 und 3.5.3 Evolution, S. 28 und 36, jeweils Teilkompetenz (1)"
+      },
+      {
+        "source": "SRC-002",
+        "location": "BPE 5.2 Evolution, S. 15"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 6.4, S. 26"
+      },
+      {
+        "source": "SRC-004",
+        "location": "Unterrichtssequenz Mechanismen der Evolution, S. 10"
+      }
+    ]
+  },
+  {
+    "id": "F-009",
+    "category": "quellenlage",
+    "status": "BELEGT",
+    "claim": "Die überarbeitete AG-Primärfassung von 2022 schließt die bisherige Quellenlücke für Basisfach und Leistungsfach.",
+    "interpretation": "Zellatmung und Fotosynthese sind im Basisfach ausdrücklich enthalten; Genregulation einschließlich DNA-Methylierung ist dort ebenfalls verbindlich. Die Primärquelle ersetzt dafür die bisherige alleinige Abstützung auf Jahresplanungen.",
+    "competency_ids": [
+      "K-003",
+      "K-004",
+      "K-013"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-014",
+        "location": "3.4.1–3.4.2, S. 25–28"
+      }
+    ]
+  }
+]
