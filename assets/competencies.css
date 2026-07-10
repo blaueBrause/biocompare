@@ -1,8 +1,38 @@
 /* Kompetenzvergleich: jede Schulvariante besitzt eine eigene Evidenzzelle. */
 .compact-stack { gap: .65rem; }
 
+.coverage-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .8rem;
+  margin: 1rem 0;
+}
+
+.coverage-card {
+  display: grid;
+  gap: .2rem;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.coverage-card strong { margin-bottom: .2rem; }
+.coverage-card span { color: var(--muted); font-size: .86rem; }
+
 .competency-card { padding: 1.35rem; }
 .competency-card > .card-header { margin-bottom: 1rem; }
+
+.related-note {
+  margin: -.25rem 0 1rem;
+  padding: .7rem .8rem;
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  background: var(--accent-soft);
+  color: var(--text);
+  font-size: .88rem;
+}
 
 .variant-grid {
   display: grid;
@@ -41,9 +71,10 @@
 .evidence-empty { margin: .65rem 0 0; font-size: .84rem; }
 
 @media (max-width: 1080px) {
+  .coverage-grid { grid-template-columns: 1fr; }
   .variant-grid { grid-template-columns: 1fr; }
 }
 
 @media print {
-  .variant-card { break-inside: avoid; }
+  .coverage-card, .variant-card { break-inside: avoid; }
 }
