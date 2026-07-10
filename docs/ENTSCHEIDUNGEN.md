@@ -4,7 +4,9 @@
 - Zielfall SGG Soziales.
 - Gesundheit und Biologie ausgeschlossen.
 - Sondergebiete optional und schulabhängig.
-- Jede Kompetenzvariante wird separat bewertet und belegt; Quellen werden nicht zwischen Basisfach, Leistungsfach und regulärem BG übertragen.
+- Die Kompetenzübersicht führt vier getrennte Spalten: AG Basisfach, AG Leistungsfach, reguläres BG und BG Zusatzfach (optional).
+- Die optionale Zusatzfachspalte wird aus `data/kompetenzen_zusatzfach.json` geladen und niemals dem regulären BG-Pflichtumfang zugerechnet.
+- Jede Kompetenzvariante wird separat bewertet und belegt; Quellen werden nicht zwischen den vier Varianten übertragen.
 - Begriffe wie „vertieft“, „tiefer“ oder „anspruchsvoller“ dürfen nicht als freie Gesamturteile verwendet werden.
 - Vergleichsmerkmale werden nur positiv und quellenbasiert ausgewiesen: Experiment, Datenauswertung, Modellierung, quantitative Anforderung und Bewertung.
 - Das Fehlen eines Merkmals in der Oberfläche bedeutet nicht, dass es curricular fehlt; es bedeutet nur, dass es für diese Kompetenzzelle nicht ausdrücklich belegt wurde.
