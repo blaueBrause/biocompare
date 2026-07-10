@@ -7,6 +7,7 @@ on:
       - 'sources/**'
       - 'tools/validate_data.py'
       - 'tools/validate_competencies.py'
+      - 'tools/validate_exam_rules.py'
       - '.github/workflows/validate-data.yml'
   pull_request:
     paths:
@@ -14,6 +15,7 @@ on:
       - 'sources/**'
       - 'tools/validate_data.py'
       - 'tools/validate_competencies.py'
+      - 'tools/validate_exam_rules.py'
       - '.github/workflows/validate-data.yml'
 
 permissions:
@@ -33,3 +35,5 @@ jobs:
         run: python tools/validate_data.py
       - name: Kompetenzbelege zellenweise validieren
         run: python tools/validate_competencies.py
+      - name: Prüfungsvorgaben 2023–2025 validieren
+        run: python tools/validate_exam_rules.py
