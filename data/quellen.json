@@ -80,7 +80,7 @@
   {
     "id": "SRC-007",
     "title": "IQB 2025 – Kultivierung von Algen",
-    "file": "sources/2025GNLUmg3_Aufgabe.pdf",
+    "file": null,
     "original_url": "https://www.iqb.hu-berlin.de/media/exercise_files/Abituraufgaben_BIOLOGIE/2025GNLUmg3_Aufgabe.pdf",
     "publisher": "IQB",
     "published": "2025",
@@ -88,12 +88,12 @@
     "scope": "Grundlegendes Niveau",
     "sha256": "199578aaaaa26fc9eeddb3b7790af02ce07d2a7f756979dcc96fd129b31e80ad",
     "bytes": 280378,
-    "license_status": "Öffentlich zugänglich; konkrete Nachnutzungsbedingungen nicht abschließend geprüft."
+    "license_status": "Öffentlich zugänglich; derzeit nur über die Originalquelle verlinkt und nicht im Repository abgelegt."
   },
   {
     "id": "SRC-008",
     "title": "IQB 2025 – Cyanobakterien",
-    "file": "sources/2025ENLEmg4_Aufgabe.pdf",
+    "file": null,
     "original_url": "https://www.iqb.hu-berlin.de/media/exercise_files/Abituraufgaben_BIOLOGIE/2025ENLEmg4_Aufgabe.pdf",
     "publisher": "IQB",
     "published": "2025",
@@ -101,12 +101,12 @@
     "scope": "Erhöhtes Niveau",
     "sha256": "ae0a91a7ff19219bdec050c93f2acbd9ec890375c29343730ad7dc725ac94480",
     "bytes": 707304,
-    "license_status": "Öffentlich zugänglich; konkrete Nachnutzungsbedingungen nicht abschließend geprüft."
+    "license_status": "Öffentlich zugänglich; derzeit nur über die Originalquelle verlinkt und nicht im Repository abgelegt."
   },
   {
     "id": "SRC-009",
     "title": "IQB 2025 – Elefanten und Stoßzähne",
-    "file": "sources/2025ENVLmg1_Aufgabe.pdf",
+    "file": null,
     "original_url": "https://www.iqb.hu-berlin.de/media/exercise_files/Abituraufgaben_BIOLOGIE/2025ENVLmg1_Aufgabe.pdf",
     "publisher": "IQB",
     "published": "2025",
@@ -114,12 +114,12 @@
     "scope": "Erhöhtes Niveau",
     "sha256": "11b41c521abc177399cf1ce16da0fbac211f2d26a40c6c3a4fec6eaccac0c8ac",
     "bytes": 1026375,
-    "license_status": "Öffentlich zugänglich; konkrete Nachnutzungsbedingungen nicht abschließend geprüft."
+    "license_status": "Öffentlich zugänglich; derzeit nur über die Originalquelle verlinkt und nicht im Repository abgelegt."
   },
   {
     "id": "SRC-010",
     "title": "IQB 2025 – Farbenblindheit",
-    "file": "sources/2025ENVLmg2_Aufgabe.pdf",
+    "file": null,
     "original_url": "https://www.iqb.hu-berlin.de/media/exercise_files/Abituraufgaben_BIOLOGIE/2025ENVLmg2_Aufgabe.pdf",
     "publisher": "IQB",
     "published": "2025",
@@ -127,7 +127,7 @@
     "scope": "Erhöhtes Niveau",
     "sha256": "fb6443516c53e0798b4fdc5d47b71910307081ab48a41f83bf4ef13f5a847f33",
     "bytes": 955340,
-    "license_status": "Öffentlich zugänglich; konkrete Nachnutzungsbedingungen nicht abschließend geprüft."
+    "license_status": "Öffentlich zugänglich; derzeit nur über die Originalquelle verlinkt und nicht im Repository abgelegt."
   },
   {
     "id": "SRC-011",
