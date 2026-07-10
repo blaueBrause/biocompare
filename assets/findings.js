@@ -4,10 +4,12 @@ const FINDING_CATEGORY_LABELS = {
   gemeinsamer_kern: 'Gemeinsamer Kern',
   ag_spezifisch: 'AG-spezifischer Belegstand',
   bg_spezifisch: 'BG-spezifischer Belegstand',
+  differenzierung: 'Differenzierter Belegstand',
   hardy_weinberg: 'Hardy-Weinberg',
   methodik: 'Methodik',
   zusatzfach: 'Zusatzfach',
   pruefung: 'Prüfung',
+  quellenlage: 'Quellenlage',
   umsetzung: 'Schulische Umsetzung'
 };
 
