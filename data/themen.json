@@ -1,83 +1,11 @@
 [
-  {
-    "id": "T-001",
-    "topic": "Zellbiologie",
-    "ag": "enthalten",
-    "lf": "vertieft enthalten",
-    "bg": "enthalten",
-    "sonbio": "ergänzend möglich",
-    "status": "BELEGT"
-  },
-  {
-    "id": "T-002",
-    "topic": "Stoffwechsel",
-    "ag": "enthalten",
-    "lf": "vertieft enthalten",
-    "bg": "enthalten",
-    "sonbio": "ergänzend möglich",
-    "status": "BELEGT"
-  },
-  {
-    "id": "T-003",
-    "topic": "Genetik",
-    "ag": "enthalten",
-    "lf": "deutlich vertieft",
-    "bg": "enthalten",
-    "sonbio": "ergänzend möglich",
-    "status": "BELEGT"
-  },
-  {
-    "id": "T-004",
-    "topic": "Gentechnik",
-    "ag": "enthalten",
-    "lf": "deutlich vertieft",
-    "bg": "teilweise belegt",
-    "sonbio": "möglich",
-    "status": "TEILWEISE BELEGT"
-  },
-  {
-    "id": "T-005",
-    "topic": "Neurobiologie",
-    "ag": "enthalten",
-    "lf": "vertieft enthalten",
-    "bg": "enthalten",
-    "sonbio": "vertiefend möglich",
-    "status": "BELEGT"
-  },
-  {
-    "id": "T-006",
-    "topic": "Hormonsystem",
-    "ag": "enthalten/prüfen",
-    "lf": "eigenständiger Bereich",
-    "bg": "nicht gleichwertig nachgewiesen",
-    "sonbio": "nicht gesichert",
-    "status": "TEILWEISE BELEGT"
-  },
-  {
-    "id": "T-007",
-    "topic": "Immunbiologie",
-    "ag": "enthalten/prüfen",
-    "lf": "enthalten",
-    "bg": "enthalten",
-    "sonbio": "vertiefend möglich",
-    "status": "TEILWEISE BELEGT"
-  },
-  {
-    "id": "T-008",
-    "topic": "Evolution",
-    "ag": "enthalten",
-    "lf": "vertieft enthalten",
-    "bg": "enthalten",
-    "sonbio": "vertiefend möglich",
-    "status": "BELEGT"
-  },
-  {
-    "id": "T-009",
-    "topic": "Ökologie",
-    "ag": "enthalten",
-    "lf": "vertieft enthalten",
-    "bg": "enthalten",
-    "sonbio": "vertiefend möglich",
-    "status": "BELEGT"
-  }
+  {"id":"T-001","topic":"Zellbiologie","basisfach":"enthalten","leistungsfach":"vertieft","bg":"enthalten","status":"BELEGT","evidence":[{"source":"SRC-002","location":"BPE 1 und 2"}]},
+  {"id":"T-002","topic":"Stoffwechsel","basisfach":"enthalten","leistungsfach":"vertieft","bg":"enthalten","status":"BELEGT","evidence":[{"source":"SRC-002","location":"BPE 6 und 7"}]},
+  {"id":"T-003","topic":"Genetik","basisfach":"enthalten","leistungsfach":"deutlich vertieft","bg":"enthalten","status":"BELEGT","evidence":[{"source":"SRC-002","location":"BPE 4"}]},
+  {"id":"T-004","topic":"Gentechnik","basisfach":"enthalten","leistungsfach":"deutlich vertieft","bg":"teilweise belegt","status":"TEILWEISE BELEGT","evidence":[{"source":"SRC-010","location":"IQB Farbenblindheit"}]},
+  {"id":"T-005","topic":"Neurobiologie","basisfach":"enthalten","leistungsfach":"vertieft","bg":"enthalten","status":"BELEGT","evidence":[{"source":"SRC-002","location":"BPE 9"}]},
+  {"id":"T-006","topic":"Hormonsystem","basisfach":"zu prüfen","leistungsfach":"eigenständiger Bereich","bg":"kein gleichwertiger Pflichtblock nachgewiesen","status":"TEILWEISE BELEGT","evidence":[{"source":"SRC-001","location":"3.5.4.2"}]},
+  {"id":"T-007","topic":"Immunbiologie","basisfach":"zu prüfen","leistungsfach":"enthalten","bg":"enthalten","status":"TEILWEISE BELEGT","evidence":[{"source":"SRC-002","location":"BPE 3"}]},
+  {"id":"T-008","topic":"Evolution","basisfach":"enthalten","leistungsfach":"vertieft","bg":"enthalten","status":"BELEGT","evidence":[{"source":"SRC-002","location":"BPE 5"}]},
+  {"id":"T-009","topic":"Ökologie","basisfach":"enthalten","leistungsfach":"vertieft","bg":"enthalten","status":"BELEGT","evidence":[{"source":"SRC-002","location":"BPE 8"}]}
 ]
