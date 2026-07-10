@@ -1,0 +1,689 @@
+Bildungsplan 2016 Gymnasium – Biologie
+Überarbeitete Fassung vom 08.03.2022 (V2)
+
+
+
+
+   Jahresplanung für das Leistungsfach
+
+
+   Klassen 11/12
+
+
+
+
+   September 2022
+                                             Inhaltsverzeichnis
+1. Vorwort zu den Jahresplanungen................................................................................................. 3
+2. Exemplarische Jahresplanung Biologie ......................................................................................... 4
+2.1 Fachspezifische Rahmenbedingungen .............................................................................................. 4
+2.1.1 Stundenumfang im Leistungsfach Biologie .................................................................................... 4
+2.1.2 Anordnung der Themenbereiche ................................................................................................... 4
+2.2 Themenbereiche mit Stundenverteilung .......................................................................................... 6
+3. Exemplarische Unterrichtssequenzen .......................................................................................... 9
+3.1 „Mechanismen der Evolution“ (Teilbereich aus Themenbereich 3.5.3 Evolution) ........................... 9
+3.1.1 Didaktische Überlegungen ............................................................................................................. 9
+3.1.2 Tabellarische Darstellung der Unterrichtssequenz „Mechanismen der Evolution“ ..................... 10
+3.2 „Stammesgeschichte und Verwandtschaft“ (Teilbereich aus Themenbereich 3.5.3 Evolution) ..... 12
+3.2.1 Didaktische Überlegungen ........................................................................................................... 12
+3.2.2 Tabellarische Darstellung der Unterrichtssequenz „Stammesgeschichte und Verwandtschaft“ 13
+3.3 „Evolution und Zukunftsfragen“ (Themenbereich 3.5.3 Evolution: Teilbereich Evolution des
+Menschen und Themenbereich 3.5.6 Angewandte Biologie) ............................................................... 14
+3.3.1 Didaktische Überlegungen ........................................................................................................... 14
+3.3.2 Tabellarische Darstellung der Unterrichtssequenz „Evolution und Zukunftsfragen“ .................. 15
+
+
+
+
+                                                                  Seite 2
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                Jahresplanung Leistungsfach
+
+
+
+1. Vorwort zu den Jahresplanungen
+Um die Funktion von Jahresplanungen zu verstehen, ist eine Verortung im Gesamtkontext der
+Angebote, die den Bildungsplan 2016 flankieren, sinnvoll. Dies wird im Folgenden durch eine
+Begriffsdefinition und -abgrenzung zentraler Termini vorgenommen (vgl. hierzu auch https://km-
+bw.de/Kultusministerium,Lde/Startseite/Schule/Neue+Seite+_+Glossar).
+
+Bildungsstandards sind Vorgaben, die definieren, welche Kompetenzen Schülerinnen und Schüler zu
+einem festgelegten Zeitpunkt erreicht haben müssen. Sie werden überwiegend im
+Zweijahresrhythmus ausgewiesen.
+
+§   Das Kerncurriculum umfasst die Summe der verbindlichen Inhalte der baden-württembergischen
+    Bildungsstandards, die in 3/4 der zur Verfügung stehenden Unterrichtszeit zu erreichen sind.
+§ Das Schulcurriculum umfasst 1/4 der zur Verfügung stehenden Unterrichtszeit, z. B. zur Vertiefung
+    und Erweiterung der Vorgaben der baden-württembergischen Bildungsstandards.
+§ Die Beispielcurricula bis Klasse 10, die flankierend zum baden-württembergischen Bildungsplan
+    2016 entwickelt wurden, stellen auf dem Bildungsplan basierende Beispiele von Kerncurricula dar;
+    Ideen und Impulse für die Anbindung an das Schulcurriculum sind - sofern vorhanden - ergänzend
+    ausgewiesen. Beispielcurricula zeigen somit eine Möglichkeit auf, wie aus dem Bildungsplan
+    unterrichtliche Praxis werden kann. Sie erheben hierbei keinen Anspruch einer normativen
+    Vorgabe, sondern dienen vielmehr als beispielhafte Vorlage zur Unterrichtsplanung und -
+    gestaltung, indem sie exemplarisch darlegen, wie der im Bildungsplan vorgesehene
+    Kompetenzaufbau innerhalb einer Standardstufe im Unterricht umgesetzt werden kann.
+§ Die hier vorliegenden Jahresplanungen für die Kursstufe zeigen Möglichkeiten auf, wie die im
+    Bildungsplan für die Kursstufe beschriebenen inhalts- und prozessbezogene Kompetenzen sinnvoll
+    angelegt und vernetzt werden können.
+Diese Kompetenzen werden dabei konkreten Themenbereichen und Inhalten zugeordnet und ein
+zeitlicher Rahmen wird jeweils für die Themenbereiche vorgeschlagen. Umsetzungsideen geben einen
+Einblick, wie diese Inhalte im Unterricht konkret umgesetzt werden könnten.
+
+
+
+
+                                              Seite 3
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                   Jahresplanung Leistungsfach
+
+
+
+2. Exemplarische Jahresplanung Biologie
+2.1 Fachspezifische Rahmenbedingungen
+2.1.1 Stundenumfang im Leistungsfach Biologie
+Für den Unterricht im Leistungsfach Biologie stehen in der Kursstufe 1 etwa 36 Unterrichtswochen,
+d.h. etwa 180 Unterrichtsstunden zur Verfügung. In der Kursstufe 2 verbleiben bis zum schriftlichen
+Abitur etwa 24 Unterrichtswochen, d.h. 120 Unterrichtsstunden. Damit steht ein Gesamtvolumen von
+etwa 300 Stunden (inkl. Leistungsmessungen) zur Verfügung. Formal entfallen 75% dieser Stunden
+(225 Stunden) auf das Kerncurriculum und 25% (75 Stunden) auf das Schulcurriculum. Es wird dringend
+empfohlen, die Stunden für das Schulcurriculum wie in der vorliegenden Jahresplanung gleichmäßig
+auf die Themenbereiche zu verteilen und vorrangig für Übungen zu nutzen. Auf dieser Grundlage gibt
+die folgende Tabelle Abschätzungen für die Verteilung der Unterrichtsstunden bzw.
+Unterrichtswochen auf die einzelnen Themenbereiche an:
+
+Inhaltsbereich                               Kern-          Schul-         Unterrichts- Unterrichts-
+                                             curriculum     curriculum     stunden      wochen
+
+3.5.1 Biomoleküle und molekulare Genetik ca. 49 Std.        ca. 16 Std.    ca. 65 Std.    ca. 13
+
+3.5.2 Stoff- und Energieumwandlung           ca. 35 Std.    ca. 11 Std.    ca. 46 Std.    ca. 9
+
+3.5.3 Evolution                              ca. 34 Std.    ca. 11 Std.    ca. 45 Std.    ca. 9
+
+3.5.4 Ökologie                               ca. 33 Std.    ca. 11 Std.    ca. 44 Std.    ca. 9
+
+3.5.5 Neurobiologie und Hormone              ca. 35 Std.    ca. 11 Std.    ca. 46 Std.    ca. 9
+
+3.5.6 Angewandte Biologie                    ca. 29 Std.    ca. 10 Std.    ca. 39 Std.    ca. 8
+
+gesamt                                       ca. 215 Std.   ca. 70 Std.    ca. 285 Std.   ca. 57
+
+
+
+2.1.2 Anordnung der Themenbereiche
+Der Bildungsplan 2016 (V2) weist für das Leistungsfach die sieben Themenbereich 3.5.1 bis 3.5.7 aus.
+Davon sind die Themenbereiche 3.5.1 bis 3.5.6 für das schriftliche Abitur relevant.
+
+Die Themenbereiche 3.5.1 bis 3.5.6 sind nochmals in jeweils zwei oder drei Teilbereiche untergliedert
+(z. B. 3.5.3 mit den drei Teilbereichen "Mechanismen der Evolution", "Stammesgeschichte und
+Verwandtschaft" und "Evolution des Menschen"). Damit ergeben sich insgesamt 14 Teilbereiche für
+den Unterricht. Diese Teilbereiche können als Unterrichtsabschnitte aufgefasst werden, die auf
+verschiedene Art und Weise kombiniert werden können, auch über Grenzen der Themenbereiche
+hinweg. Die geschätzten Stundenumfänge der Themen- und Teilbereiche stellen lediglich Richtwerte
+dar. Sie können und müssen schon aufgrund schulischer Rahmenbedingungen angepasst werden (z. B.
+Zeitbedarf für Leistungsmessungen, Abschluss eines Teilbereichs vor einem Ferienblock oder vor dem
+Schuljahresende, z. B. Ausgleich von Unterrichtsausfällen).
+
+Die Anordnung im Bildungsplan ist keine Vorgabe für die Reihung der Inhaltsbereiche und Teilbereiche.
+In der vorliegenden Jahresplanung werden exemplarisch drei Reihungen skizziert (s. untenstehenden
+Abschnitt 2.2). Darüber hinaus sind weitere Reihungen möglich. Bei der Erstellung von Reihungen sollte
+Folgendes beachtet werden:
+                                               Seite 4
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                Jahresplanung Leistungsfach
+
+
+Themenbereich 3.5.1 Biomoleküle und molekulare Genetik: In diesem Themenbereich wird die
+molekulare Betrachtungsebene an verschiedenen Zusammenhängen erschlossen (u.a. Proteine,
+Enzymatik, Membranen, DNA und Proteinbiosynthese, Mutationen). Da diese Inhalte und das
+Verständnis von molekularen Abläufen für alle folgenden Inhaltsbereiche eine wichtige
+Lernvoraussetzung darstellen, wird dieser Inhaltsbereich als Auftakt für die Kursstufe empfohlen.
+Innerhalb dieses Themenbereichs bestehen die vielfältigsten Möglichkeiten zum Experimentieren,
+weshalb besonderes Augenmerk auf die Schulung von Kompetenzen aus dem Kompetenzbereich
+Erkenntnisgewinnung gelegt werden muss.
+
+Themenbereich 3.5.2 Stoff- und Energieumwandlung: Dieser Themenbereich ist wegen seiner
+biochemischen      Ausrichtung und      des    abstrakten   Energiekonzeptes   herausfordernd.
+Lernvoraussetzungen aus der Kursstufe Chemie sind wünschenswert; daher empfiehlt sich eine
+Abstimmung mit dem Fach Chemie. Innerhalb des Themenbereichs sollte der abbauende,
+heterotrophe Stoffwechsel vor dem aufbauenden, autotrophen Stoffwechsel behandelt werden, da
+Energiebereitstellung aus exergonen Stoffwechselprozessen sich leichter an lebensweltliche
+Erfahrungen anbinden lassen. Membranbiochemische Prozesse und energetische Betrachtungen
+fallen daran leichter und entlasten das Verständnis der Abläufe beim autotrophen Stoffwechsel.
+Wegen der abstrakten energetischen Betrachtungen in der Ökologie ist es zweckmäßig, den
+Themenbereich 3.5.2 Stoff- und Energieumwandlung vor dem Themenbereich 3.5.4 Ökologie zu
+behandeln.
+
+Themenbereich 3.5.3 Evolution: Nach der Behandlung von 3.5.1 sind alle Grundlagen für diesen
+Themenbereich geschaffen. Da keine besonderen Voraussetzungen aus affinen Fächern nötig sind und
+mit der Evolutionstheorie ein zentrales Erklärungsmodell für biologische Phänomene erarbeitet wird,
+bietet sich eine möglichst frühe Stellung im Unterrichtsgang an. Dabei sollten die Teilbereiche
+"Mechanismen der Evolution" und "Stammesgeschichte und Verwandtschaft" nacheinander
+bearbeitet werden. Da das eigentliche Erklärungsmodell für die evolutive Entstehung von
+Angepasstheiten und Arten im Teilbereich "Mechanismen der Evolution" erarbeitet wird, sollte dieses
+Erklärungsmodell dem Teilbereich "Stammesgeschichte und Verwandtschaft" vorangestellt werden
+(vgl. die Reihungen und Anmerkungen in den untenstehenden Abschnitten 2.2 und 3.2). Der
+Teilbereich "Evolution des Menschen" kann hingegen herausgelöst werden (vgl. die Reihungen und
+Anmerkungen in den untenstehenden Abschnitten 2.2 und 3.3 mit einer alternativen Anbindung an
+"3.5.6 Angewandte Biologie").
+
+Themenbereich 3.5.4 Ökologie: In diesem Themenbereich stehen ökologische Angepasstheiten und
+Einnischungen und damit in Verbindung Arten- und Naturschutz sowie der Stoff- und Energiehaushalt
+von Ökosystemen im Mittelpunkt. Daher sind Kenntnisse aus den Themenbereichen 3.5.2 Stoff- und
+Energieumwandlung      und     3.5.3   Evolution    wünschenswerte        Voraussetzungen.      Um
+Freilanduntersuchungen und Exkursionen sinnvoll zu ermöglichen, ist zumindest eine teilweise
+Bearbeitung in der Vegetationsperiode, also z. B. zum Schuljahresende erforderlich. Der
+Themenbereich besteht aus den zwei Teilbereichen "Strukturen und Zusammenhänge in
+Ökosystemen" und "Ökosysteme unter dem Einfluss des Menschen". Zwischen beiden Teilbereichen
+und auch innerhalb der Teilbereiche gibt Möglichkeiten, Inhalte anders zu kombinieren oder auch
+auszulagern. Im Themenbereich 3.5.4 Ökologie bestehen vielfältige Möglichkeiten zur Bearbeitung von
+Entscheidungskonflikten aus der Umweltethik, weshalb besonderes Augenmerk auf die Schulung von
+Kompetenzen aus dem Kompetenzbereich Bewertung gelegt werden muss.
+
+Themenbereich 3.5.5 Neurobiologie und Hormone: Die Stellung dieses Themenbereichs ist wenig
+eingeschränkt. Mit der Neurobiologie wird die Membranbiologie aus 3.5.1 wieder aufgegriffen. Für die
+Bearbeitung der grundlegenden neurobiologischen Konzepte ist ein sicherer Umgang mit Inhalten aus
+der Physik und Chemie (z. B. Verteilungsgleichgewichte, Potenzial(-differenz), Zusammenhang
+                                               Seite 5
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                 Jahresplanung Leistungsfach
+
+
+elektrische Energie und Ladung) zweckmäßig. Daher erscheint es sinnvoll, wenn der Themenbereich
+möglichst spät behandelt wird. Er besteht aus den beiden Teilbereichen "Neurobiologie" und
+"Hormone", die in ihrer Reihung nicht festgelegt sein müssen und auch abgelöst voneinander
+bearbeitet werden könnten.
+
+Themenbereich 3.5.6 Angewandte Biologie: Die Stellung dieses Themenbereichs ist ebenfalls wenig
+eingeschränkt. Er kann sich direkt an 3.5.1 Biomoleküle und molekulare Genetik anschließen und die
+molekulare Genetik weiterführen und auch ganz am Ende der Kursstufe 2 stehen. Die beiden
+Teilbereiche "Molekularbiologische Verfahren und Gentechnik" und "Chancen und Risiken
+biomedizinischer Verfahren" sind voneinander ablösbar. Mit dem Teilbereich "Evolution des
+Menschen" aus 3.5.3 Evolution ergibt sich eine Kombinationsmöglichkeit (vgl. die Reihungen und
+Anmerkungen in den untenstehenden Abschnitten 2.2 und 3.3). Im Themenbereich 3.5.6 Angewandte
+Biologie bestehen vielfältige Möglichkeiten zur Bearbeitung von Entscheidungskonflikten aus der
+Umweltethik oder Medizinethik, weshalb besonderes Augenmerk auf die Schulung von Kompetenzen
+aus dem Kompetenzbereich Bewertung gelegt werden muss.
+
+
+
+2.2 Themenbereiche mit Stundenverteilung
+    Unterrichtssequenz                           Bildungsplanbezüge                          UStd.
+ Kursstufe 1 (ca. 36 Unterrichtswochen; gesamt ca. 180 UStd. (135 Std. KC zzgl. 45 Std. SC)
+                                3.5.1 (1) - (7) Bau und Funktion von Biomolekülen           ca. 35
+ Molekularbiologie der Zelle
+                                3.5.1 (8) - (13) Molekulare Genetik                         ca. 27
+ Mechanismen der
+                                3.5.3 (1) - (6) Mechanismen der Evolution                   ca. 22
+ Evolution
+ Stammesgeschichte und
+                                3.5.3 (7) - (9) Stammesgeschichte und Verwandtschaft        ca. 12
+ Verwandtschaft
+                                3.5.2 (1) - (2) Grundlagen der Stoff- und Energie-
+ Energiebereitstellung in
+                                                  umwandlung                                ca. 16
+ Zellen
+                                3.5.2 (8) - (10) Abbauender Stoffwechsel (Dissimilation)
+ Lichtenergie als Grundlage 3.5.2 (3) - (7) Aufbauender Stoffwechsel
+                                                                                            ca. 26
+ aller Lebensprozesse                             (Fotosynthese)
+ Strukturen und Zusam-          3.5.4 (1) - (6) Strukturen und Zusammenhänge in
+                                                                                            ca. 26
+ menhänge in Ökosystemen                          Ökosystemen
+ Ökosysteme unter dem           3.5.4 (7) - (10) Ökosysteme unter dem Einfluss des
+                                                                                            ca. 16
+ Einfluss des Menschen                            Menschen
+ Kursstufe 2 (ca. 24 Unterrichtswochen; gesamt ca. 120 UStd. (90 Std. KC zzgl. 30 Std. SC)
+ Neurobiologie                  3.5.5 (1) - (10) Neurobiologie                              ca. 34
+ Hormone                        3.5.5 (11) - (13) Hormone                                   ca. 12
+                                3.5.3 (10) - (11) Evolution des Menschen                    ca. 15
+                                3.5.6 (1) - (4) Molekularbiologische Verfahren und
+ Evolution und                                                                              ca. 23
+                                                  Gentechnik
+ Zukunftsfragen
+                                3.5.6 (5) - (7) Chancen und Risiken biomedizinischer
+                                                                                            ca. 16
+                                                  Verfahren
+ Verfügungsstunden                                                                          ca. 20
+ Schriftliches Abitur
+ frei wählbar                   zum Beispiel 3.5.7 (1) - (4)     Immunsystem                ca. 20
+
+
+
+
+                                               Seite 6
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                 Jahresplanung Leistungsfach
+
+
+Nachfolgend ist die obige tabellarische Darstellung in grafischer Form als Reihung wiedergegeben. In
+Ergänzung sind zwei weitere mögliche Reihungen grafisch wiedergegeben. Keine dieser drei Reihungen
+kann alle in Abschnitt 2.1.2 genannten Empfehlungen erfüllen. Darüber hinaus sind weitere Reihungen
+möglich. Für Kriterien und Empfehlungen zur möglichen Anordnung von Themenbereichen beachten
+Sie die Ausführungen zu den Themenbereichen in Abschnitt 2.1.2.
+
+
+
+Beispielreihung 1: Diese Reihung entspricht der tabellarischen Darstellung (siehe oben).
+
+
+
+
+Beispielreihung 2:
+
+
+
+
+                                               Seite 7
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022   Jahresplanung Leistungsfach
+
+
+Beispielreihung 3:
+
+
+
+
+                                            Seite 8
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                             Jahresplanung Leistungsfach
+
+
+
+3. Exemplarische Unterrichtssequenzen
+3.1 „Mechanismen der Evolution“ (Teilbereich aus Themenbereich 3.5.3 Evolution)
+3.1.1 Didaktische Überlegungen
+Die Evolutionstheorie ist neben der Zelltheorie die zentrale Erklärungstheorie biologischer Phänomene. Mit der Evolutionstheorie erlangt die Biologie innerhalb
+der Naturwissenschaften eine Sonderstellung, da sie zwei Arten von Kausalerklärungen liefert. Eine aktual-kausale (proximate) Erklärung erklärt Phänomene mit
+aktuell beobachtbaren und experimentell ermittelbaren Ursachen (z. B. Hormonwirkung; Wirkung eines Genprodukts usw.). Mit der Evolutionsbiologie tritt nun
+eine zweite, nämlich historisch-kausale (ultimate) Erklärung hinzu, die biologische Phänomene aus den Selektionsbedingungen in der Vergangenheit heraus
+erklärt. Der Evolutionsbiologie kommt als Disziplin mit erdgeschichtlicher Perspektive daher auch eine zentrale Stellung in einem naturwissenschaftlich geprägten
+Weltbild zu.
+
+Die Evolutionstheorie umfasst zwei zentrale Säulen, die Selektionstheorie und die Deszendenztheorie. Nur die Selektionstheorie liefert ein Erklärungsmodell für
+Veränderungen im Verlaufe vieler Generationen. Die Deszendenztheorie prüft Verwandtschaftsbeziehungen zwischen Arten und setzt daher das
+Erklärungsmodell der Selektionstheorie zwingend voraus. Allein aus der Deszendenztheorie heraus lässt sich keine Erklärung für evolutive Transformationen
+ableiten. Folgerichtig sollte daher die Selektionstheorie ("Mechanismen der Evolution“) am Beginn der Auseinandersetzung mit Evolution stehen und eine
+ultimate Erklärung für das Entstehen von Angepasstheiten liefern.
+
+Für das Verständnis evolutiver Prozesse ist die populationsbiologische Betrachtungsebene (Allelhäufigkeiten) von zentraler Bedeutung. Der bewusste Wechsel
+von der Ebene der Individuen auf diese Betrachtungsebene wird als initialer Lernprozess an den Beginn der Unterrichtssequenz gesetzt. Im weiteren Verlauf ist
+insbesondere darauf zu achten, dass lebensweltliche Vorstellungen (z. B. lamarckistische, finalistische oder teleologische Vorstellungen; aktive Anpassung) als
+Lernchance genutzt, zu fachlichen Vorstellungen in Bezug gesetzt werden (zufällige Mutation und gerichtete Selektion) und mit sensibler Fachsprache beschrieben
+werden (z. B. "Arten werden angepasst"; Vermeidung von Anthropomorphismen; konsequente Unterscheidung von Gen und Allel). Im Verlauf des Unterrichts
+liefert die Selektionstheorie ultimate Erklärungen für zunehmend komplexere Beispiele (z. B. Koevolution, Trade-offs, Kooperation und Altruismus).
+
+Die Selektionstheorie ist eine naturwissenschaftliche Theorie und sollte daher soweit möglich im Unterricht an experimentelle Daten (z. B. populationsgenetische
+Daten, Lederbergscher Stempelversuch) und Simulationsmodelle (z. B. reproduktive Fitness; Spieltheorie) angeknüpft werden.
+
+Die Selektionstheorie erklärt Veränderungen in Populationen und damit auch Aufspaltung einer Stammart in zwei Schwesterarten durch Entstehung einer
+reproduktiven Barriere zwischen Populationen. Dieser Aspekt bildet die Schnittstelle zur Deszendenztheorie (vgl. untenstehenden Abschnitt 3.2.2).
+
+
+
+                                                                             Seite 9
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                                      Jahresplanung Leistungsfach
+
+
+3.1.2 Tabellarische Darstellung der Unterrichtssequenz „Mechanismen der Evolution“
+          Prozessbezogene                           Inhaltsbezogene
+                                                                                              Unterrichtsverlauf                              Bemerkungen
+           Kompetenzen                               Kompetenzen
+ 2.1 Erkenntnisgewinnung                  3.5.3 Evolution                            ca. 22 Stunden                               Bemerkung
+ 2. Morphologie und Anatomie von          Mechanismen der Evolution:                  § Wiederholung Vererbungsregeln:            Sprachsensible Trennung der Begriffe
+ Lebewesen und Organen untersuchen        (1) Änderungen der Allelhäufigkeiten im       dominant-rezessiver Erbgang               Gen und Allel
+ 3. Lebewesen kriteriengeleitet           Genpool einer Population mit unter-           (Betrachtungsebene der Individuen)
+ vergleichen und klassifizieren           schiedlicher reproduktiver Fitness          § Übergang zu populationsgenetischer
+                                                                                                                                  z. B. Wird sich eine durch ein dominant
+ 13. Wechselwirkungen mithilfe von        begründen (ultimate, historisch-kausale       Betrachtungsebene: Konstanz der
+                                                                                                                                  vererbtes Allel bedingte Krankheit in
+ Modellen oder Simulationen erklären      Erklärung)                                    Allelfrequenzen in idealer Population
+                                                                                                                                  einer Population ausbreiten? (konstante
+                                                                                        (Hardy-Weinberg)
+ 2.2 Kommunikation                        (2) evolutive Anpassungsprozesse nach                                                   Allelfrequenz in idealer Population)
+                                                                                      § Fallbeispiel: Änderung der Allelfre-
+                                          der synthetischen Evolutionstheorie                                                     z. B. Birkenspanner; Einsatz von Modellen
+ 3. Informationen aus Texten, Bildern,                                                  quenz durch ungleiche Fortpflan-
+                                          erklären (genetische Variabilität durch                                                 bzw. Simulationen (digital/ analog)
+ Tabellen, Diagrammen oder Grafiken                                                     zungserfolge (reale Population); na-
+                                          Mutation und Rekombination, Selektion,
+ entnehmen                                                                              türliche Selektion als Evolutionsfaktor
+                                          Isolation, Gendrift)
+ 4. biologische Sachverhalte unter                                                    § Selektionstypen                           Beispiele für gerichtete, stabilisierende,
+ Verwendung der Fachsprache               (5) proximate und ultimate Erklärungen
+                                                                                                                                  disruptive Selektion
+ beschreiben oder erklären (ultimat und   unterscheiden                               § Mutation als ungerichtetes Zufalls-
+                                                                                                                                  z. B. Lederbergscher Stempelversuch;
+ proximat)                                (4) Koevolution als wechselseitigen           ereignis; Mutation als Ursache für
+                                                                                                                                  Widerlegung der lebensweltlichen
+                                          Anpassungsprozess zweier Arten an             Variation; genetische Vielfalt als
+                                                                                                                                  Vorstellung einer zielgerichteten
+                                          einem Beispiel darstellen                     Teilaspekt von Biodiversität
+                                                                                                                                  Anpassung
+                                          (6) den adaptiven Wert von Verhalten an     § Dihybrider Erbgang: Rekombination
+                                          einem Beispiel begründen (Kosten-             als Evolutionsfaktor
+                                          Nutzen-Analyse z. B. bei Gruppenbildung,    § proximate vs. ultimate Erklärung          Beispiel und Übungen zu proximat/
+                                          Egoismus, Altruismus, Aggression)                                                       ultimat
+                                                                                      § Gendrift: Gründereffekt und
+                                          (3) den biologischen Artbegriff erklären
+                                                                                        Flaschenhalseffekt
+                                          und Artbildungsprozesse erläutern (allo-
+                                                                                      § Koevolution als Ergebnis von doppel-
+                                          patrische und sympatrische Artbildung,                                                  Widerlegung der lebensweltlichen
+                                                                                        ter Konkurrenz (z. B. Konkurrenz
+                                          adaptive Radiation)                                                                     Vorstellung einer Anpassung aneinander
+                                                                                        zweier Pflanzen um Bestäuber und
+                                                                                        zweier Insekten um Nektar)                (Harmoniedenken)
+                                                                                      § Trade-offs: Evolution fördert             Beispiel für eine negative Kopplung zwei-
+                                                                                        Kompromisslösungen (z. B. r- vs. k-       er Merkmale möglichst auf Grundlage
+
+
+
+                                                                                Seite 10
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                  Jahresplanung Leistungsfach
+
+
+                                                                     Strategie; sexuelle Selektion,           experimenteller Daten (costs and
+                                                                     Gelegegröße o. a.)                       benefits; Kosten-Nutzen-Optimierung)
+                                                                                                              Einfaches Einführungsbeispiel (z. B.
+                                                                § Verhalten: proximate Erklärungen            Attrappenversuche für exogene Ursa-
+                                                                  (endogene und exogene Faktoren) vs.         chen, Hormone als endogene Ursachen
+                                                                  ultimate Erklärungen (evolutionärer         für Verhalten)
+                                                                  Anpassungswert)
+                                                                § Fortpflanzungsstrategien von
+                                                                  Hominiden (ultimate Erklärungen)            Vergleich Gorilla - Schimpanse - Mensch
+                                                                § Selektionstheoretische Erklärung            und evolutionärer Anpassungswert
+                                                                  komplexer Verhaltensweisen                  z. B. Verwandtenselektion; Kooperation,
+                                                                                                              Altruismus ("Darwins Dilemma": Verzicht
+                                                                                                              auf eigene Reproduktion)
+                                                                § Allopatrische Artbildung: Isolation als     Einführung von Aufspaltungsdiagrammen
+                                                                  Evolutionsfaktor (z. B. eiszeitliche Bei-   (= Stammbaumdarstellungen). Die
+                                                                  spiele wie Grünspecht - Grauspecht;         Aufspaltung einer Stammart in zwei
+                                                                  z. B. Schimpanse - Bonobo)                  Schwesterarten bildet den Übergang zur
+                                                                                                              Auseinandersetzung mit der Stammes-
+                                                                                                              geschichte (Verwandtschaftshypothesen
+                                                                                                              und Stammbaumdarstellungen.
+                                                                § Sympatrische Artbildung
+                                                                                                              Rückgriff disruptive Selektion, Beispiel
+                                                                                                              über Weibchenpräferenz
+                                                                § Komplexe Artbildungsphänomene:
+                                                                  adaptive Radiation                          Ökologische "Planstellen" als
+                                                                                                              Voraussetzung; allopatrische und
+                                                                                                              sympatrische Artbildungsmechanismen
+
+
+
+
+                                                          Seite 11
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                       Jahresplanung Leistungsfach
+
+
+
+3.2 „Stammesgeschichte und Verwandtschaft“ (Teilbereich aus Themenbereich 3.5.3
+  Evolution)
+3.2.1 Didaktische Überlegungen
+Nachdem ein Erklärungsmodell für eine Artaufspaltung vorliegt (vgl. obenstehenden Abschnitt 3.1.1), können auch Abfolgen mehrerer Artaufspaltungen
+bearbeitet werden (Verwandtschaftsanalysen). Hierbei wird die Ebene der Population und der Art verlassen und häufig auf der Ebene von
+Verwandtschaftsgruppen argumentiert. Diese Abstraktion kann bewusst vollzogen werden, wenn eine erste Verwandtschaftsanalyse an konkreten Arten (z. B.
+vier Arten der Hominidae) und nicht an Verwandtschaftsgruppen bearbeitet wird. Dabei muss auch das Lesen von Verwandtschaftsdiagrammen (Stammbäumen)
+und die Fachsprache (ursprünglich, abgeleitet, Schwesterarten, Stammarten) eingeübt werden. Die Verwandtschaftsanalyse mit DNA-Sequenzdaten erfolgt in
+prinzipiell gleicher Weise.
+
+Im Rahmen von Verwandtschaftsanalysen sind Stammbäume als konkurrierende Verwandtschaftsypothesen auszufassen, die gegeneinander getestet werden.
+Diese vergleichende Arbeitsweise unterscheidet sich prinzipiell nicht von der naturwissenschaftlichen Arbeitsweise, jedoch werden Hypothesen über Vorgänge
+in der Vergangenheit bearbeitet. Dabei bildet der Vergleich homologer Merkmale, das Sparsamkeitsprinzip und der Außengruppenvergleich den Kern der
+Verwandtschaftsanalysen. Die Evolutionsgeschichte homologer Merkmale wird in die Arbeit mit Stammbäumen integriert. Durch die konsequent historische
+Betrachtung von Merkmalen kann an Beispielen gezeigt werden, dass evolutive Lösungen keine Optimallösungen sind, sondern durch konstruktive Zwänge
+eingeschränkte Kompromisslösungen.
+
+Schöpfungsmythen werden als nicht-widerlegbare und daher nicht-naturwissenschaftliche Denkweisen identifiziert und müssen daher kategorisch von
+naturwissenschaftlichen Denkweisen getrennt werden. Sie liegen außerhalb des Geltungsbereichs naturwissenschaftlicher Aussagen und können somit per se
+auch keine Erklärungsalternative zur Evolutionstheorie darstellen. Der Anspruch nicht-naturwissenschaftlicher Denkweisen wie Kreationismus und Intelligent
+Design, die Evolutionstheorie mit Schöpfungsmythen zu widerlegen, muss daher als unzulässig zurückgewiesen werden.
+
+
+
+
+                                                                         Seite 12
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                                       Jahresplanung Leistungsfach
+
+
+3.2.2 Tabellarische Darstellung der Unterrichtssequenz „Stammesgeschichte und Verwandtschaft“
+          Prozessbezogene                            Inhaltsbezogene
+                                                                                                Unterrichtsverlauf                             Bemerkungen
+           Kompetenzen                                Kompetenzen
+ 2.1 Erkenntnisgewinnung                   3.5.3 Evolution                              ca. 12 Stunden                             Bemerkung
+ 2. Morphologie und Anatomie von           Stammesgeschichte und Verwandtschaft:         § Verwandtschaftsanalyse innerhalb        Arbeit mit Merkmalsmatrix: Außen-
+ Lebewesen und Organen untersuchen         (7) Merkmale kriteriengeleitet als              einer Artengruppe mithilfe von          gruppen; ursprüngliche und abgeleitete
+ 3. Lebewesen kriteriengeleitet            homolog oder nicht homolog                      Merkmalsvergleichen nach dem Spar-      Merkmale; hypothesengeleitetes Arbei-
+ vergleichen und klassifizieren            identifizieren und Konvergenzen als             samkeitsprinzip (Beispiel und Übun-     ten: Testen konkurrierender Ver-
+                                           Angepasstheiten aufgrund ähnlicher              gen für morphologische Merkmale         wandtschaftshypothesen; keine immun-
+ 2.2 Kommunikation
+                                           Selektionsbedingungen erklären                  und DNA-Sequenzen)                      biologischen Verfahren oder Proteinver-
+ 3. Informationen aus Texten, Bildern,                                                                                             gleiche (fachwissenschaftlich obsolet)
+ Tabellen, Diagrammen oder Grafiken        (8) ursprüngliche und abgeleitete
+                                                                                         § Homologiebetrachtungen im Kontext       herkunftsgleiche Merkmale, die ähnlich
+                                           Merkmale identifizieren und zur Prüfung
+ entnehmen                                                                                 mit Stammbäumen: Merkmale mit           oder unähnlich sein können; je nach
+                                           von Stammbaumhypothesen nutzen
+ 4. biologische Sachverhalte unter Ver-                                                    gleicher genetischer Grundlage          gewählten Beispielen müssen nicht alle
+                                           (homologe morphologische Merkmale,
+ wendung der Fachsprache beschreiben                                                                                               drei Kriterien behandelt werden.
+                                           homologe DNA-Sequenzen)
+ oder erklären (ultimat und proximat)                                                                                              Rudimente und Atavismen nicht
+ 7. komplexe biologische Sachverhalte      (5) proximate und ultimate Erklärungen        § Konvergenzen als funktionsgleiche       verpflichtend; ggf. hier anknüpfen
+ mithilfe von Schemata, Grafiken, Model-   unterscheiden (unter anderem an Bei-            Merkmale mit unabhängiger Entste-
+ len oder Diagrammen anschaulich           spielen des Sozialverhaltens von                                                        Konvergenzbegriff ausreichend; kein
+                                                                                           hung aufgrund ähnlicher Selektions-
+                                           Primaten)                                                                               Analogiebegriff (fachwissenschaftlich
+ darstellen                                                                                bedingungen
+                                                                                                                                   obsolet)
+ 8. adressatengerecht präsentieren         (9) die Evolutionstheorie als naturwissen-
+                                           schaftliche Theorie gegenüber nicht-na-       § Rekonstruktion einer evolutiven         Evolution als Transformationsprozess,
+                                           turwissenschaftlichen Vorstellungen zur         Transformation (z. B. Kiemenatmung-     der Neues nur auf der Basis von
+                                           Entstehung von Artenvielfalt abgrenzen          Luftatmung; Laufen-Fliegen)             Bestehendem entwickeln kann; durch
+                                                                                         § Beispiel für nicht-optimale evolutive   konstruktive Zwänge infolge von
+                                                                                           Lösung: konstruktive Zwänge als Teil    Vorläuferstrukturen kann Evolution keine
+                                                                                           einer ultimaten Erklärung (z. B.        Optimallösung sein
+                                                                                           Keuzung Nahrung-Luftweg, z. B.
+                                                                                           fehlende Kiemen bei Meeressäugern)
+                                                                                         § Geltungsbereich naturwissenschaftli-
+                                                                                                                                   Analyse nicht-naturwissenschaftlicher
+                                                                                           cher Aussagen: Widerlegbarkeit, Re-
+                                                                                                                                   Aussagen (z. B. Kreationismus, Intelligent
+                                                                                           produzierbarkeit; Abgrenzung zu
+                                                                                                                                   Design), kategoriale Trennung von
+                                                                                           nicht widerlegbaren, nicht-natur-
+                                                                                                                                   Naturwissenschaft und Glaube
+                                                                                           wissenschaftlichen Vorstellungen
+
+
+                                                                                  Seite 13
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                        Jahresplanung Leistungsfach
+
+
+
+3.3 „Evolution und Zukunftsfragen“ (Themenbereich 3.5.3 Evolution: Teilbereich
+  Evolution des Menschen und Themenbereich 3.5.6 Angewandte Biologie)
+3.3.1 Didaktische Überlegungen
+Der Teilbereich "Evolution des Menschen" ist hier aus dem Inhaltsbereich 3.5.3 Evolution ausgegliedert und mit dem Inhaltsfeld 3.5.6 Angewandte Biologie
+verknüpft. Der Teilbereich "Evolution des Menschen" ist dadurch auch zeitlich vom Inhaltsbereich 3.4.3 Evolution separiert. Er ließe sich jedoch auch ohne
+bedeutende Abänderung der untenstehenden tabellarischen Darstellung (s. Abschnitt 3.3.2) wieder an den Inhaltsbereich 3.4.3 Evolution angliedern.
+
+Voraussetzung für die Behandlung der Humanevolution sind die Kenntnisse aus den Teilbereichen "Mechanismen der Evolution" und "Stammesgeschichte und
+Verwandtschaft". Sie können hier in Ansätzen wiederholt werden, jedoch geht es im Kern um die Naturgeschichte des Menschen und darüber hinaus um die
+Reflexion des Selbstbilds des Menschen in mehrfacher Hinsicht.
+
+Zum einen wird vorgeschlagen, die Unterrichtssequenz neben den herkömmlichen Inhalten (Vergleich Mensch-Schimpanse, aufrechter Gang, bedeutende
+Fossilformen) auch mit gesellschaftlich bedeutenden Aspekten anzureichern. Dazu gehört die Widerlegung des Konzeptes der Menschenrassen, sowie die
+kritische Auseinandersetzung mit dem Überlegenheitsdenken bestimmter Menschengruppen auf biologischer und biogeografischer Grundlage, das bis heute
+eine Ursache für Ausgrenzung und Ausbeutung darstellt.
+
+Zum anderen macht die kulturelle und technische Evolution deutlich, dass der Mensch sich vom reinen Objekt der Evolution auch zu einem Subjekt der Evolution
+gewandelt hat und wie keine andere Art das Bild der Erde verändert. In dieses Spannungsfeld von Verantwortung und Respekt gegenüber den natürlichen
+Gegebenheiten und Nutzung von Technologien für das Überleben und Wohlergehen von Menschen fallen auch Fragen der Zukunftsgestaltung mit neuen
+Technologien wie Gen- und Reproduktionstechnologie, die sich anschließen lassen. In diesen Kontexten sollen wesentliche Aspekte aus dem Kompetenzbereich
+Bewertung adressiert werden, insbesondere Perspektivwechsel, Trennung von deskriptiven und normativen Aussagen, Hierarchisierung von Werten und
+Entscheidungsstrategien bei Wertekonflikten. Für die Unterrichtsgestaltung muss die Detailtiefe für molekularbiologische Inhalte so ausgelegt werden, dass
+ausreichend Raum für Bearbeitung von Bewertungssituationen verbleibt.
+
+
+
+
+                                                                          Seite 14
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                                          Jahresplanung Leistungsfach
+
+
+3.3.2 Tabellarische Darstellung der Unterrichtssequenz „Evolution und Zukunftsfragen“
+           Prozessbezogene                               Inhaltsbezogene
+                                                                                                   Unterrichtsverlauf                            Bemerkungen
+            Kompetenzen                                   Kompetenzen
+ 2.1 Erkenntnisgewinnung                      3.5.3 Evolution (Teilbereich):               ca. 14 Stunden                            Bemerkung
+ 3. Lebewesen kriteriengeleitet               Evolution des Menschen:                       § Vergleich Pan - "Lucy" - Homo:         Vorschlag fossile Arten: Australopithecus
+ vergleichen und klassifizieren               (10) die stammesgeschichtliche                  Skelettunterschiede im Hinblick auf    afarensis ("Lucy"), Paranthropus boisei,
+ 11. Struktur- und Funktionsmodelle zur       Verwandtschaft und die Ausbreitung von          den aufrechten Gang                    Homo erectus
+ Veranschaulichung anwenden                   Menschenarten (Hominini) anhand               § Klimawandel: Paranthropus boisei       H. habilis, H. rudolfensis, H. ergaster und
+                                              ausgewählter Fossilfunde darstellen             und Homo spec. als Konkurrenten in     H. erectus als Vertreter der Linie Homo
+ 2.2 Kommunikation
+                                                                                              der Trockensavanne                     spec. benennen, aber nicht explizit
+ 3. Informationen aus Texten, Bildern, Ta-    (11) Besonderheiten der Evolution des
+                                                                                            § Evolutive "Erfolgslösungen" in der     unterscheiden
+ bellen, Diagrammen oder Grafiken             Menschen erläutern und die Bedeutung
+                                                                                              Linie Homo: Kooperation statt
+                                              kultureller Entwicklungen darstellen (zum                                              Modelle zum vergleichenden Arbeiten und
+ entnehmen                                                                                    Konfrontation (Reduktion Eckzähne),
+                                              Beispiel aufrechter Gang, Präzisionsgriff;                                             zur Veranschaulichung nutzen
+ 4. biologische Sachverhalte unter Ver-                                                       aufrechter Gang; Präzisionsgriff,
+                                              Werkzeuggebrauch, Sprachentwicklung;                                                   Keine Details zu den anatomischen
+ wendung der Fachsprache beschreiben                                                          großes Gehirn, Sprache, Werkzeug-
+                                              Widerlegung des Konzepts der                                                           Grundlagen von Gehirn und Sprache
+ oder erklären (ultimat und proximat)                                                         gebrauch und Kultur
+                                              Menschenrassen)
+ 7. komplexe biologische Sachverhalte                                                       § Abgrenzung biologische und             aDNA Befunde zur Kreuzung von Nean-
+ mithilfe von Schemata, Grafiken, Model-                                                      kulturelle Evolution                   dertaler und H. sapiens als Anlass zur
+ len oder Diagrammen anschaulich                                                            § Auswanderungswellen H. erectus         Reflexion des Artstatus; ggf. Artkonzepte
+ darstellen                                                                                   (à Europa: Neandertaler) und H.        geeignetes Beispiel zur Wiederholung der
+ 8. adressatengerecht präsentieren                                                            sapiens                                Selektionstheorie: Hautfarben
+ 9. sich selbst und andere in ihrer Indivi-                                                 § Problematik des Artbegriffs am
+                                                                                                                                     z. B. Jenaer Erklärung zum Rassenkon-
+ dualität wahrnehmen und respektieren                                                         Beispiel Neandertaler und H. sapiens
+                                                                                                                                     zept; genetische Gradienten statt gene-
+ 10. ihren Standpunkt zu biologischen                                                       § Wiederholung der Selektionstheorie
+                                                                                                                                     tischer Grenzen widerlegen das
+ Sachverhalten fachlich begründet                                                             an einem Beispiel
+ vertreten                                                                                                                           Rassenkonzept
+                                                                                            § Biologische Widerlegung des
+                                                                                              Rassenkonzeptes beim Menschen          Zuwanderung als Chance: z. B. aus Ana-
+                                                                                            § Migrationsgeschichte von H. sapiens    tolien (-8.000 J) und Osteuropa (-4.500 J)
+                                                                                              in Europa                              als Entwicklungsschübe für Europa;
+                                                                                            § Die rasante kulturell-technische       Biogeografische Vorteile, nicht "genetisch
+                                                                                              Evolution in Eurasien:                 überlegene Europäer" als Ursache für die
+                                                                                              Biogeografische Voraussetzungen in     rasante kulturell-technische Evolution in
+                                                                                              Eurasien im Vergleich zu Amerika,      Europa; Mensch nicht nur als Teil, sondern
+                                                                                              Afrika, Australien                     als Gestalter der Umwelt
+
+
+                                                                                     Seite 15
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                                       Jahresplanung Leistungsfach
+
+
+ 2.2 Kommunikation                           3.5.6 Angewandte Biologie (Teilbereich):   ca. 24 Stunden                            Bemerkung
+ 1. zu biologischen Themen in unter-         Molekularbiologische Verfahren und          § Restriktionsenzyme als Schutzwerk-     Gelenkstelle zur Evolution: Der Mensch
+ schiedlichen analogen und digitalen         Gentechnik:                                   zeuge von Bakterien gegen Viren-       wird zum Gestalter der Umwelt, der
+ Quellen recherchieren                       (1) Werkzeuge und Verfahren der Mole-         DNA, die sich als gentechnische        Mensch gestaltet Organismen gezielt
+ 3. Informationen aus Texten, Bildern, Ta-   kularbiologie erläutern (Restriktionsen-      Spezialwerkzeuge nutzen lassen         durch gezielte Mutation, Selektion
+ bellen, Diagrammen oder Grafiken            zyme, Plasmide, PCR, Gelelektrophorese)     § Genetische Manipulation von Bakte-     PCR und Gelelektrophorese können bereits
+ entnehmen                                                                                 rien zur gezielten Eiweißherstellung   in der molekularen Genetik behandelt
+                                             (3) ein Verfahren zur Herstellung trans-
+ 4. biologische Sachverhalte unter Ver-                                                    (Restriktion, Rekombination,           werden (z. B. PCR als "Replikation in vitro")
+                                             gener Organismen erläutern (Isolierung
+ wendung der Fachsprache beschreiben                                                       Ligation, Selektion, z. B. Insulin,
+                                             und Transfer von Genen, Selektion                                                    Selektion via Markergene (z. B. Anitibiotika
+ oder erklären (ultimat und proximat)                                                      Chymosin)
+                                             transgener Organismen)                                                               oder Blau-Weiß-Verfahren)
+ 7. komplexe biologische Sachverhalte
+ mithilfe von Schemata, Grafiken, Model-     (4) Chancen und Risiken der Nutzung                                                  "transgen"= "genetically modified orga-
+ len oder Diagrammen anschaulich             gentechnisch veränderter Organismen         § Definition "transgener Organismus      nism" (GMO): Integration und Expression
+ darstellen                                  bewerten (zum Beispiel in der Landwirt-       (GMO)" und Abgrenzung gegen den        artfremder Gene, d. h. auf natürlichem
+ 8. adressatengerecht präsentieren           schaft)                                       Begriff Gentechnik                     Wege nicht erreichbar
+ 10. ihren Standpunkt zu biologischen        (2) eine Methode zur gezielten Verände-                                              "Gentechnik": unscharfer, undefinierter
+ Sachverhalten fachlich begründet            rung von DNA beschreiben (CRISPR/Cas9)                                               Begriff, der auch Labormethoden (z. B.
+ vertreten                                                                                                                        PCR) mit einschließt.
+ 2.3 Bewertung                                                                                                                    Ti-Plasmid von Agrobacterium tumefaciens
+                                                                                         § Genetische Manipulation                als geeigenter Vektor; Besonderheiten der
+ 1. in ihrer Lebenswelt biologische                                                        mehrzelliger Organismen zur            Manipulation bei Vielzellern
+ Sachverhalte erkennen                                                                     wirtschaftlichen Nutzung (z. B. Bt-
+                                                                                                                                  Analyse auf der Sachebene; Trennung von
+ 3. die Aussagekraft von Darstellungen in                                                  Mais, Golden Rice)
+                                                                                                                                  Sach- (deskriptive, naturwiss. Aussagen)
+ Medien bewerten
+                                                                                                                                  und Werteaussagen (normative, ethische
+ 4. zwischen naturwissenschaftlichen und
+                                                                                                                                  Aussagen); Wertekonflikt, Perspektiv-
+ ethischen Aussagen unterscheiden                                                        § Bewertung: Zulassung eines GMO
+                                                                                                                                  wechsel, wertebasierte Gewichtungs-
+ 7. Anwendungen und Folgen biologi-                                                        zur wirtschaftlichen Nutzung (z. B.
+ scher Forschungsergebnisse unter dem                                                                                             strategie
+                                                                                           Bt-Mais).
+ Aspekt des Perspektivenwechsels                                                                                                  Behandlung CRISPR/Cas9 ist auch im
+ beschreiben                                                                                                                      Kontext mit Gentherapie möglich (s. unten)
+ 8. Anwendungen und Folgen biologi-                                                      § CRISPR/Cas9 als Verfahren zur          Problematisierung: CRISPR/Cas9 ein
+ scher Forschungsergebnisse unter dem                                                      genetischen Manipulation von Zellen    "Züchtungsverfahren" oder ein
+ Aspekt einer nachhaltigen Entwicklung                                                   § Diskussion um rechtliche Einstufung    "genetisches Manipulationsverfahren"?
+ beschreiben und beurteilen                                                                von CRISPR/Cas9
+
+
+
+
+                                                                                   Seite 16
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022                                                                                      Jahresplanung Leistungsfach
+
+
+ 2.2 Kommunikation                         3.5.6 Angewandte Biologie (Teilbereich)   ca. 16 Stunden                              Bemerkung
+ 1. zu biologischen Themen in unter-       Chancen und Risiken biomedizinischer       § Fallbeispiele: Genetisch bedingte        Auswirkungen des Gendefekts auf den
+ schiedlichen analogen und digitalen       Verfahren:                                   Krankheiten beim Menschen und            Phänotyp möglichst altersgemäß auf
+ Quellen recherchieren                     (5) Pränataldiagnostik und                   ihre Vererbung (z. B. Mukoviszidose)     molekularer Ebene erklären
+ 10. ihren Standpunkt zu biologischen      Präimplantationsdiagnostik vergleichen     § Analyse von Familienstammbäumen          Rückgriff auf Vererbungsregeln (Kl. 9/10);
+ Sachverhalten fachlich begründet          und an einem Fallbeispiel bewerten           für diese Fallbeispiele und klassische   einfache dominant-rezessive Erbgänge;
+ vertreten                                                                              genetische Beratung                      keine ausgedehnten Familienstammbäu-
+                                           (6) Analyse von Gentests und
+                                                                                      § Gentests: Verfahren und Beratung         me mit vielen Generationen
+                                           Familienstammbäumen erläutern und
+                                                                                        im Rahmen der Pränataldiagnostik
+ 2.3 Bewertung                             eine genetische Beratung ableiten                                                     PCR und Elektrophorese könnten bereits
+                                                                                      § Bewertung: Soll Familie XY im
+ 2. Bezüge zu anderen Unterrichtsfächern   (7) Möglichkeiten und Grenzen der                                                     in der molekularen Genetik behandelt
+                                                                                        Rahmen einer PND einen Gentest
+ herstellen                                Therapie genetisch bedingter                                                          werden (z. B. PCR als "Replikation in
+                                                                                        durchführen lassen?
+ 4. zwischen naturwissenschaftlichen und   Erkrankungen erläutern (somatische                                                    vitro")
+                                                                                      § Präimplantationsdiagnostik als Diag-
+ ethischen Aussagen unterscheiden          Gentherapie, Keimbahntherapie)               noseverfahren bei In-vitro-Fertilisa-    Das Ergebnis einer Gelelektrophorese
+ 7. Anwendungen und Folgen biologischer    (2) eine Methode zur gezielten Verände-      tion                                     muss im Hinblick auf den Genotyp und
+ Forschungsergebnisse unter dem Aspekt     rung von DNA beschreiben (CRISPR/Cas9)                                                Phänotyp ausgewertet werden können.
+ des Perspektivenwechsels beschreiben                                                 § Bewertung: Soll PID als                  Analyse auf der Sachebene; Trennung von
+ 9. Anwendungen und Folgen biologischer                                                 diagnostisches Verfahren zugelassen      Sach- (deskriptive, naturwiss. Aussagen)
+ Forschungsergebnisse unter dem Aspekt                                                  werden?                                  und Werteaussagen (normative, ethische
+ der Würde des Menschen bewerten                                                                                                 Aussagen); Wertekonflikt,
+ 11. den eigenen und auch andere                                                      § Therapie einer genetisch bedingten       Perspektivwechsel, wertebasierte
+ Standpunkte begründen                                                                  Erkrankung durch somatische              Gewichtungsstrategie
+                                                                                        Gentherapie                              Somatische Gentherapie als "Ersatz"
+                                                                                      § Möglichkeiten der somatischen            bestimmter Zellpopulationen mit
+                                                                                        Gentherapie; eingeschränkte              genetischem Defekt durch genetisch
+                                                                                        Teilungspotenz der meisten Gewebe        intakte teilungsfähige Stammzellen (z. B.
+                                                                                        als begrenzender Faktor                  Spenderzellen oder genetisch modifizierte
+                                                                                      § Keimbahntherapie als erweiterte          Zellen); trotz der kurierten Erkrankung
+                                                                                        Möglichkeit genetische Defekte zu        wird der genetische Defekt weitervererbt,
+                                                                                        "reparieren"                             möglichst aktuelles Beispiel oder Beispiel
+                                                                                      § Bewertung einer Fiktion: Soll die        in klinischer Anwendung
+                                                                                        Keimbahntherapie bei schweren
+                                                                                                                                 Evtl. kann CRISPR/Cas9 auch in diesem
+                                                                                        Erkrankungen zugelassen werden
+                                                                                                                                 Kontext als neuartige Technik behandelt
+                                                                                        (z. B. Kinder von zwei Hämophilie-
+                                                                                                                                 werden (s. dazu weiter oben)
+                                                                                        Partnern oder HIV-Resistenz bei
+                                                                                        Kindern implementieren)?
+
+                                                                                Seite 17
+BP 2016 Biologie – Überarbeitete Fassung vom 08.03.2022              Jahresplanung Leistungsfach
+
+
+
+
+                                                          Seite 18
+

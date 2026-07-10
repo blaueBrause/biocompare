@@ -1,0 +1,2420 @@
+BILDUNGSPLAN DES GYMNASIUMS
+
+
+
+         Bildungsplan 2016
+
+
+
+
+       Biologie
+KULTUS                                       UND
+AMTSBLATT DES MINISTERIUMS FÜR KULTUS, JUGEND UND SPORT BADEN-WÜRTTEMBERG
+                                                                           UNTERRICHT
+
+                                                                                        Stuttgart, den 23. März 2016
+
+
+BILDUNGSPLAN DES GYMNASIUMS
+
+
+Vom      23. März 2016                    Az. 32-6510.20/370/292
+I. Der Bildungsplan des Gymnasiums gilt für das Gymnasium der Normalform und Auf­
+   bauform mit Heim sowie für Schulen besonderer Art.
+II. Der Bildungsplan tritt am 1. August 2016 mit der Maßgabe in Kraft, dass er erstmals
+    für die Schülerinnen und Schüler Anwendung findet, die im Schuljahr 2016/2017 in die
+    Klassen 5 und 6 eintreten.
+    Gleichzeitig tritt der Bildungsplan für das Gymnasium der Normalform vom
+    21. Januar 2004 (Lehrplanheft 4/2004) mit der Maßgabe außer Kraft, dass er letztmals
+    für die Schülerinnen und Schüler gilt, die vor dem Schuljahr 2016/2017 in die Klasse 6
+    eingetreten sind.
+    Abweichend hiervon tritt der Fachplan Literatur und Theater am 1. August 2016 mit
+    der Maßgabe in Kraft, dass er erstmals für Schülerinnen und Schüler Anwendung fin-
+    det, die im Schuljahr 2016/2017 in die Jahrgangsstufe 1 eintreten. Gleichzeitig tritt der
+    Bildungsplan für das Fach Literatur und Theater in der Kursstufe des Gymnasiums der
+    Normalform und der Aufbauform mit Heim (K.u.U. 2012, S. 122) mit der Maßgabe außer
+    Kraft, dass er letztmals für die Schülerinnen und Schüler gilt, die vor dem Schuljahr
+    2016/2017 in die Jahrgangsstufe 1 eingetreten sind.
+
+
+                                                                                                     K.u.U., LPH 3/2016
+
+
+
+BEZUGSSCHLÜSSEL FÜR DIE BILDUNGSPLÄNE DER ALLGEMEIN BILDENDEN SCHULEN 2016
+
+ Reihe Bildungsplan                           Bezieher
+  A     Bildungsplan der Grundschule          Grundschulen, Schule besonderer Art Heidelberg, alle sonderpädagogischen
+                                              Bildungs- und Beratungszentren
+   S    Gemeinsamer Bildungsplan der          Werkrealschulen/Hauptschulen, Realschulen, Gemeinschaftsschulen, Schulen
+        Sekundarstufe I                       besonderer Art, alle sonderpädagogischen Bildungs- und Beratungszentren
+  G     Bildungsplan des Gymnasiums           allgemein bildende Gymnasien, Schulen besonderer Art, sonderpädagogische
+                                              Bildungs- und Beratungszentren mit Förderschwerpunkt Schüler in längerer
+                                              Krankenhausbehandlung, sonderpädagogisches Bildungs- und Beratungszentrum
+                                              mit Internat mit Förderschwerpunkt Hören, Stegen
+  O     Bildungsplan der Oberstufe an         Gemeinschaftsschulen
+        Gemeinschaftsschulen
+
+
+Nummerierung der kommenden Bildungspläne der allgemein bildenden Schulen:
+LPH 1/2016   Bildungsplan der Grundschule, Reihe A Nr. 10
+LPH 2/2016   Gemeinsamer Bildungsplan der Sekundarstufe I, Reihe S Nr. 1
+LPH 3/2016   Bildungsplan des Gymnasiums, Reihe G Nr. 16
+LPH 4/2016   Bildungsplan der Oberstufe an Gemeinschaftsschulen, Reihe O Nr. 1
+
+
+
+Der vorliegende Fachplan Biologie ist als Heft Nr. 26 (Pflichtbereich) Bestandteil des Bildungsplans
+des Gymnasiums, der als Bildungsplanheft 3/2016 in der Reihe G erscheint, und kann einzeln bei der
+Neckar-Verlag GmbH bezogen werden.
+Bildungsplan 2016 – Gymnasium                                                                                                                                                                                                        Biologie
+
+
+
+
+Inhaltsverzeichnis
+1. Leitgedanken zum Kompetenzerwerb  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+       1.1      Bildungswert des Faches Biologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+       1.2      Kompetenzen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+       1.3      Didaktische Hinweise  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+
+2. Prozessbezogene Kompetenzen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+       2.1      Erkenntnisgewinnung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+       2.2      Kommunikation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+       2.3      Bewertung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+3. Standards für inhaltsbezogene Kompetenzen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+       3.1      Klassen 5/6  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+                3.1.1 Hinweis zu den Klassen 5/6  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+       3.2      Klassen 7/8  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+                3.2.1 Zelle und Stoffwechsel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+                3.2.2 Humanbiologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+                       3.2.2.1 Ernährung und Verdauung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+                       3.2.2.2 Atmung, Blut und Kreislaufsystem  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+                       3.2.2.3 Fortpflanzung und Entwicklung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+                       3.2.2.4 Informationssysteme  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+                       3.2.2.5 Immunbiologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+       3.3      Klassen 9/10  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+                3.3.1 Evolution  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+                3.3.2 Genetik  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+                3.3.3 Ökologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+       3.4      Klassen 11/12 (zweistündiger Kurs)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+                3.4.1 System Zelle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+                3.4.2 Biomoleküle und molekulare Genetik  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+                3.4.3 Nervensystem  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+                3.4.4 Molekularbiologische Verfahren und Gentechnik  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+                3.4.5 Reproduktionsbiologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+                3.4.6 Evolution und Ökologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+       3.5      Klassen 11/12 (vierstündiger Kurs)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+                3.5.1 System Zelle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+                       3.5.1.1 Zellorganellen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+                       3.5.1.2 Biomembran  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+                       3.5.1.3 Stoffwechselprozesse  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31
+                3.5.2          Biomoleküle und molekulare Genetik  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31
+                               3.5.2.1 Biomoleküle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31
+                               3.5.2.2 Biokatalyse  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+                               3.5.2.3 DNA und Genaktivität  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+
+
+Inhaltsverzeichnis                                                                                                                                                                                                                                 1
+Bildungsplan 2016 – Gymnasium                                                                                                                                                                                                              Biologie
+
+
+
+                    3.5.3          Molekularbiologische Verfahren und Gentechnik  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  33
+                    3.5.4          Kommunikation zwischen Zellen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+                                   3.5.4.1 Nervensystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+                                   3.5.4.2 Hormonsystem  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  35
+                                   3.5.4.3 Immunsystem  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  35
+                    3.5.5          Evolution und Ökologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+                    3.5.6          Chancen und Risiken biomedizinischer Verfahren  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+4. Operatoren  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+
+5. Anhang  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+        5.1         Verweise  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+        5.2         Abkürzungen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+        5.3         Geschlechtergerechte Sprache  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+        5.4         Besondere Schriftauszeichnungen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+
+
+
+2                                                                                                                                                                                                                       Inhaltsverzeichnis
+Bildungsplan 2016 – Gymnasium                                                                 Biologie
+
+
+
+
+1.        Leitgedanken zum Kompetenzerwerb
+1.1       Bildungswert des Faches Biologie
+Die Biologie versteht sich heute als eine interdisziplinäre und vernetzte Wissenschaft. Grundlegende
+biologische Prinzipen und Gesetzmäßigkeiten werden – im Sinne einer Systemtheorie – auf unter-
+schiedlich komplexen Systemebenen von den Molekülen über Zellen, Gewebe, Organe, Organismen
+bis zum Ökosystem und der Biosphäre erklärt.
+
+Die Biologie erklärt biologische Phänomene auf unterschiedlich komplexen Systemebenen. In der
+Unterstufe wird ein Verständnis auf Grundlage der Kenntnisse von Organismen und Organen auf-
+gebaut, das in der Mittelstufe auf Zellen und Ökosysteme erweitert wird. In der Oberstufe gründet
+das Verständnis auf der Molekülebene.
+
+Biologische Phänomene beeinflussen nahezu alle Lebensbereiche des Menschen. Die Biologie trägt
+wesentlich zum Selbstverständnis des Menschen als Teil der lebendigen Natur bei. Neuere Erkennt-
+nisse aus den Bereichen Gesundheit und Ernährung, Bio- und Gentechnik, Ökologie und Reproduk-
+tionsmedizin wirken sich direkt auf die persönliche Lebensgestaltung aus. Die Neurobiologie erklärt
+Prozesse von Lernvorgängen und die Subjektivität unserer Wahrnehmung. Kenntnisse über Anato-
+mie und Physiologie schaffen die Grundlagen für eine gesunde Lebensführung. Die Aussagen der
+Evolutionstheorie beeinflussen in hohem Maße unser Selbstverständnis und unser Weltbild.
+
+Bei vielen gesellschaftsrelevanten Fragestellungen sind biologische Kenntnisse Voraussetzung für
+eine fundierte Entscheidungsfindung. Sie fließen in politische Diskussionen ein und helfen, Entschei-
+dungen im Sinne einer nachhaltigen Entwicklung zu treffen. Ohne Wissen um die molekularen Hin-
+tergründe können Chancen und Risiken moderner biowissenschaftlicher Methoden nicht fundiert
+bewertet werden. Die Bedeutung der Erhaltung der Biodiversität erfordert neben Artenkenntnis ein
+grundlegendes Verständnis von Prozessen in Ökosystemen.
+
+
+Beitrag des Faches zu den Leitperspektiven
+Das Fach Biologie leistet einen wichtigen Beitrag zu vielen Leitperspektiven. Besondere Bedeutung
+kommt den Leitperspektiven Bildung für nachhaltige Entwicklung (BNE), Prävention und Gesund-
+heitsförderung (PG), Verbraucherbildung (VB) und Bildung für Toleranz und Akzeptanz von Vielfalt
+(BTV) zu.
+
+Um den ganzheitlichen Ansatz zu unterstützen ist es sinnvoll, die unten genannten Themen auch au-
+ßerhalb des Biologieunterrichts dauerhaft im Schulcurriculum zu implementieren, zum Beispiel durch
+fächerübergreifende Projekt- oder Aktionstage.
+
+• Bildung für nachhaltige Entwicklung (BNE)
+     Das Fach Biologie leistet einen grundlegenden Beitrag zur Bildung für nachhaltige Entwicklung.
+     Auswirkungen von Eingriffen des Menschen auf die Umwelt können umso besser erklärt werden,
+     je genauer Wechselwirkungen und Stoffkreisläufe bekannt sind. Zu einer Bildung für nachhaltige
+     Entwicklung gehören auch fundierte Kenntnisse über heimische Ökosysteme, die Herkunft und
+     Produktion unserer Nahrung sowie Nutzen und Risiken der Gentechnik. Diese befähigen zu einem
+     persönlichen Handeln in globaler Verantwortung.
+
+
+Leitgedanken zum Kompetenzerwerb                                                                    3
+Bildungsplan 2016 – Gymnasium                                                                  Biologie
+
+
+
+    Die im Fach Biologie erworbenen Kenntnisse stärken das Bewusstsein für die Möglichkeiten und
+    Notwendigkeit nachhaltigen Handelns im Sinne der Leitperspektive Bildung für nachhaltige Ent-
+    wicklung. Durch die im Unterricht erworbenen Kompetenzen werden die Schülerinnen und Schü-
+    ler zu verantwortungsvollem und umweltbewusstem Handeln in lokalen und globalen Zusam-
+    menhängen angeregt.
+
+• Bildung für Toleranz und Akzeptanz von Vielfalt (BTV)
+    Zur Bildung für Toleranz und Akzeptanz von Vielfalt kann die Biologie bei einzelnen Themen bei-
+    tragen. Beim Thema Fortpflanzung und Entwicklung kann eine Toleranz für unterschiedliche For-
+    men der sexuellen Orientierung und geschlechtlichen Identität vermittelt werden. Bei weiteren
+    gesellschaftlich relevanten biologischen Themen wie Gentechnik, Reproduktionsbiologie und un-
+    terschiedliche Ernährungsweisen wird die Akzeptanz verschiedener Einstellungen gefördert.
+
+• Prävention und Gesundheitsförderung (PG)
+    Traditionell kommt dem Fach Biologie eine wichtige Rolle bei den Themen Prävention und
+    Gesundheitsförderung zu. Darunter wird nicht nur die Vermeidung von gesundheitsschädlichem
+    Verhalten, sondern auch die Stärkung von Resilienz verstanden.
+    Der Mensch selbst ist Gegenstand des Biologieunterrichts. Dies trägt dazu bei, dass sich Kinder
+    und Jugendliche altersangemessen mit ihrem Körper auseinandersetzen und fördert ein gesund-
+    heitsbewusstes und umweltverträgliches Handeln, sowohl in individueller als auch in gesellschaft-
+    licher Verantwortung. Das Fach Biologie kann wichtige Beiträge zur Bedeutung von gesunder
+    Ernährung, zur Stressbewältigung und einem ressourcenschonenden Leben liefern.
+    Mit der Vermittlung prozessbezogener Kompetenzen und der Handlungsorientierung unterstützt
+    der Biologieunterricht die Entwicklung von Selbstregulation und das Erleben von Selbstwirksam-
+    keit.
+    Damit Primärprävention hinsichtlich Drogenkonsum, Stressbelastung und sozialer Deprivation
+    wirkungsvoll angeboten werden kann, ist das Zusammenwirken mehrerer Fächer notwendig.
+
+• Berufliche Orientierung (BO)
+    Der immense Wissenszuwachs in den letzten Jahrzehnten innerhalb vieler Teilgebiete der Natur-
+    wissenschaft Biologie hat dazu geführt, dass neue Studienfächer und Berufsfelder entstanden
+    sind. Durch das vielfältige praktische Arbeiten im Biologieunterricht können die Schülerinnen und
+    Schüler Interesse an der Naturwissenschaft Biologie entwickeln und gegebenenfalls ihre indivi-
+    duellen Stärken erkennen. Das Nachvollziehen von Erkenntniswegen der Biologie im Unterricht
+    führt bei den Schülerinnen und Schülern zu ersten Vorstellungen von einem Beruf in der biologi-
+    schen oder medizinischen Forschung. Im Unterricht und bei Exkursionen an außerschulische Lern-
+    orte lernen die Schülerinnen und Schüler anwendungsbezogene biologische Berufsfelder kennen.
+    Auf diese Weise kann der Biologieunterricht auch einen Beitrag zur beruflichen Orientierung leis-
+    ten.
+
+• Medienbildung (MB)
+    Zur Medienbildung gehören sehr vielfältige Bereiche wie die verantwortungsbewusste Nutzung
+    von Informationstechnologien oder das selbstbestimmte Leben in einer Mediengesellschaft. Im
+    Biologieunterricht kommen vielfältige Medien als Informationsquelle und zur Veranschaulichung
+    zum Einsatz. Sowohl bei der Erarbeitung von fachlichen Inhalten als auch bei der Präsentation von
+    Arbeitsergebnissen greifen die Schülerinnen und Schüler in Biologie auf verschiedene Medien
+    zurück und üben so deren Umgang.
+
+
+
+4                                                                      Leitgedanken zum Kompetenzerwerb
+Bildungsplan 2016 – Gymnasium                                                               Biologie
+
+
+
+• Verbraucherbildung (VB)
+  Die Entwicklung eines selbstbestimmten und verantwortungsbewussten Verbraucherverhaltens
+  setzt ein grundlegendes Verständnis über die eigenen Bedürfnisse und globale Zusammenhänge
+  voraus. Hierbei leistet der Biologieunterricht mit humanbiologischen und ökologischen Themen
+  einen Beitrag zum Verständnis komplexer Zusammenhänge.
+
+
+
+
+1.2 Kompetenzen
+Der moderne, kompetenzorientierte Biologieunterricht ermöglicht den Schülerinnen und Schülern
+eine aktive Teilnahme an wissenschaftlichen Diskussionen. Zu biologischen Problemstellungen kön-
+nen sie begründet Stellung beziehen sowie individuelle und gesellschaftliche Handlungsweisen be-
+werten. Dazu sind inhalts- und prozessbezogene Kompetenzen notwendig. Die inhaltsbezogenen
+Kompetenzen umfassen das Fachwissen über Lebewesen, biologische Prozesse und Zusammenhän-
+ge. Die prozessbezogenen Kompetenzen beschreiben die Handlungsebene. Sie werden in die Berei-
+che Erkenntnisgewinnung, Kommunikation und Bewertung unterteilt.
+
+Inhalts- und prozessbezogene Kompetenzen werden im Bildungsplan getrennt aufgeführt, im Unter-
+richtsprozess können sie nur gleichzeitig, gemeinsam und miteinander verwoben erworben werden.
+
+
+Prozessbezogene Kompetenzen
+In der Biologie geht die Erkenntnisgewinnung, wie in allen Naturwissenschaften, häufig von exakter
+Beobachtung bestimmter Phänomene aus. Sie werden durch hypothesengeleitetes Experimentieren
+weiter untersucht. Die Anwendung und Entwicklung von Modellen ist ein wichtiges Mittel, um Er-
+kenntnisse darzustellen oder zu erklären.
+
+Kompetenzorientiertes Lernen im Biologieunterricht vollzieht sich in der handelnden Auseinander-
+setzung mit biologischen Fragestellungen. Dies erfordert die Beherrschung fachspezifischer Denk-
+und Arbeitsweisen. Kommunikative Fähigkeiten werden durch die Beschaffung, den Austausch und
+die Weitergabe von Informationen gebildet. Dabei werden die Schülerinnen und Schüler befähigt,
+bei verschiedenen biologischen Themen deren gesellschaftliche Bedeutung zu erkennen. Der Bereich
+Bewertung schließt neben deskriptiven auch ethische Betrachtungen ein. Die Schülerinnen und Schü-
+ler können gesellschaftlich relevante biologische Themen diskutieren, bewerten, Verantwortung zei-
+gen, begründete Haltungen und Handlungsoptionen entwickeln.
+
+
+Inhaltsbezogene Kompetenzen
+Die inhaltsbezogenen Kompetenzen werden im Fach Biologie entsprechend den KMK-Standards
+durch die drei Basiskonzepte System, Struktur und Funktion sowie Entwicklung strukturiert. Die bio-
+logischen Prinzipien sind diesen Basiskonzepten zugeordnet (siehe Grafik).
+
+System: Gegenstand der Biologie sind lebende Systeme, die auf unterschiedlichen Strukturebenen
+betrachtet werden: Molekül, Zelle, Gewebe, Organ, Organismus, Ökosystem und Biosphäre. Es han-
+delt sich um offene Systeme, die in ständigem Austausch mit der Umwelt stehen. Sie betreiben
+Stoff- und Energieumwandlung, stehen in Wechselwirkung untereinander und kommunizieren durch
+Austausch von Informationen. Lebende Systeme besitzen die Fähigkeit zu Steuerung und Regelung.
+
+
+Leitgedanken zum Kompetenzerwerb                                                                  5
+Bildungsplan 2016 – Gymnasium                                                                           Biologie
+
+
+
+Struktur und Funktion: Häufig lassen sich biologische Strukturen über deren Funktionen verstehen.
+Struktur und Funktion bedingen einander gegenseitig. Auf der Ebene der Zellen und Organe lassen
+sich Beispiele für das Basiskonzept Struktur und Funktion finden: Oberflächenvergrößerung, Gegen-
+spieler- und Schlüssel-Schloss-Prinzip. Auf der Ebene der Organismen gibt es viele Struktur- und
+Funktionsbeziehungen, die mit deren Lebensweise und Umwelt zusammenhängen und als Ange-
+passtheit zusammengefasst werden.
+
+Entwicklung: Biologische Systeme entwickeln und verändern sich. Die Individualentwicklung findet
+auf der Ebene der Zellen, Gewebe, Organe und Organismen statt. Keimung, Wachstum oder der Le-
+benszyklus vom Embryo bis zum Tod sind Beispiele hierfür.
+
+Evolutionäre Entwicklung ist gekennzeichnet durch die Veränderung von Populationen. Mutationen,
+Neukombination der Gene und Selektionsprozesse halten diesen Prozess aufrecht und sichern den
+Fortbestand vielfältigen Lebens, auch bei sich ändernden Umweltbedingungen.
+
+
+
+
+Inhaltsbezogene und prozessbezogene Kompetenzen (© Landesinstitut für Schulentwicklung)
+
+
+
+
+6                                                                               Leitgedanken zum Kompetenzerwerb
+Bildungsplan 2016 – Gymnasium                                                                Biologie
+
+
+
+
+1.3     Didaktische Hinweise
+Der Biologieunterricht ist geprägt durch den naturwissenschaftlichen Erkenntnisgewinnungsprozess:
+Beobachtungen führen zu Fragestellungen, aus denen sich begründete Vermutungen und Möglich-
+keiten der Überprüfung, auch durch Experimente, ergeben. Die Schülerinnen und Schüler lernen
+Phänomene des Lebendigen zu hinterfragen und schrittweise Erkenntnisse zu gewinnen. In den un-
+teren Klassen werden biologische Phänomene auf der Ebene von Organismen und Organen thema-
+tisiert. In der Mittelstufe werden viele Lebensvorgänge und Stoffwechselprozesse auf zellulärer Ebe-
+ne erklärt. Schließlich findet die Erklärung in der Oberstufe auf molekularer Ebene statt.
+
+Im Biologieunterricht haben Fragestellung, Hypothesenbildung und deren Überprüfung eine große
+Bedeutung, weil dadurch eine Problemorientierung erzielt und das erworbene Wissen angewendet
+wird.
+
+Mithilfe der Basiskonzepte werden Inhalte über die Klassenstufen hinweg vernetzt. Beispielsweise
+werden in den unteren Klassenstufen Angepasstheiten von Lebewesen beschrieben und in der Mit-
+telstufe und der Oberstufe auf ihre ökologischen Bedingungen und stammesgeschichtlichen Ursa-
+chen zurückgeführt. Der spiralcurriculare Aufbau des Bildungsplans wird an vielen Themen deutlich.
+Die Fortpflanzung und Entwicklung des Menschen und die Ökologie werden in allen Klassenstufen
+mit unterschiedlichem Fokus thematisiert. Die Cytologie und Stoffwechselprozesse sowie Genetik,
+Evolution und die Informationssysteme werden in der Mittelstufe mit dem Schwerpunkt auf zellulä-
+rer Ebene und in der Kursstufe vertieft mit dem Schwerpunkt auf molekularer Ebene unterrichtet.
+
+Die prozessbezogenen Kompetenzen werden schrittweise an biologischen Inhalten erworben und
+über Jahre weiterentwickelt. Experimentierkompetenz erwerben die Schülerinnen und Schüler zu-
+nächst durch einfache Versuche, die nach Anleitung durchgeführt werden. Zunehmend können sie
+selbstständig Fragestellungen formulieren, Hypothesen bilden, Experimente planen, durchführen
+und ihre Ergebnisse auswerten. Dabei üben sie Protokollieren, Präsentieren und Diskutieren. Die
+richtige Verwendung biologischer Arbeitsgeräte wird auf allen Altersstufen regelmäßig geübt, sie ist
+Voraussetzung für selbstständiges experimentelles Arbeiten.
+
+Modelle sind ein wichtiges Mittel zur Erkenntnisgewinnung. Die Arbeit mit Modellen geht von der
+Anwendung einfacher Struktur- und Funktionsmodelle aus und entwickelt sich zur Bildung und Er-
+klärung komplexer Systemmodelle. Die kritische Betrachtung von Modellen dient der Vertiefung der
+Modellkompetenz.
+
+Die Begeisterungsfähigkeit der Schülerinnen und Schüler gegenüber allem Lebendigen kann im Bio-
+logieunterricht genutzt werden, um Neugier und Interesse an der näheren Beschäftigung mit dem
+Makro- und Mikrokosmos zu wecken. Faszination begünstigt nachhaltiges Lernen. Der Biologie­
+unterricht geht von konkreten Situationen aus und erzeugt durch unmittelbare Begegnung mit dem
+Lebendigen Lebensweltbezug. Praktische Erkundungen in schulnahen Ökosystemen und Experimen-
+te fördern selbstständiges und entdeckendes Lernen. Diesen ist unbedingt Raum zu geben. Die Schü-
+lerinnen und Schüler können ihren Beobachtungsinteressen in der Natur und ihren kreativen Impul-
+sen nachgehen und so durch originäre Naturerfahrungen die biologische Vielfalt kennen und schät-
+zen lernen. Beobachtungen und Untersuchungen im Freiland erfordern die Beachtung von Regeln
+zum Artenschutz und Naturschutz. Somit leistet das Fach Biologie einen wesentlichen Beitrag zur
+Bildung für nachhaltige Entwicklung.
+
+
+
+
+Leitgedanken zum Kompetenzerwerb                                                                   7
+Bildungsplan 2016 – Gymnasium                                                               Biologie
+
+
+
+Kompetenzorientierter Biologieunterricht ist handlungsorientiert, es finden regelmäßig Beobachtun-
+gen, Untersuchungen und Experimente statt. Anschaulichkeit entsteht weiterhin durch vielfältigen
+Medieneinsatz, insbesondere durch Realobjekte, Filmausschnitte, Modelle und Grafiken. Arbeitswei-
+sen wie Sammeln und Ordnen, Präparieren und Zeichnen, Beobachten und Untersuchen, Experi-
+mentieren und Interpretieren schaffen auf allen Altersstufen einen analysierenden und erklärenden
+Zugang zu biologischen Phänomenen.
+
+Als Wissenschaft vom Leben und seiner Aufrechterhaltung erfüllt die Biologie einen wesentlichen
+Beitrag zu einer ganzheitlichen und nachhaltigen Bildung.
+
+
+
+
+8                                                                   Leitgedanken zum Kompetenzerwerb
+Bildungsplan 2016 – Gymnasium                                                            Biologie
+
+
+
+
+2. Prozessbezogene Kompetenzen
+2.1 Erkenntnisgewinnung
+Die Schülerinnen und Schüler setzen sich mit biologischen Fragestellungen auseinander und sind
+in der Lage, diese mithilfe von Experimenten und weiteren fachspezifischen Methoden zu bearbei‑
+ten und mit Modellen zu erklären. Sie nutzen hierzu auch außerschulische Lernorte wie schulnahe
+Lebensräume, Umweltzentren, botanische und zoologische Gärten oder Naturkundemuseen sowie
+Schulgelände mit Teich oder Schulgarten.
+
+
+                                Die Schülerinnen und Schüler können
+
+                                biologische Arbeitstechniken anwenden
+
+1. ein Mikroskop bedienen, mikroskopische Präparate herstellen und darstellen
+2. Morphologie und Anatomie von Lebewesen und Organen untersuchen
+3. Lebewesen kriteriengeleitet vergleichen und klassifizieren
+4. mit Bestimmungshilfen häufig vorkommende Arten bestimmen
+
+                           Experimente planen, durchführen und auswerten
+
+5. Fragestellungen und begründete Vermutungen zu biologischen Phänomenen formulieren
+6. Beobachtungen und Versuche durchführen und auswerten
+7.   Arbeitsgeräte benennen und sachgerecht damit umgehen
+8. Hypothesen formulieren und zur Überprüfung geeignete Experimente planen
+9. qualitative und einfache quantitative Experimente durchführen, protokollieren und auswerten
+10. aus Versuchsergebnissen allgemeine Aussagen ableiten
+
+                                        mit Modellen arbeiten
+
+11. Struktur- und Funktionsmodelle zur Veranschaulichung anwenden
+12. ein Modell zur Erklärung eines Sachverhalts entwickeln und gegebenenfalls modifizieren
+13. Wechselwirkungen mithilfe von Modellen erklären
+14. die Speicherung und Weitergabe von Information mithilfe geeigneter Modelle beschreiben
+15. die Aussagekraft von Modellen beurteilen
+
+
+
+
+Prozessbezogene Kompetenzen                                                                      9
+Bildungsplan 2016 – Gymnasium                                                                 Biologie
+
+
+
+
+2.2 Kommunikation
+Die Schülerinnen und Schüler werten Informationen zu biologischen Fragestellungen aus verschie‑
+denen Quellen aus, dokumentieren diese und tauschen sich darüber aus. Biologische Sachverhal‑
+te stellen sie mit geeigneten Präsentationstechniken und ‑medien dar. Sie können fachbezogenes
+Feedback geben und mit Kritik umgehen.
+
+
+                                 Die Schülerinnen und Schüler können
+
+                                Informationen beschaffen und aufarbeiten
+
+1. zu biologischen Themen in unterschiedlichen analogen und digitalen Quellen recherchieren
+2. Informationen zu biologischen Fragestellungen zielgerichtet auswerten und verarbeiten,
+   hierzu nutzen sie auch außerschulische Lernorte
+3. Informationen aus Texten, Bildern, Tabellen, Diagrammen oder Grafiken entnehmen
+4. biologische Sachverhalte unter Verwendung der Fachsprache beschreiben oder erklären
+5. Zusammenhänge zwischen Alltagssituationen und biologischen Sachverhalten herstellen
+   und dabei bewusst die Fachsprache verwenden
+6. den Verlauf und die Ergebnisse ihrer Arbeit dokumentieren
+7.   komplexe biologische Sachverhalte mithilfe von Schemata, Grafiken, Modellen oder
+     Diagrammen anschaulich darstellen
+
+                                      Informationen austauschen
+
+8. adressatengerecht präsentieren
+9. sich selbst und andere in ihrer Individualität wahrnehmen und respektieren
+10. ihren Standpunkt zu biologischen Sachverhalten fachlich begründet vertreten
+11. für die Arbeit im Team Verantwortung übernehmen, gemeinsam planen, strukturieren
+    und reflektieren
+
+
+
+
+10                                                                         Prozessbezogene Kompetenzen
+Bildungsplan 2016 – Gymnasium                                                            Biologie
+
+
+
+
+2.3 Bewertung
+Die Schülerinnen und Schüler erkennen bei verschiedenen biologischen Themen deren gesellschaft‑
+liche Bedeutung. Ihr Fachwissen ermöglicht ihnen eine multiperspektivische Betrachtung und befä‑
+higt sie, unterschiedliche Standpunkte begründet zu bewerten.
+
+
+                                Die Schülerinnen und Schüler können
+
+                                biologische Sachverhalte einordnen
+
+1. in ihrer Lebenswelt biologische Sachverhalte erkennen
+2. Bezüge zu anderen Unterrichtsfächern herstellen
+3. die Aussagekraft von Darstellungen in Medien bewerten
+4. zwischen naturwissenschaftlichen und ethischen Aussagen unterscheiden
+5. Aussagen zu naturwissenschaftlichen Themen kritisch prüfen
+6. die Wirksamkeit von Lösungsstrategien bewerten
+
+          Anwendungen und Folgen biologischer Forschungsergebnisse ethisch bewerten
+
+7.   Anwendungen und Folgen biologischer Forschungsergebnisse unter dem Aspekt des
+     Perspektivenwechsels beschreiben
+8. Anwendungen und Folgen biologischer Forschungsergebnisse unter dem Aspekt einer
+   nachhaltigen Entwicklung beschreiben und beurteilen
+9. Anwendungen und Folgen biologischer Forschungsergebnisse unter dem Aspekt der Würde
+   des Menschen bewerten
+10. Anwendungen und Folgen biologischer Forschungsergebnisse unter dem Aspekt der
+    Verantwortung für die Natur beurteilen
+11. den eigenen und auch andere Standpunkte begründen
+12. den Einfluss des Menschen auf Ökosysteme im Hinblick auf eine nachhaltige Entwicklung
+    bewerten
+13. ihr eigenes Handeln unter dem Aspekt der Nachhaltigkeit bewerten
+14. ihr eigenes Handeln unter dem Aspekt einer gesunden Lebensführung bewerten
+
+
+
+
+Prozessbezogene Kompetenzen                                                                  11
+Bildungsplan 2016 – Gymnasium                                                                    Biologie
+
+
+
+
+3.       Standards für inhaltsbezogene Kompetenzen
+3.1      Klassen 5/6
+3.1.1 Hinweis zu den Klassen 5/6
+Das Fach Biologie beginnt in Klasse 5 mit dem Fächerverbund Biologie, Naturphänomene und
+Technik (BNT). Die integrativen Bereiche 1–4 enthalten biologische, chemische und physikalische
+Themen, die Bereiche 5–9 behandeln ausschließlich biologische Themen. Dabei liegt der Schwer‑
+punkt auf der organismischen Biologie.
+
+In den Kompetenzbereichen Wirbeltiere, Wirbellose, Pflanzen, Ökologie und Entwicklung des Men‑
+schen lernen die Schülerinnen und Schüler Betrachtungsweisen und Konzepte der erklärenden
+Wissenschaft Biologie kennen. Auf der Basis einer angemessenen Artenkenntnis entwickeln die
+Schülerinnen und Schüler Achtung vor der Natur. Sie erkennen die wechselseitige Abhängigkeit
+von Mensch und Umwelt und werden für einen verantwortungsvollen Umgang mit der Natur sen‑
+sibilisiert.
+
+
+
+
+12                                                Standards für inhaltsbezogene Kompetenzen – Klassen 5/6
+Bildungsplan 2016 – Gymnasium                                                             Biologie
+
+
+
+
+3.2 Klassen 7/8
+3.2.1 Zelle und Stoffwechsel
+Die Schülerinnen und Schüler können Zellen, Organe und Organismen als Systeme beschreiben.
+Sie können strukturelle und funktionelle Gemeinsamkeiten und Unterschiede von tierischen und
+pflanzlichen Zellen nennen. Sie beschreiben und erklären den Zusammenhang zwischen Struktur
+und Funktion von Organen und Organsystemen bei der Stoff- und Energieumwandlung und kön‑
+nen die Bedeutung der Zellteilung für das Wachstum erläutern.
+
+
+                                        Die Schülerinnen und Schüler können
+
+ (1) den Bau tierischer und pflanzlicher Zellen anhand mikroskopischer Betrachtungen zeichnen,
+ beschreiben und vergleichen
+
+ (2) Zellteilung als Grundlage für das Wachstum von Organismen beschreiben
+
+ (3) die Funktionen von Zellbestandteilen beschreiben (Zellkern, Zellwand, Zellmembran,
+ Chloroplast, Vakuole, Mitochondrium)
+
+    2.1     Erkenntnisgewinnung 1, 7, 11
+    2.2     Kommunikation 3, 4
+    PH      3.2.2 Optik und Akustik (10), (11)
+
+ (4) den Bau eines Organs (zum Beispiel Laubblatt) aus verschiedenen Geweben beschreiben und
+ erklären, wie das Zusammenwirken verschiedener Gewebe die Funktion eines Organs bewirken
+
+    2.1     Erkenntnisgewinnung 2, 11
+    2.2     Kommunikation 4, 7
+
+ (5) Experimente zur Fotosynthese planen, durchführen und auswerten
+
+ (6) die Prozesse Fotosynthese und Zellatmung beschreiben (Wortgleichungen) und ihre
+ Bedeutung für Organismen erläutern
+
+    2.1       Erkenntnisgewinnung 5, 6, 7, 8, 9, 10
+    2.2       Kommunikation 3, 6
+    2.3       Bewertung 1
+    3.3.3     Ökologie
+    NWT       3.2.2.1 Energie in Natur und Technik (1), (4)
+    NWT       3.2.2.2 Energieversorgungssysteme (*) (2)
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 7/8                                          13
+Bildungsplan 2016 – Gymnasium                                                                                Biologie
+
+
+
+
+3.2.2 Humanbiologie
+3.2.2.1 Ernährung und Verdauung
+
+Die Schülerinnen und Schüler können am Beispiel des Verdauungssystems den Zusammenhang
+zwischen Struktur und Funktion erläutern und Verdauung als enzymatische Zerlegung von Nähr‑
+stoffen in Grundbausteine beschreiben. Sie erlangen durch Kenntnisse über den Bau- und Energie‑
+stoffwechsel ein Verständnis für eine ausgewogene und gesunderhaltende Ernährung.
+
+
+                                    Die Schülerinnen und Schüler können
+
+(1) die Bestandteile der Nahrung (Kohlenhydrate, Fette, Eiweiße, Vitamine, Mineralstoffe,
+Ballaststoffe, Wasser) nennen
+
+(2) den Bau der Kohlenhydrate, Fette und Eiweiße aus Grundbausteinen (Einfachzucker, Glycerin
+und Fettsäuren, Aminosäuren) mit einfachen Modellen beschreiben und deren Funktion
+erläutern (Bau- und Betriebsstoffe)
+
+(3) die Bedeutung von Vitaminen, Mineralstoffen, Ballaststoffen und Wasser beschreiben
+
+     2.1 Erkenntnisgewinnung 11
+     2.2 Kommunikation 1
+     2.3 Bewertung 1
+     BNT 3.1.4 Energie effizient nutzen
+     MB Information und Wissen
+     PG Ernährung
+
+(4) den Energiebedarf (Grund- und Leistungsumsatz, Gesamtumsatz) erläutern und rechnerisch
+ermitteln
+
+(5) Informationen über den Brennwert von Lebensmitteln (zum Beispiel Produktverpackungen,
+Nährwerttabellen) in Bezug auf den Energiebedarf auswerten
+
+     2.2 Kommunikation 1, 3
+     2.3 Bewertung 2
+     BNT 3.1.4 Energie effizient nutzen
+     CH 3.2.2.3 Energetische Aspekte chemischer Reaktionen
+     NWT 3.2.2.1 Energie in Natur und Technik
+     PH 3.2.3 Energie
+     BO Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+     MB Information und Wissen
+     PG Ernährung
+
+(6) Kriterien für eine gesunderhaltende Ernährung erläutern und geeignete Mahlzeiten planen
+
+(7) Qualitätsmerkmale von Lebensmitteln (zum Beispiel Gehalt an Vitaminen, Mineralstoffen und
+Zusatzstoffen, Herkunft, Produktionsverfahren) im Hinblick auf Gesunderhaltung und globale
+Verantwortung bewerten
+
+     2.2 Kommunikation 2, 3
+     2.3 Bewertung 1, 3, 10, 14
+     GEO 3.2.3.2 Phänomene globaler Disparitäten (2)
+     PH 3.2.3 Energie
+     BNE Kriterien für nachhaltigkeitsfördernde und -hemmende Handlungen
+     BO Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+     PG Ernährung
+     VB Qualität der Konsumgüter
+
+
+
+14                                                            Standards für inhaltsbezogene Kompetenzen – Klassen 7/8
+Bildungsplan 2016 – Gymnasium                                                            Biologie
+
+
+
+
+                                      Die Schülerinnen und Schüler können
+
+ (8) Essstörungen als Suchtverhalten beschreiben und mögliche Ursachen und Folgen erläutern
+
+    2.2     Kommunikation 1
+    2.3     Bewertung 1, 6
+    3.2.2.4 Informationssysteme (10)
+    PG      Sucht und Abhängigkeit
+    VB      Chancen und Risiken der Lebensführung
+
+ (9) den Weg der Nahrung und die Funktion der an der Verdauung beteiligten Organe
+ beschreiben und an geeigneten Beispielen den Zusammenhang zwischen Struktur und Funktion
+ (unter anderem Prinzip der Oberflächenvergrößerung) bei der Verdauung erläutern
+
+    2.1     Erkenntnisgewinnung 11, 15
+    2.2     Kommunikation 3, 7
+    3.2.2.2 Atmung, Blut und Kreislaufsystem
+
+ (10) die Wirkungsweise von Verdauungsenzymen experimentell untersuchen und mit einfachen
+ Modellen beschreiben
+
+    2.1   Erkenntnisgewinnung 6, 11
+    2.2   Kommunikation 7
+
+
+
+
+3.2.2.2 Atmung, Blut und Kreislaufsystem
+
+Die Schülerinnen und Schüler nutzen Modelle und Realobjekte zur Veranschaulichung von Struk‑
+tur und Funktion der beteiligten Organe. Sie führen Messungen am eigenen Körper durch und kön‑
+nen am Beispiel von Atmung und Kreislauf das Zusammenwirken von Organsystemen beschrei‑
+ben. Sie können Nichtrauchen als zentrale Maßnahme für eine gesunde Lebensführung begründen.
+
+
+                                      Die Schülerinnen und Schüler können
+
+ (1) den Weg der Atemluft beschreiben und am Beispiel der Lunge erklären
+
+    2.1   Erkenntnisgewinnung 2, 11, 15
+    2.2   Kommunikation 4
+
+ (2) die Zusammensetzung des Blutes beschreiben und die Funktion der zellulären Bestandteile
+ nennen
+
+    2.2     Kommunikation 3
+    3.2.1 Zelle und Stoffwechsel
+    3.2.2.5 Immunbiologie
+
+ (3) den Kreislauf des Blutes beschreiben und Struktur und Funktion von Herz und Blutgefäßen
+ erläutern
+
+ (4) den Bau des Herzens untersuchen (zum Beispiel Präparation Schweineherz)
+
+    2.1   Erkenntnisgewinnung 2, 6, 7, 11, 15
+    2.2   Kommunikation 7
+    BO    Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 7/8                                        15
+Bildungsplan 2016 – Gymnasium                                                                                Biologie
+
+
+
+
+                                       Die Schülerinnen und Schüler können
+
+(5) Atmung und Kreislauffunktionen (zum Beispiel Atemfrequenz, Atemvolumen, Herzfrequenz,
+Blutdruck) in Abhängigkeit von verschiedenen Parametern untersuchen
+
+     2.1     Erkenntnisgewinnung 5, 6, 8
+     2.2     Kommunikation 5, 6
+     NWT     3.2.4.1 Informationsaufnahme durch Sinne und Sensoren (1)
+     SPO     3.2.1.5 Fitness entwickeln
+     PG      Wahrnehmung und Empfindung
+
+(6) gesundheitliche Gefahren des Rauchens beschreiben und Nichtrauchen als zentrale
+Maßnahme für eine gesunde Lebensführung begründen
+
+     2.2     Kommunikation 1, 2, 5
+     2.3     Bewertung 1, 14
+     3.2.2.1 Ernährung und Verdauung (8)
+     3.2.2.4 Informationssysteme (10)
+     CH      3.2.1.1 Stoffe und ihre Eigenschaften (13)
+     SPO     3.2.1.5 Fitness entwickeln
+     VB      Chancen und Risiken der Lebensführung
+
+
+
+
+3.2.2.3 Fortpflanzung und Entwicklung
+
+Die Schülerinnen und Schüler beschreiben die Entwicklung des Kindes im Mutterleib bis zur Geburt
+und verstehen die besondere Bedeutung der Fürsorge für das ungeborene Leben. Sie vergleichen
+und bewerten verschiedene Möglichkeiten der Empfängnisverhütung. Unterschiedliche Formen
+der sexuellen Orientierung und geschlechtlichen Identität stellen sie wertfrei dar.
+
+
+                                       Die Schülerinnen und Schüler können
+
+(1) die Befruchtung und die Entstehung eines Embryos aus einer befruchteten Eizelle durch
+Zellteilung und Zelldifferenzierung beschreiben
+
+(2) die wichtigsten Entwicklungsschritte der Schwangerschaft (Einnistung, Embryo, Fetus,
+Geburt) und Folgen äußerer Einflüsse beschreiben
+
+     2.1 Erkenntnisgewinnung 11
+     2.2 Kommunikation 4
+     2.3 Bewertung 1, 14
+     3.2.1 Zelle und Stoffwechsel
+     BNT 3.1.6 Entwicklung des Menschen
+     PG Körper und Hygiene
+
+(3) verschiedene Methoden der Empfängnisverhütung vergleichen und beurteilen
+
+(4) die Bedeutung der Verwendung von Kondomen für den Schutz vor sexuell übertragbaren
+Infektionskrankheiten (HIV) beschreiben
+
+     2.2     Kommunikation 1, 10
+     2.3     Bewertung 1, 3
+     3.2.2.5 Immunbiologie
+     BNT     3.1.6 Entwicklung des Menschen
+     PG      Körper und Hygiene
+
+
+
+
+16                                                            Standards für inhaltsbezogene Kompetenzen – Klassen 7/8
+Bildungsplan 2016 – Gymnasium                                                                        Biologie
+
+
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (5) unterschiedliche Formen der sexuellen Orientierung und geschlechtlichen Identität wertfrei
+ beschreiben
+
+ (6) die Bedeutung der Sexualität für die Partnerschaft (auch gleichgeschlechtliche) beschreiben
+
+    2.2 Kommunikation 5, 9
+    ETH 3.1.1.1 Identität, Individualität und Rolle
+    ETH 3.1.1.2 Freiheit und Verantwortung
+    RRK 3.2.1 Mensch
+    BTV Personale und gesellschaftliche Vielfalt; Selbstfindung und Akzeptanz anderer Lebensformen
+    VB Bedürfnisse und Wünsche
+
+
+
+
+3.2.2.4 Informationssysteme
+
+Die Schülerinnen und Schüler kennen Sinnesorgane des Menschen und ihre Bedeutung für die
+Informationsaufnahme aus Umwelt und eigenem Körper. Am Beispiel Auge können sie Zusammen‑
+hänge zwischen Struktur und Funktion erklären, Fehlsichtigkeiten beschreiben und Korrekturmög‑
+lichkeiten begründen.
+Die Schülerinnen und Schüler können die Wirkungsweise des Hormonsystems beschreiben, ken‑
+nen Ursachen für hormonelle Fehlfunktionen und können mögliche Therapiemaßnahmen erklären.
+Sie können die Entstehung einer Sucht beschreiben.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) das Reiz-Reaktions-Schema an einem Beispiel erläutern
+
+ (2) Sinnesorgane ihren adäquaten Reizen zuordnen und die Sinneszelle als Signalwandler
+ beschreiben
+
+ (3) Gefahren für Sinnesorgane erläutern und Schutzmaßnahmen nennen
+
+    2.2 Kommunikation 3, 4
+    2.3 Bewertung 14
+    NWT 3.2.4.1 Informationsaufnahme durch Sinne und Sensoren (3)
+    PH 3.2.6 Mechanik: Kinematik
+    PG Sicherheit und Unfallschutz
+
+
+ (4) den Bau des Auges beschreiben und die Funktion der Bestandteile erläutern (unter anderem
+ Akkommodation)
+
+ (5) anatomische Ursachen für Fehlsichtigkeit beschreiben und Möglichkeiten der Korrektur begründen
+
+    2.1 Erkenntnisgewinnung 2, 9, 11, 15
+    2.2 Kommunikation 5, 7
+    2.3 Bewertung 1, 2
+    NWT 3.2.4.1 Informationsaufnahme durch Sinne und Sensoren (2)
+    NWT 3.2.4.2 Gewinnung und Auswertung von Daten
+    PH 3.2.2 Optik und Akustik
+    BO Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+    PG Sicherheit und Unfallschutz; Wahrnehmung und Empfindung
+
+ (6) die Wirkungsweise von Hormonen als Botenstoffe beschreiben
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 7/8                                                  17
+Bildungsplan 2016 – Gymnasium                                                                                  Biologie
+
+
+
+
+                                      Die Schülerinnen und Schüler können
+
+(7) die hormonelle Regelung des Blutzuckerspiegels an einem einfachen Funktionsmodell
+(Gegenspielerprinzip) beschreiben
+
+(8) Ursachen von Diabetes mellitus nennen und Therapiemaßnahmen beschreiben
+
+     2.1     Erkenntnisgewinnung 11, 13
+     2.2     Kommunikation 2, 4, 5, 7
+     2.3     Bewertung 1
+     3.2.2.3 Fortpflanzung und Entwicklung
+     BO      Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+     PG      Körper und Hygiene
+
+(9) die biologische Bedeutung der Stressreaktion an einem Beispiel beschreiben, Stressoren
+nennen und bewerten, die körperlichen Auswirkungen bei langanhaltendem Stress nennen und
+Möglichkeiten der Stressbewältigung beschreiben
+
+     2.2   Kommunikation 1, 3, 5
+     2.3   Bewertung 14
+     BO    Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+     PG    Bewegung und Entspannung; Wahrnehmung und Empfindung
+
+(10) die Entstehung von Sucht als Reaktion des Nervensystems auf bestimmte Substanzen oder
+die exzessive Ausübung bestimmter Aktivitäten beschreiben (zum Beispiel Nikotin-, Alkohol-,
+Spiel-, Onlinesucht)
+
+     2.2     Kommunikation 1, 5
+     2.3     Bewertung 1, 14
+     3.2.2.1 Ernährung und Verdauung (8)
+     ETH     3.1.1.2 Freiheit und Verantwortung
+     ETH     3.1.7.1 Ethisch-moralische Grundlagen des Handelns (7)
+     REV     3.2.1 Mensch (3)
+     RRK     3.2.1 Mensch (1)
+     PG      Sucht und Abhängigkeit
+     VB      Chancen und Risiken der Lebensführung
+
+
+
+
+18                                                              Standards für inhaltsbezogene Kompetenzen – Klassen 7/8
+Bildungsplan 2016 – Gymnasium                                                              Biologie
+
+
+
+
+3.2.2.5 Immunbiologie
+
+Die Schülerinnen und Schüler können am Beispiel des Immunsystems aufzeigen, wie durch das
+Zusammenwirken von verschiedenen Zellen eine übergeordnete Funktion ermöglicht wird. Sie
+erkennen, wie über das Schlüssel-Schloss-Prinzip Kommunikation ermöglicht wird. Sie erkennen
+die Bedeutung von Impfungen und die Notwendigkeit, durch geeignetes Verhalten zur Gesunder‑
+haltung des Körpers beizutragen.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) den Bau und die Vermehrung von Bakterien und Viren beschreiben
+
+ (2) den Verlauf einer Infektionskrankheit beschreiben
+
+ (3) Mechanismen der angeborenen Immunabwehr beschreiben (Barrieren und Fresszellen)
+ und Maßnahmen zur Vermeidung von Infektionskrankheiten erläutern
+
+    2.1     Erkenntnisgewinnung 3, 11
+    2.2     Kommunikation 3, 5
+    2.3     Bewertung 1
+    3.2.1 Zelle und Stoffwechsel
+    3.2.2.1 Ernährung und Verdauung
+    PG      Körper und Hygiene
+
+ (4) die erworbene Immunantwort (Antikörper, Killerzellen) als Wechselwirkung auf zellulärer
+ Ebene beschreiben und die Entstehung von Immunität (Gedächtniszellen) erklären
+
+ (5) die aktive und passive Immunisierung beschreiben und vergleichen
+
+    2.1     Erkenntnisgewinnung 11, 12
+    2.2     Kommunikation 4, 7
+    3.2.2.2 Atmung, Blut und Kreislaufsystem (2)
+    BO      Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+    PG      Körper und Hygiene
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 7/8                                        19
+Bildungsplan 2016 – Gymnasium                                                                               Biologie
+
+
+
+
+3.3 Klassen 9/10
+3.3.1 Evolution
+Die Schülerinnen und Schüler können die Entwicklung des Lebens anhand der Stammesgeschich‑
+te der Wirbeltiere nachvollziehen. Sie können die Veränderung von Arten und Entstehung neuer
+Arten mit Darwins Evolutionstheorie erklären. Sie können die stammesgeschichtliche Entwicklung
+des Menschen beschreiben.
+
+
+                                      Die Schülerinnen und Schüler können
+
+(1) die unterschiedlichen Angepasstheiten der Wirbeltiere durch evolutive Entwicklung begründen
+(zum Beispiel Entwicklung der ersten Landwirbeltiere, der Vögel, der Säugetiere, der Blütenpflanzen)
+
+(2) Belege der stammesgeschichtlichen Verwandtschaft erläutern (zum Beispiel Homologie,
+rudimentäre Organe, Atavismen, Fossilien, Mosaiktypen)
+
+     2.1 Erkenntnisgewinnung 2, 3, 5
+     2.2 Kommunikation 3
+     2.3 Bewertung 1, 5
+     GEO 3.2.1.1 Grundlegende exogene Prozesse
+
+(3) die Evolutionstheorie Darwins erläutern (Abstammung, Variabilität, Überproduktion,
+Konkurrenz, natürliche Auslese, Anpassung)
+
+     2.2 Kommunikation 4
+     BNE Komplexität und Dynamik nachhaltiger Entwicklung
+
+(4) die Evolution zum modernen Menschen anhand ausgewählter Fossilfunde darstellen
+
+     2.1   Erkenntnisgewinnung 3, 5
+     2.2   Kommunikation 3, 4
+
+
+
+
+3.3.2 Genetik
+Die Schülerinnen und Schüler können an einem einfachen Modell die Eigenschaften der DNA erläu‑
+tern. Sie können die Weitergabe von Erbinformation bei der Mitose und Meiose beschreiben und
+vergleichen. Die Schülerinnen und Schüler können erklären, wie durch sexuelle Fortpflanzung Vari‑
+abilität entsteht. Sie können die Vererbungsregeln auf einfache Erbgänge anwenden Stammbaum­
+analysen durchführen. Sie können Chancen und Risiken der Gentechnik bewerten.
+
+
+                                      Die Schülerinnen und Schüler können
+
+(1) die Chromosomen als Träger der Erbinformation beschreiben
+
+(2) erklären, wie innerhalb des Zellzyklus durch Mitose und Zellteilung Tochterzellen mit
+identischem Chromosomensatz entstehen
+
+
+
+
+20                                                          Standards für inhaltsbezogene Kompetenzen – Klassen 9/10
+Bildungsplan 2016 – Gymnasium                                                                                   Biologie
+
+
+
+
+                                         Die Schülerinnen und Schüler können
+
+ (3) die Struktur der DNA anhand eines einfachen Modells beschreiben und daran Eigenschaften
+ der DNA (Informationsspeicherung, Verdopplungsfähigkeit, Veränderbarkeit) erläutern
+
+    2.1       Erkenntnisgewinnung 11, 14
+    2.2       Kommunikation 3
+    3.2.1     Zelle und Stoffwechsel
+    NWT       3.2.4.3 Informationsverarbeitung (1)
+
+ (4) den Vorgang und die Bedeutung der Meiose beschreiben und mit der Mitose vergleichen
+
+ (5) erklären, wie das Geschlecht beim Menschen durch die Geschlechtschromosomen bestimmt
+ wird
+
+    2.1     Erkenntnisgewinnung 11, 14
+    2.2     Kommunikation 7
+    3.2.1 Zelle und Stoffwechsel
+    3.2.2.3 Fortpflanzung und Entwicklung
+
+ (6) an einfachen Erbgängen die Ausprägung des Phänotyps und dessen Vererbung über den
+ Genotyp erklären (dominant-rezessiv, autosomal, gonosomal)
+
+ (7) für einfache Erbgänge beim Menschen Stammbaumanalysen durchführen
+
+ (8) Mutationen als Veränderungen der genetischen Information beschreiben und die Folgen an
+ Beispielen erläutern (zum Beispiel Mukoviszidose, Trisomie 21, Katzenschrei-Syndrom)
+
+ (9) an einem Beispiel die Bedeutung der genetischen Beratung erläutern
+
+    2.1     Erkenntnisgewinnung 14
+    2.2     Kommunikation 2, 3
+    2.3     Bewertung 9
+    PH      3.3.4 Struktur der Materie
+    BTV     Toleranz, Solidarität, Inklusion, Antidiskriminierung
+    PG      Wahrnehmung und Empfindung
+
+ (10) den möglichen Einsatz der Gentechnik beschreiben und beurteilen (zum Beispiel
+ Landwirtschaft, Medikamentenherstellung, Tierzucht)
+
+    2.2 Kommunikation 1, 2, 4, 8, 10
+    2.3 Bewertung 4, 7, 12, 14
+    ETH 3.2.4.1 Mensch und Umwelt (4)
+    BNE Bedeutung und Gefährdungen einer nachhaltigen Entwicklung; Kriterien für nachhaltigkeitsfördernde und
+        -hemmende Handlungen; Werte und Normen in Entscheidungssituationen
+    MB Information und Wissen
+    PG Ernährung
+    VB Qualität der Konsumgüter
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 9/10                                                            21
+Bildungsplan 2016 – Gymnasium                                                                             Biologie
+
+
+
+
+3.3.3 Ökologie
+Die Schülerinnen und Schüler untersuchen und beschreiben ein Ökosystem. Sie erfassen Daten
+und werten diese aus. Sie erkennen Angepasstheiten an den Lebensraum und Wechselwirkungen
+zwischen Lebewesen. Sie können den Einfluss des Menschen auf ein Ökosystem im Hinblick auf
+eine nachhaltige Entwicklung bewerten. Die Schülerinnen und Schüler können globale Herausfor‑
+derungen erkennen und mit lokalem Handeln verknüpfen.
+
+
+                                      Die Schülerinnen und Schüler können
+
+(1) die Biosphäre als System aus Ökosystemen beschreiben
+
+(2) an heimischen Ökosystemen Biotop und Biozönose beschreiben und vergleichen
+
+     2.1   Erkenntnisgewinnung 6, 7, 9, 13
+     2.2   Kommunikation 4
+
+(3) abiotische Faktoren in einem schulnahen Ökosystem untersuchen und ausgewählte
+Organismen (zum Beispiel Zeigerorganismen) bestimmen
+
+     2.1 Erkenntnisgewinnung 3, 4
+     2.2 Kommunikation 6
+     2.3 Bewertung 10
+     BNT 3.1.9 Ökologie
+     GEO 3.2.2.2 Klimazonen der Erde
+     BNE Bedeutung und Gefährdungen einer nachhaltigen Entwicklung
+
+(4) die Angepasstheit von Lebewesen an Umweltfaktoren an ausgewählten Beispielen erläutern
+
+     2.1   Erkenntnisgewinnung 13
+     2.3   Bewertung 1
+
+(5) Nahrungskette und Nahrungsnetz vergleichend beschreiben und die Rolle von Produzenten,
+Konsumenten und Destruenten für eine nachhaltige Existenz der Nahrungsbeziehung begründen
+
+(6) Beziehungen zwischen Lebewesen (Konkurrenz, Räuber-Beute-Beziehung, Parasitismus,
+Symbiose) als Beispiele für biotische Faktoren erläutern
+
+     2.1   Erkenntnisgewinnung 13, 15
+     2.2   Kommunikation 5
+     2.3   Bewertung 8, 10
+
+(7) eine Biomassepyramide beschreiben und mit dem Energiefluss erklären
+
+(8) den Kohlenstoff- oder Stickstoffkreislauf beschreiben und unter dem Aspekt der
+Nachhaltigkeit erläutern (zum Beispiel fossile Brennstoffe, Düngung)
+
+     2.1 Erkenntnisgewinnung 11, 13
+     2.2 Kommunikation 2, 3
+     2.3 Bewertung 8, 11, 13
+     CH 3.2.2.1 Qualitative Aspekte chemischer Reaktionen (11)
+     NWT 3.2.2.1 Energie in Natur und Technik
+     NWT 3.2.3.4 Stoffströme und Verfahren
+     BNE Bedeutung und Gefährdungen einer nachhaltigen Entwicklung
+
+
+
+
+22                                                        Standards für inhaltsbezogene Kompetenzen – Klassen 9/10
+Bildungsplan 2016 – Gymnasium                                                                  Biologie
+
+
+
+
+                                   Die Schülerinnen und Schüler können
+
+ (9) konkrete Vorschläge für nachhaltiges Handeln an lokalen oder globalen Beispielen darstellen
+ und auf ihre Umsetzungsmöglichkeit hin untersuchen (zum Beispiel Auswirkungen von Neobiota,
+ Erhalt der Biodiversität, Eingriffe des Menschen in ein Ökosystem, lokale Natur- und Artenschutz-
+ maßnahmen)
+
+    2.1 Erkenntnisgewinnung 13, 15
+    2.2 Kommunikation 1, 2, 4, 7, 8, 9, 10
+    2.3 Bewertung 5, 7, 8, 10, 11, 12, 13
+    BNT 3.1.9 Ökologie
+    ETH 3.2.4.1 Mensch und Umwelt (2), (5)
+    GEO 3.1.5.1 Analyse ausgewählter Räume in Deutschland und Europa
+    RRK 3.2.2 Welt und Verantwortung
+    BNE Kriterien für nachhaltigkeitsfördernde und -hemmende Handlungen; Werte und Normen in
+        Entscheidungssituationen
+    MB Information und Wissen
+    VB Umgang mit eigenen Ressourcen
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 9/10                                             23
+Bildungsplan 2016 – Gymnasium                                                                                 Biologie
+
+
+
+
+3.4 Klassen 11/12 (zweistündiger Kurs)
+3.4.1 System Zelle
+Die Schüler und Schülerinnen erweitern ihre Kenntnisse von der Feinstruktur der Zellen anhand
+elektronenmikroskopischer Bilder. Sie können Struktur und Funktion von Zellorganellen erläu‑
+tern, die Kompartimentierung der Zellen in verschiedene unabhängige Reaktionsräume beschrei‑
+ben und die Zelle als offenes System verstehen. Sie können Funktionen der Biomembran beschrei‑
+ben und den Strukturen zuordnen.
+
+
+                                    Die Schülerinnen und Schüler können
+
+(1) Struktur und Funktion von Zellorganellen beschreiben (Zellkern, Mitochondrium, Chloroplast,
+ER, Dictyosom, Lysosom, Ribosom, Vakuole)
+
+(2) die Zelle als offenes System beschreiben und die Bedeutung der Kompartimentierung erläutern
+
+(3) Prokaryoten und Eukaryoten bezüglich Struktur und Kompartimentierung vergleichen
+
+     2.1 Erkenntnisgewinnung 1, 5
+     2.2 Kommunikation 4
+     3.2.1 Zelle und Stoffwechsel
+
+(4) Experimente zu Eigenschaften von Biomembranen (zum Beispiel Osmose, Plasmolyse)
+durchführen und auswerten
+
+(5) den Bau der Biomembran anhand eines Modells beschreiben
+
+(6) Transportmechanismen (aktiv, passiv, Membranfluss) beschreiben
+
+     2.1 Erkenntnisgewinnung 5, 6, 11
+     3.2.1 Zelle und Stoffwechsel
+
+
+
+
+24                                      Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (zweistündiger Kurs)
+Bildungsplan 2016 – Gymnasium                                                                Biologie
+
+
+
+
+3.4.2 Biomoleküle und molekulare Genetik
+Die Schülerinnen und Schüler können die biologische Bedeutung von Proteinen und Nukleinsäuren
+erläutern und jeweils den Zusammenhang zwischen Struktur und Funktion beschreiben. Dazu nut‑
+zen sie geeignete Modelle. Sie können die Wirkung verschiedener Faktoren auf die Enzymaktivi‑
+tät experimentell untersuchen. Die Schülerinnen und Schüler verstehen die Bedeutung der Replika‑
+tion und können beschreiben, wie die genetische Information zur Ausprägung von Merkmalen führt.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) den Bau von Makromolekülen (Proteine, Nukleinsäuren) aus Grundbausteinen beschreiben
+
+ (2) Funktionen von Proteinen und Nukleinsäuren beschreiben
+
+ (3) Strukturmerkmale der Proteine (Primär-, Sekundär-, Tertiär- und Quartärstruktur) erklären
+
+    2.1     Erkenntnisgewinnung 11
+    2.2     Kommunikation 7
+    3.2.2.1 Ernährung und Verdauung
+    3.3.2 Genetik
+    CH      3.2.1.3 Bindungs- und Wechselwirkungsmodelle
+    CH      3.3.2 Naturstoffe (5), (6)
+    CH      3.4.4 Naturstoffe (13), (14), (16)
+
+ (4) Bau und Eigenschaften eines Enzyms beschreiben und die Vorgänge am aktiven Zentrum
+ an Modellen darstellen
+
+ (5) Experimente zur Untersuchung der Abhängigkeit der Enzymaktivität (zum Beispiel
+ Temperatur, pH-Wert, Substratkonzentration) planen, durchführen und auswerten
+
+ (6) Hemmung (reversibel und irreversibel) und Regulation der Enzymaktivität an Beispielen
+ beschreiben
+
+    2.1     Erkenntnisgewinnung 8, 9, 10
+    2.2     Kommunikation 7, 8, 11
+    3.2.2.1 Ernährung und Verdauung
+    CH      3.4.3 Säure-Base-Gleichgewichte (1)
+    CH      3.4.4 Naturstoffe (17)
+    BO      Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+    MB      Kommunikation und Kooperation; Produktion und Präsentation
+    PG      Ernährung
+
+ (7) Strukturmerkmale der DNA (Komplementarität, Antiparallelität, Doppelstrang) am Modell erklären
+
+ (8) die Replikation der DNA als Voraussetzung bei der Zellteilung erklären
+
+ (9) die Proteinbiosynthese beschreiben und den genetischen Code anwenden
+
+ (10) mögliche Auswirkungen von Mutationen (zum Beispiel Variabilität, Krankheiten) beschreiben
+
+    2.1 Erkenntnisgewinnung 5, 11, 14
+    2.2 Kommunikation 3, 7
+    3.2.1 Zelle und Stoffwechsel
+    3.3.2 Genetik
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (zweistündiger Kurs)                   25
+Bildungsplan 2016 – Gymnasium                                                                                   Biologie
+
+
+
+
+3.4.3 Nervensystem
+Die Schülerinnen und Schüler können das Nervensystem als ein Organsystem charakterisieren,
+das der schnellen Informationsverarbeitung dient. Sie können die Funktionen des Nervensystems
+auf zellulärer und molekularer Ebene erläutern. Sie können die Vorgänge von der Reizaufnahme bis
+zur Wahrnehmung an einem Beispiel beschreiben.
+
+
+                                      Die Schülerinnen und Schüler können
+
+(1) die Aufnahme, Weiterleitung und Verarbeitung von Information als Zusammenspiel von
+Organen im Überblick beschreiben
+
+(2) am Beispiel des Motoneurons den Zusammenhang zwischen Struktur und Funktion beschreiben
+
+     2.1     Erkenntnisgewinnung 11
+     2.2     Kommunikation 4
+     3.2.1 Zelle und Stoffwechsel
+     3.2.2.4 Informationssysteme
+
+(3) die Entstehung von Ruhepotenzial und Aktionspotenzial erläutern
+
+     2.1   Erkenntnisgewinnung 5, 7, 11, 15
+     2.2   Kommunikation 3, 4, 7
+     CH    3.2.1.2 Stoffe und ihre Teilchen
+
+(4) die Übertragung der Erregung an der Synapse beschreiben
+
+(5) die Vorgänge bei der Reizaufnahme an einer Sinneszelle und der Transduktion in elektrische
+Signale an einem Beispiel erläutern
+
+     2.1     Erkenntnisgewinnung 5, 11
+     2.2     Kommunikation 1, 7, 8
+     3.2.1 Zelle und Stoffwechsel
+     3.2.2.4 Informationssysteme
+
+(6) die Entstehung der Wahrnehmung im Gehirn an einem Beispiel erläutern
+(zum Beispiel Sehwahrnehmung)
+
+     2.1     Erkenntnisgewinnung 14
+     2.2     Kommunikation 3, 5
+     3.2.1 Zelle und Stoffwechsel
+     3.2.2.4 Informationssysteme
+     BO      Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+     PG      Selbstregulation und Lernen; Wahrnehmung und Empfindung
+
+
+
+
+26                                        Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (zweistündiger Kurs)
+Bildungsplan 2016 – Gymnasium                                                        Biologie
+
+
+
+
+3.4.4 Molekularbiologische Verfahren und Gentechnik
+Die Schülerinnen und Schüler können Werkzeuge und Methoden der Molekularbiologie erläutern.
+Sie können ein Verfahren zur Herstellung transgener Organismen beschreiben. Sie können Chan‑
+cen und Risiken der Gentechnik in verschiedenen Anwendungsbereichen bewerten.
+
+
+                                       Die Schülerinnen und Schüler können
+
+ (1) Werkzeuge und Verfahren der Molekularbiologie erläutern
+ (Restriktionsenzyme, Plasmide, PCR, Gelelektrophorese)
+
+ (2) das Prinzip und ein Verfahren des genetischen Fingerabdrucks erläutern
+
+    2.1 Erkenntnisgewinnung 11
+    2.2 Kommunikation 3, 7
+    3.3.2 Genetik
+
+ (3) ein Verfahren zur Herstellung transgener Organismen erläutern
+ (Isolierung und Transfer von Genen, Selektion transgener Organismen)
+
+ (4) Chancen und Risiken von gentechnisch veränderten Organismen bewerten
+ (Medizin, Landwirtschaft)
+
+    2.2 Kommunikation 3, 10
+    2.3 Bewertung 3, 4, 8
+    ETH 3.3.4.1 Verantwortungsethik (5)
+    ETH 3.4.4.1 Verantwortungsethik (5)
+    RRK 3.5.2 Welt und Verantwortung (3)
+    BNE Bedeutung und Gefährdungen einer nachhaltigen Entwicklung
+    MB Information und Wissen
+    VB Qualität der Konsumgüter
+
+ (5) Therapieansätze der modernen Medizin beschreiben
+
+    2.2 Kommunikation 4, 10
+    2.3 Bewertung 3, 4, 6, 9, 10, 11
+    3.2.1 Zelle und Stoffwechsel
+    3.3.2 Genetik
+    BTV Wertorientiertes Handeln
+    MB Information und Wissen
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (zweistündiger Kurs)           27
+Bildungsplan 2016 – Gymnasium                                                                                   Biologie
+
+
+
+
+3.4.5 Reproduktionsbiologie
+Die Schülerinnen und Schüler können die geschlechtliche und ungeschlechtliche Fortpflanzung
+vergleichen. Sie können moderne Methoden der Reproduktionsbiologie beschreiben und Chancen
+und Risiken verschiedene Methoden der Pränataldiagnostik bewerten.
+
+
+                                      Die Schülerinnen und Schüler können
+
+(1) geschlechtliche und ungeschlechtliche Fortpflanzung vergleichen
+
+(2) Verfahren der Reproduktionsbiologie (Keimbahntherapie, Klonen, In-vitro-Fertilisation) beschreiben
+
+(3) Methoden der Pränataldiagnostik beschreiben und bewerten
+
+     2.2     Kommunikation 1, 10
+     2.3     Bewertung 4, 7, 9, 11
+     3.2.2.3 Fortpflanzung und Entwicklung
+     ETH     3.3.4.1 Verantwortungsethik (5)
+     REV     3.5.2 Welt und Verantwortung
+     RRK     3.4.2 Welt und Verantwortung
+     RRK     3.5.2 Welt und Verantwortung
+     BTV     Wertorientiertes Handeln
+
+
+
+
+28                                        Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (zweistündiger Kurs)
+Bildungsplan 2016 – Gymnasium                                                                  Biologie
+
+
+
+
+3.4.6 Evolution und Ökologie
+Aufbauend auf die Evolutionstheorie von Darwin können die Schülerinnen und Schüler die Artbil‑
+dung und die Entstehung von Angepasstheiten mithilfe der synthetischen Evolutionstheorie erklä‑
+ren. Sie verstehen die Biodiversität als genetische Vielfalt, Artenvielfalt und Vielfalt an Ökosyste‑
+men. Dabei wird ihnen die Bedeutung der Biodiversität und die besondere Verantwortung des
+Menschen für deren Erhaltung bewusst.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) Belege für stammesgeschichtliche Verwandtschaft beschreiben (morphologische Merkmale,
+ DNA-Analyse) und zur Konstruktion von Stammbäumen nutzen
+
+ (2) den Einfluss der Evolutionsfaktoren (Mutation, Rekombination, Selektion und Isolation) auf
+ den Genpool und die Artbildung nach der synthetischen Evolutionstheorie beschreiben
+
+ (3) die Artbildung und die Entstehung von Angepasstheiten im Sinne der synthetischen
+ Evolutionstheorie erklären
+
+    2.1 Erkenntnisgewinnung 2, 3, 13
+    2.2 Kommunikation 4, 7
+    3.3.1 Evolution
+    3.3.2 Genetik
+
+ (4) Biodiversität auf verschiedenen Ebenen als genetische Vielfalt, Artenvielfalt und Vielfalt an
+ Ökosystemen erläutern
+
+ (5) die Verantwortung des Menschen zur Erhaltung der Biodiversität und die Notwendigkeit
+ einer nachhaltigen Entwicklung erläutern (zum Beispiel Bevölkerungswachstum, ökologischer
+ Fußabdruck, nachwachsende Rohstoffe)
+
+    2.1 Erkenntnisgewinnung 3
+    2.2 Kommunikation 1, 3, 4
+    2.3 Bewertung 1, 8, 10, 12
+    ETH 3.4.1.1 Freiheit und Naturalismus
+    ETH 3.4.1.2 Freiheit und Anthropologie
+    ETH 3.4.2.2 Gerechtigkeit und Recht
+    GEO 3.5.2.5 Prozesse in der Pedosphäre
+    REV 3.4.2 Welt und Verantwortung
+    BNE Komplexität und Dynamik nachhaltiger Entwicklung
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (zweistündiger Kurs)                       29
+Bildungsplan 2016 – Gymnasium                                                                                  Biologie
+
+
+
+
+3.5 Klassen 11/12 (vierstündiger Kurs)
+3.5.1 System Zelle
+3.5.1.1   Zellorganellen
+
+Die Schülerinnen und Schüler erweitern ihre Kenntnisse von der Feinstruktur der Zellen anhand
+elektronenmikroskopischer Bilder. Sie können Struktur und Funktion von Zellorganellen erläutern
+und die Kompartimentierung der Zellen in verschiedene unabhängige Reaktionsräume begründen.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) Struktur und Funktion von Zellorganellen erläutern (Zellkern, Mitochondrium, Chloroplast,
+ ER, Dictyosom, Lysosom, Ribosom, Vakuole)
+
+ (2) die Zelle als offenes System beschreiben und die Bedeutung der Kompartimentierung erläutern
+
+ (3) in elektronenmikroskopischen Bildern verschiedene Zellstrukturen zuordnen
+
+     2.1 Erkenntnisgewinnung 1
+     2.2 Kommunikation 4
+     3.2.1 Zelle und Stoffwechsel
+     MB Information und Wissen
+
+ (4) Prokaryoten und Eukaryoten bezüglich Struktur und Kompartimentierung vergleichen
+
+     2.1 Erkenntnisgewinnung 5
+     3.2.1 Zelle und Stoffwechsel
+     3.3.1 Evolution
+
+
+
+
+3.5.1.2 Biomembran
+
+Die Schülerinnen und Schüler können ausgehend von experimentellen Ergebnissen Modelle zur
+Biomembran entwickeln. Die Kenntnis über die Struktur ermöglicht ihnen Rückschlüsse auf die
+Eigenschaften von Biomembranen zu ziehen. Auf der Basis der Struktur-Funktions-Zusammenhän‑
+ge können sie sowohl die Begrenzung als auch den Stoffaustausch erläutern. Sie verstehen die
+Zelle als offenes System.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) mithilfe experimenteller Befunde Modelle zum Bau der Biomembran bewerten
+
+ (2) Experimente zu Eigenschaften von Biomembranen durchführen und auswerten
+ (unter anderem zur Osmose)
+
+ (3) Transportmechanismen (aktiv, passiv, Membranfluss) beschreiben
+
+     2.1 Erkenntnisgewinnung 5, 9, 10, 12, 15
+     3.2.1 Zelle und Stoffwechsel
+
+
+
+
+30                                       Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)
+Bildungsplan 2016 – Gymnasium                                                                Biologie
+
+
+
+
+3.5.1.3 Stoffwechselprozesse
+
+Die Schülerinnen und Schüler können den Zusammenhang zwischen Struktur und Funktion von
+Zellorganellen bei der Stoff- und Energieumwandlung beschreiben. Sie können die Bedeutung von
+ATP als universeller Energieträger in lebenden Systemen erklären.
+
+
+                                     Die Schülerinnen und Schüler können
+
+ (1) die Stoffwechselprozesse Fotosynthese und Zellatmung als Reaktionsgleichungen mit
+ Summenformeln beschreiben.
+
+ (2) die Teilprozesse der Fotosynthese und der Zellatmung den Reaktionsräumen zuordnen und
+ im Hinblick auf die Energieumwandlung beschreiben
+
+    2.1     Erkenntnisgewinnung 12
+    2.2     Kommunikation 3, 7
+    2.3     Bewertung 1, 2
+    3.2.1 Zelle und Stoffwechsel
+    3.2.2.2 Atmung, Blut und Kreislaufsystem
+    CH      3.2.2.3 Energetische Aspekte chemischer Reaktionen (2), (3)
+
+ (3) die energetischen Kopplung erläutern (ATP als Energieüberträger)
+
+    2.1 Erkenntnisgewinnung 12
+    2.2 Kommunikation 4
+    3.2.1 Zelle und Stoffwechsel
+
+
+
+
+3.5.2 Biomoleküle und molekulare Genetik
+3.5.2.1 Biomoleküle
+
+Die Schülerinnen und Schüler können die Bedeutung von Makromolekülen für das Leben erläu‑
+tern. Sie können sowohl bei Proteinen als auch bei den Nukleinsäuren den Zusammenhang zwi‑
+schen Struktur und Funktion erläutern. Dazu nutzen sie geeignete Modelle.
+
+
+                                     Die Schülerinnen und Schüler können
+
+ (1) den Bau von Makromolekülen (Proteine, Nukleinsäuren) aus Bausteinen beschreiben
+
+ (2) Funktionen von Proteinen und Nukleinsäuren beschreiben
+
+ (3) Strukturmerkmale der Proteine (Primär-, Sekundär-, Tertiär- und Quartärstruktur) erklären
+
+    2.1     Erkenntnisgewinnung 11
+    2.2     Kommunikation 7
+    3.2.2.1 Ernährung und Verdauung
+    3.2.2.3 Fortpflanzung und Entwicklung
+    3.3.2 Genetik
+    CH      3.2.1.3 Bindungs- und Wechselwirkungsmodelle
+    CH      3.3.2 Naturstoffe
+    CH      3.4.4 Naturstoffe
+
+ (4) ein Experiment zur Isolierung von DNA durchführen und beschreiben, wie das Ergebnis
+ überprüft werden kann
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)                   31
+Bildungsplan 2016 – Gymnasium                                                                                   Biologie
+
+
+
+
+                                     Die Schülerinnen und Schüler können
+
+(5) Strukturmerkmale der DNA (Komplementarität, Antiparallelität, Doppelstrang) am Modell erklären
+
+     2.1     Erkenntnisgewinnung 9, 11, 14
+     3.2.2.3 Fortpflanzung und Entwicklung
+     3.3.2 Genetik
+
+
+
+
+3.5.2.2 Biokatalyse
+
+Die Schülerinnen und Schüler können die Funktionsweise eines Enzyms mit geeigneten Modellen
+erklären und dabei das Basiskonzept Struktur und Funktion erläutern. Sie können Einflussfaktoren
+der Enzymaktivität experimentell untersuchen.
+
+
+                                     Die Schülerinnen und Schüler können
+
+(1) den Bau und die Eigenschaften eines Enzyms beschreiben und seine Wirkungsweise mit
+geeigneten Modellen erklären (Schlüssel-Schloss-Prinzip, induced-fit-Modell)
+
+(2) Experimente zur Untersuchung der Abhängigkeit der Enzymaktivität von verschiedenen Faktoren
+(zum Beispiel Temperatur, pH-Wert, Substratkonzentration) planen, durchführen und auswerten
+
+(3) Hemmung (reversibel und irreversibel) und Regulation der Enzymaktivität an Beispielen
+beschreiben
+
+     2.1     Erkenntnisgewinnung 8, 9, 10
+     2.2     Kommunikation 7, 8, 11
+     3.2.2.1 Ernährung und Verdauung
+     CH      3.3.1 Chemische Gleichgewichte (8)
+     CH      3.4.3 Säure-Base-Gleichgewichte (1)
+     CH      3.4.4 Naturstoffe
+     BO      Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+     MB      Kommunikation und Kooperation; Produktion und Präsentation
+     PG      Ernährung
+
+
+
+
+3.5.2.3 DNA und Genaktivität
+
+Die Schülerinnen und Schüler verstehen die Bedeutung der Replikation und können beschreiben,
+wie die genetische Information zur Ausprägung von Merkmalen führt. Sie können Transkription
+und Translation in Procyten und Eucyten vergleichen und durch deren Unterschiede die Wirkungs‑
+weise von Antibiotika erläutern. Sie können die Bedeutung der Regulation der Genaktivität für den
+Stoffwechsel erklären.
+
+
+                                     Die Schülerinnen und Schüler können
+
+(1) die Replikation der DNA beschreiben und deren Bedeutung für die Zellteilung erklären
+
+     2.1     Erkenntnisgewinnung 5, 11, 14
+     2.2     Kommunikation 4, 7
+     3.2.1 Zelle und Stoffwechsel
+     3.2.2.3 Fortpflanzung und Entwicklung
+
+
+
+
+32                                        Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)
+Bildungsplan 2016 – Gymnasium                                                                 Biologie
+
+
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (2) die Proteinbiosynthese beschreiben und den genetischen Code anwenden
+
+ (3) mögliche Auswirkungen von Mutationen (zum Beispiel Variabilität, Krankheiten) beschreiben
+
+ (4) Unterschiede in der Proteinbiosynthese von Prokaryoten und Eukaryoten beschreiben und
+ die Wirkungsweisen von Antibiotika erklären
+
+ (5) differenzielle Genaktivität und Genregulation bei Prokaryoten beschreiben
+
+    2.1 Erkenntnisgewinnung 11, 14
+    2.2 Kommunikation 3, 4, 5, 7
+    3.2.1 Zelle und Stoffwechsel
+    3.3.2 Genetik
+
+
+
+
+3.5.3 Molekularbiologische Verfahren und Gentechnik
+Die Schülerinnen und Schüler können Werkzeuge und Methoden der Molekularbiologie erläutern.
+Sie können ein Verfahren zur Herstellung transgener Organismen beschreiben und das Prinzip
+erläutern. Sie können Chancen und Risiken von gentechnisch veränderten Organismen differen‑
+ziert bewerten.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) Werkzeuge und Verfahren der Molekularbiologie erläutern (Restriktionsenzyme, Plasmide,
+ PCR, Gelelektrophorese)
+
+ (2) das Prinzip und ein Verfahren des genetischen Fingerabdrucks erläutern
+
+    2.1 Erkenntnisgewinnung 14
+    2.2 Kommunikation 3, 7, 8
+    3.3.2 Genetik
+
+ (3) ein molekularbiologisches Experiment durchführen und auswerten
+
+ (4) ein Verfahren zur Herstellung transgener Organismen erläutern (Isolierung und Transfer
+ von Genen, Selektion transgener Organismen)
+
+ (5) Chancen und Risiken von gentechnisch veränderten Organismen bewerten (Medizin, Land-
+ wirtschaft)
+
+    2.1 Erkenntnisgewinnung 7, 9
+    2.2 Kommunikation 1, 3, 8, 10
+    2.3 Bewertung 1, 3, 4, 7, 8
+    ETH 3.3.4.1 Verantwortungsethik (5)
+    RRK 3.5.2 Welt und Verantwortung (3)
+    BNE Bedeutung und Gefährdungen einer nachhaltigen Entwicklung
+    BO Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+    MB Information und Wissen
+    VB Chancen und Risiken der Lebensführung; Qualität der Konsumgüter
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)                    33
+Bildungsplan 2016 – Gymnasium                                                                                       Biologie
+
+
+
+
+3.5.4 Kommunikation zwischen Zellen
+3.5.4.1 Nervensystem
+
+Die Schülerinnen und Schüler können das Nervensystem als ein Organsystem charakterisieren,
+das der schnellen Informationsverarbeitung dient. Sie können die Funktionen des Nervensystems
+auf zellulärer und molekularer Ebene erläutern. Sie können grundlegende Messmethoden der neu‑
+robiologischen Forschung erklären und die Vorgänge von der Reizaufnahme bis zur Wahrnehmung
+an einem Beispiel beschreiben. An geeigneten Beispielen können die Schülerinnen und Schüler die
+Basiskonzepte Struktur und Funktion und Kommunikation erläutern.
+
+
+                                        Die Schülerinnen und Schüler können
+
+(1) die Aufnahme, Weiterleitung und Verarbeitung von Information als Zusammenspiel von
+Organen erklären
+
+(2) am Beispiel des Motoneurons den Zusammenhang zwischen Struktur und Funktion beschreiben
+
+     2.1     Erkenntnisgewinnung 11
+     2.2     Kommunikation 4
+     3.2.1 Zelle und Stoffwechsel
+     3.2.2.4 Informationssysteme
+
+(3) Ruhepotenzial, Aktionspotenzial und Erregungsweiterleitung (kontinuierlich und saltatorisch)
+erläutern
+
+     2.1   Erkenntnisgewinnung 5, 11, 15
+     2.2   Kommunikation 3, 4, 7
+     CH    3.2.1.2 Stoffe und ihre Teilchen
+
+(4) die Übertragung der Erregung an der Synapse beschreiben
+
+(5) die Verrechnung der Signale von erregenden und hemmenden Synapsen beschreiben
+
+(6) die Vorgänge bei der Reizaufnahme an einer lichtempfindlichen Sinneszelle und die
+Transduktion an einem Beispiel erläutern (second messenger Prinzip)
+
+     2.1     Erkenntnisgewinnung 5, 12
+     2.2     Kommunikation 1, 7, 8
+     3.2.1 Zelle und Stoffwechsel
+     3.2.2.4 Informationssysteme
+
+(7) die Entstehung der Wahrnehmung im Gehirn an einem Beispiel erläutern
+(zum Beispiel Sehwahrnehmung)
+
+     2.1     Erkenntnisgewinnung 14
+     2.2     Kommunikation 3, 5
+     3.2.1 Zelle und Stoffwechsel
+     3.2.2.4 Informationssysteme
+     BO      Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+     PG      Selbstregulation und Lernen; Wahrnehmung und Empfindung
+
+
+
+
+34                                            Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)
+Bildungsplan 2016 – Gymnasium                                                                    Biologie
+
+
+
+
+3.5.4.2 Hormonsystem
+
+Die Schülerinnen und Schüler können die Bedeutung des Hormonsystems für den Stoffwechsel
+und die Regulation durch Hormone erläutern. Sie können verschiedene Wirkmechanismen von
+Hormonen an den Zielzellen beschreiben.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) die Regelung von Stoffwechselprozessen durch Hormone an einem Beispiel erläutern
+ (zum Beispiel Thyroxin, Insulin, Sexualhormone)
+
+ (2) unterschiedliche Wirkungsmechanismen von Hormonen auf molekularer Ebene beschreiben
+ (Rezeptoren in der Zellmembran oder im Zellplasma)
+
+    2.1     Erkenntnisgewinnung 12, 14
+    2.2     Kommunikation 4, 7
+    3.2.2.3 Fortpflanzung und Entwicklung
+    3.2.2.4 Informationssysteme
+    PG      Wahrnehmung und Empfindung
+
+
+
+
+3.5.4.3 Immunsystem
+
+Die Schülerinnen und Schüler können erklären, wie das Immunsystem durch das Zusammenwirken
+von verschiedenen Zellen Antigene abwehren kann. Sie können die Wechselwirkungen zwischen
+Immunzellen auf Zell-Zell-Kontakte und Signalstoffe zurückführen. Sie können erklären, dass Anti‑
+gene anhand von Oberflächenstrukturen erkannt werden und diese Information im Immunsystem
+weitergegeben und gespeichert wird. Die Schülerinnen und Schüler können an geeigneten Beispie‑
+len die Basiskonzepte Struktur und Funktion sowie Information und Kommunikation erläutern.
+
+
+                                    Die Schülerinnen und Schüler können
+
+ (1) die humorale und zelluläre Immunantwort am Beispiel einer Infektionskrankheit im Hinblick
+ auf die Kooperation von Immunzellen beschreiben (Signalstoffe, Zell-Zell-Kontakte)
+
+    2.1     Erkenntnisgewinnung 12, 13
+    2.2     Kommunikation 3, 4
+    3.2.2.5 Immunbiologie
+    PG      Körper und Hygiene
+
+ (2) die Vielfalt der Antikörper und Rezeptoren erklären (somatische Rekombination, klonale Selektion)
+
+ (3) die Unterscheidung von körpereigen und körperfremd anhand des MHC-Systems erklären und
+ an einem Beispiel erläutern (zum Beispiel Allergie, Organtransplantation, Autoimmunerkrankung)
+
+    2.1 Erkenntnisgewinnung 5, 11, 13
+    2.2 Kommunikation 3, 7, 8
+    BNE Werte und Normen in Entscheidungssituationen
+
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)                       35
+Bildungsplan 2016 – Gymnasium                                                                                  Biologie
+
+
+
+
+                                     Die Schülerinnen und Schüler können
+
+(4) am Beispiel HIV erklären, wie sich die Viren vermehren und das Immunsystem schwächen; sie
+können eine Nachweismethode beschreiben (ELISA-Test) und mögliche Therapieansätze erläutern
+
+     2.2     Kommunikation 1, 4, 8
+     2.3     Bewertung 1, 6
+     3.2.2.4 Informationssysteme
+     3.2.2.5 Immunbiologie
+     PG      Körper und Hygiene
+
+
+
+
+3.5.5 Evolution und Ökologie
+Aufbauend auf der Evolutionstheorie von Darwin können die Schülerinnen und Schüler die Artbil‑
+dung und die Entstehung von Angepasstheiten mithilfe der synthetischen Evolutionstheorie erklä‑
+ren. Sie erkennen die Artenvielfalt und können Lebewesen nach Kriterien ordnen. Sie verstehen
+die Biodiversität als genetische Vielfalt, Artenvielfalt und Vielfalt an Ökosystemen. Dabei wird ihnen
+die Bedeutung der Biodiversität und die besondere Verantwortung des Menschen für deren Erhal‑
+tung bewusst. Die Schülerinnen und Schüler können die Evolution des Menschen beschreiben.
+
+
+                                     Die Schülerinnen und Schüler können
+
+(1) die Artenvielfalt an originalen Objekten (zum Beispiel Freiland, Museum, Sammlung) nach
+Kriterien ordnen
+
+(2) Belege für stammesgeschichtliche Verwandtschaft (morphologische Merkmale, DNA-Analyse)
+zur Konstruktion von Stammbäumen nutzen und mit konvergenten Entwicklungen vergleichen
+(Homologie und Analogie)
+
+(3) den Einfluss der Evolutionsfaktoren (Mutation, Rekombination, Selektion, Isolation) auf den
+Genpool nach der synthetischen Evolutionstheorie beschreiben
+
+     2.1 Erkenntnisgewinnung 2, 3, 4
+     2.2 Kommunikation 3, 4
+     3.3.1 Evolution
+     3.3.2 Genetik
+
+(4) die Wirkung von abiotischen und biotischen Selektionsfaktoren auf Populationen beschreiben
+
+(5) die Artbildung im Sinne der synthetischen Evolutionstheorie erklären
+
+(6) die ökologische Einnischung im Sinne der synthetischen Evolutionstheorie erklären
+
+     2.1     Erkenntnisgewinnung 13
+     2.2     Kommunikation 4, 7, 8
+     3.2.2.3 Fortpflanzung und Entwicklung
+     3.3.1 Evolution
+     3.3.2 Genetik
+     3.3.3 Ökologie
+     BNE     Komplexität und Dynamik nachhaltiger Entwicklung
+
+(7) Biodiversität auf verschiedenen Ebenen als genetische Vielfalt, Artenvielfalt und Vielfalt an
+Ökosystemen darstellen
+
+
+
+
+36                                       Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)
+Bildungsplan 2016 – Gymnasium                                                                 Biologie
+
+
+
+
+                                      Die Schülerinnen und Schüler können
+
+ (8) die Verantwortung des Menschen zur Erhaltung der Biodiversität und die Notwendigkeit
+ einer nachhaltigen Entwicklung erläutern (zum Beispiel Bevölkerungswachstum, ökologischer
+ Fußabdruck, nachwachsende Rohstoffe)
+
+    2.1 Erkenntnisgewinnung 3
+    2.2 Kommunikation 1, 3, 4
+    2.3 Bewertung 1, 8, 10, 12
+    ETH 3.4.1.1 Freiheit und Naturalismus
+    ETH 3.4.1.2 Freiheit und Anthropologie
+    ETH 3.4.4.2 Angewandte Ethik
+    GEO 3.5.2.5 Prozesse in der Pedosphäre
+    REV 3.4.2 Welt und Verantwortung
+    RRK 3.4.2 Welt und Verantwortung
+    BNE Komplexität und Dynamik nachhaltiger Entwicklung
+
+ (9) Besonderheiten der Evolution des Menschen erläutern und die Bedeutung der kulturellen
+ Evolution für die Entstehung des heutigen Menschen erklären
+
+    2.1   Erkenntnisgewinnung 3, 11
+    2.2   Kommunikation 3, 4
+
+
+
+
+3.5.6 Chancen und Risiken biomedizinischer Verfahren
+Die Schülerinnen und Schüler können die natürliche Fortpflanzung bei verschiedenen Lebewesen
+beschreiben und vergleichen. Sie können Methoden der Reproduktionsbiologie am Menschen
+beschreiben sowie Chancen und Risiken verschiedener Methoden der Pränataldiagnostik bewerten.
+
+
+                                      Die Schülerinnen und Schüler können
+
+ (1) geschlechtliche und ungeschlechtliche Fortpflanzung vergleichen
+
+ (2) Verfahren der Reproduktionsbiologie (Klonen, In-vitro-Fertilisation, Keimbahntherapie)
+ beschreiben und bewerten
+
+ (3) Methoden der Pränataldiagnostik und die Methode der Präimplantationsdiagnostik
+ beschreiben und bewerten
+
+    2.2     Kommunikation 1, 10
+    2.3     Bewertung 2, 4, 7, 9, 11
+    3.2.2.3 Fortpflanzung und Entwicklung
+    ETH     3.4.4.2 Angewandte Ethik (4)
+    REV     3.4.2 Welt und Verantwortung
+    RRK     3.5.2 Welt und Verantwortung
+    BTV     Wertorientiertes Handeln
+
+ (4) einen Therapieansatz der modernen Medizin beschreiben (zum Beispiel bei Krebs,
+ mit Stammzellen, Tissue Engineering)
+
+    2.2 Kommunikation 2, 4, 8
+    3.2.1 Zelle und Stoffwechsel
+    3.3.2 Genetik
+    BO Fachspezifische und handlungsorientierte Zugänge zur Arbeits- und Berufswelt
+    BTV Wertorientiertes Handeln
+    MB Information und Wissen; Produktion und Präsentation
+
+
+
+Standards für inhaltsbezogene Kompetenzen – Klassen 11/12 (vierstündiger Kurs)                    37
+Bildungsplan 2016 – Gymnasium                                                                Biologie
+
+
+
+
+4. Operatoren
+Den in den Fächern Biologie, Chemie, Naturwissenschaft und Technik (NwT), Physik und in dem Fä-
+cherverbund Biologie, Naturphänomene und Technik (BNT) genutzten Operatoren liegt eine gemein-
+same Beschreibung zugrunde.
+
+In den Standards für inhaltsbezogene Kompetenzen werden Operatoren (handlungsleitende Verben)
+verwendet. Diese sind in der vorliegenden Liste aufgeführt. Standards legen fest, welchen Anforde-
+rungen die Schülerinnen und Schüler gerecht werden müssen. Daher werden Operatoren in der Re-
+gel nach drei Anforderungsbereichen (AFB) gegliedert:
+
+• Reproduktion (AFB I)
+• Reorganisation (AFB II)
+• Transfer (AFB III)
+
+Nicht in allen Fällen ist eine eindeutige Zuordnung eines Operators zu einem Anforderungsbereich
+möglich.
+
+Je nach inhaltlichem Kontext und unterrichtlichem Vorlauf können Operatoren in mehrere Anforde-
+rungsbereiche eingeordnet werden. Im Folgenden wird den Operatoren der überwiegend in Betracht
+kommende Anforderungsbereich zugeordnet.
+
+
+Operatoren             Beschreibung                                                          AFB
+
+anwenden               einen bekannten Zusammenhang oder eine bekannte Methode auf            II
+                       einen anderen Sachverhalt beziehen
+
+auswerten              Daten, Einzelergebnisse oder andere Aspekte in einen Zusammen-         III
+                       hang stellen, um daraus Schlussfolgerungen zu ziehen
+
+begründen              Sachverhalte auf Regeln, Gesetzmäßigkeiten beziehungsweise             III
+                       kausale Zusammenhänge zurückführen
+
+beobachten             mit eigenen Sinnen bewusst wahrnehmen oder an Messgeräten               I
+                       ablesen
+
+beschreiben            Strukturen, Sachverhalte, Prozesse und Eigenschaften von Objekten      II
+                       in der Regel unter Verwendung der Fachsprache wiedergeben
+
+bewerten               einen Sachverhalt nach fachwissenschaftlichen oder fach­               III
+                       methodischen Kriterien oder einem persönlichen und gesellschaft-
+                       lichen Wertebezug begründet einschätzen
+
+darstellen             Sachverhalte, Zusammenhänge, Methoden oder Ergebnisse                   I
+                       strukturiert wiedergeben
+
+durchführen            eine vorgegebene oder eigene Anleitung (zum Beispiel für ein            I
+                       Experiment oder einen Arbeitsauftrag) umsetzen
+
+erklären               Strukturen, Prozesse oder Zusammenhänge des Sachverhalts               II
+                       erfassen und auf allgemeine Aussagen oder Gesetze zurückführen
+
+
+
+
+38                                                                                         Operatoren
+Bildungsplan 2016 – Gymnasium                                                            Biologie
+
+
+
+
+Operatoren            Beschreibung                                                       AFB
+
+erläutern             Strukturen, Prozesse oder Zusammenhänge des Sachverhalts            II
+                      erfassen und auf allgemeine Aussagen oder Gesetze zurückführen
+                      und durch zusätzliche Informationen oder Beispiele verständlich
+                      machen
+
+ermitteln             ein Ergebnis rechnerisch, grafisch oder experimentell bestimmen     II
+
+interpretieren        Sachverhalte, Zusammenhänge im Hinblick auf Erklärungs­            III
+                      möglichkeiten untersuchen und abwägend herausstellen
+
+nennen                Elemente, Sachverhalte, Begriffe, Daten, Fakten ohne Erläuterung    I
+                      wiedergeben
+
+nutzen                fachgerecht einsetzen                                               I
+
+ordnen, zuordnen Begriffe, Gegenstände und so weiter auf der Grundlage                    II
+                 bestimmter Merkmale systematisch einteilen
+
+planen                zu einem vorgegebenen Problem Lösungswege entwickeln                II
+
+untersuchen           Sachverhalte oder Objekte zielorientiert erkunden, Merkmale und     II
+                      Zusammenhänge herausarbeiten
+
+vergleichen           Gemeinsamkeiten und Unterschiede herausarbeiten                     II
+
+zeichnen              eine anschauliche und hinreichend exakte grafische Darstellung      I
+                      anfertigen
+
+
+
+
+Operatoren                                                                                     39
+Bildungsplan 2016 – Gymnasium                                                                                      Biologie
+
+
+
+
+5.         Anhang
+5.1        Verweise
+Das Verweissystem im Bildungsplan 2016 unterscheidet zwischen vier verschiedenen Verweisarten.
+Diese werden durch unterschiedliche Symbole gekennzeichnet:
+
+
+  Symbol                Erläuterung
+
+                        Verweis auf die prozessbezogenen Kompetenzen
+
+                        Verweis auf andere Standards für inhaltsbezogene Kompetenzen desselben Fachplans
+
+                        Verweis auf andere Fächer
+
+                        Verweis auf Leitperspektiven
+
+Die vier verschiedenen Verweisarten
+
+
+
+Die Darstellungen der Verweise weichen im Web und in der Druckfassung voneinander ab.
+
+
+Darstellung der Verweise auf der Online-Plattform
+Verweise auf Teilkompetenzen werden unterhalb der jeweiligen Teilkompetenz als anklickbare Sym-
+bole dargestellt. Nach einem Mausklick auf das jeweilige Symbol werden die Verweise im Browser
+­detaillierter dargestellt (dies wird in der Abbildung nicht veranschaulicht):
+
+
+ (2) anhand von einfachen Versuchen zwei Wetterelemente analysieren
+ (zum Beispiel Niederschlag, Temperatur)
+
+
+
+Darstellung der Verweise in der Webansicht (Beispiel aus Geographie 3.1.2.1 „Grundlagen von Wetter und Klima“)
+
+
+
+Darstellung der Verweise in der Druckfassung
+In der Druckfassung und in der PDF-Ansicht werden sämtliche Verweise direkt unterhalb der jewei-
+ligen Teilkompetenz dargestellt. Bei Verweisen auf andere Fächer ist zusätzlich das Fächerkürzel
+dargestellt (im Beispiel „BNT“ für „Biologie, Naturphänomene und Technik (BNT)“):
+
+
+ (2) anhand von einfachen Versuchen zwei Wetterelemente analysieren
+ (zum Beispiel Niederschlag, Temperatur)
+
+      2.5       Methodenkompetenz 3
+      3.1.2.2   Klimazonen Europas
+      BNT       3.1.1 Denk- und Arbeitsweisen der Naturwissenschaften und der Technik
+      MB        Produktion und Präsentation
+
+Darstellung der Verweise in der Druckansicht (Beispiel aus Geographie 3.1.2.1 „Grundlagen von Wetter und Klima“)
+
+
+
+
+40                                                                                                                 Anhang
+Bildungsplan 2016 – Gymnasium                                                                                      Biologie
+
+
+
+
+Gültigkeitsbereich der Verweise
+Sind Verweise nur durch eine gestrichelte Linie von den darüber stehenden Kompetenzbeschrei­
+bungen getrennt, beziehen sie sich unmittelbar auf diese.
+
+Stehen Verweise in der letzten Zeile eines Kompetenzbereichs und sind durch eine durchgezogene
+Linie von diesem getrennt, so beziehen sie sich auf den gesamten Kompetenzbereich.
+
+
+                          Die Schülerinnen und Schüler können                        Die Verweise gelten für ...
+
+
+  (1) die Sichtweisen von Betroffenen und Beteiligten in Konfliktsituationen
+      herausarbeiten und bewerten (zum Beispiel Elternhaus, Schule, soziale
+      Netzwerke)
+
+                                                                                     ... die Teilkompetenz (1)
+
+
+  (2) Erklärungsansätze für Gewalt anhand von Beispielsituationen herausarbei-
+      ten und beurteilen
+
+  (3) selbstständig Strategien zu gewaltfreien und verantwortungsbewussten
+      Konfliktlösungen entwickeln und überprüfen (zum Beispiel Kompromiss,
+      Mediation, Konsens)
+
+                                                                                     ... die Teilkompetenzen (2) und (3)
+
+
+                                                                                     ... alle Teilkompetenzen der Tabelle
+
+
+Gültigkeitsbereich von Verweisen (Beispiel aus Ethik 3.1.2.2 „Verantwortung im Umgang mit Konflikten und Gewalt“)
+
+
+
+
+5.2 Abkürzungen
+
+Leitperspektiven
+
+                                          Allgemeine Leitperspektiven
+
+ BNE                Bildung für nachhaltige Entwicklung
+
+ BTV                Bildung für Toleranz und Akzeptanz von Vielfalt
+
+ PG                 Prävention und Gesundheitsförderung
+
+                                     Themenspezifische Leitperspektiven
+
+ BO                 Berufliche Orientierung
+
+ MB                 Medienbildung
+
+ VB                 Verbraucherbildung
+
+
+
+
+Anhang                                                                                                                     41
+Bildungsplan 2016 – Gymnasium                                          Biologie
+
+
+
+
+Fächer des Gymnasiums
+
+Abkürzung         Fach
+
+BIO               Biologie
+
+BK                Bildende Kunst
+
+BKPROFIL          Bildende Kunst – Profilfach
+
+BMB               Basiskurs Medienbildung
+
+BNT               Biologie, Naturphänomene und Technik (BNT)
+
+CH                Chemie
+
+D                 Deutsch
+
+E1                Englisch als erste Fremdsprache
+
+E2                Englisch als zweite Fremdsprache
+
+ETH               Ethik
+
+F1                Französisch als erste Fremdsprache
+
+F2                Französisch als zweite Fremdsprache
+
+F3                Französisch als dritte Fremdsprache – Profilfach
+
+G                 Geschichte
+
+GEO               Geographie
+
+GK                Gemeinschaftskunde
+
+GR3               Griechisch als dritte Fremdsprache – Profilfach
+
+ITAL3             Italienisch als dritte Fremdsprache – Profilfach
+
+L1                Latein als erste Fremdsprache
+
+L2                Latein als zweite Fremdsprache
+
+L3                Latein als dritte Fremdsprache – Profilfach
+
+LUT               Literatur und Theater
+
+M                 Mathematik
+
+MUS               Musik
+
+MUSPROFIL         Musik – Profilfach
+
+NWT               Naturwissenschaft und Technik (NwT) – Profilfach
+
+PH                Physik
+
+PORT3             Portugiesisch als dritte Fremdsprache – Profilfach
+
+RAK               Altkatholische Religionslehre
+
+RALE              Alevitische Religionslehre
+
+
+
+
+42                                                                     Anhang
+Bildungsplan 2016 – Gymnasium                                                               Biologie
+
+
+
+
+Abkürzung         Fach
+
+REV               Evangelische Religionslehre
+
+RISL              Islamische Religionslehre sunnitischer Prägung
+
+RJUED             Jüdische Religionslehre
+
+RRK               Katholische Religionslehre
+
+RSYR              Syrisch-Orthodoxe Religionslehre
+
+RU2               Russisch als zweite Fremdsprache
+
+RU3               Russisch als dritte Fremdsprache – Profilfach
+
+SPA3              Spanisch als dritte Fremdsprache – Profilfach
+
+SPO               Sport
+
+SPOPROFIL         Sport – Profilfach
+
+WBS               Wirtschaft / Berufs- und Studienorientierung (WBS)
+
+WI                Wirtschaft
+
+
+
+
+5.3 Geschlechtergerechte Sprache
+Im Bildungsplan 2016 wird in der Regel durchgängig die weibliche Form neben der männlichen ver-
+wendet; wo immer möglich, werden Paarformulierungen wie „Lehrerinnen und Lehrer“ oder neut-
+rale Formen wie „Lehrkräfte“, „Studierende“ gebraucht.
+
+Ausnahmen von diesen Regeln finden sich bei
+
+• Überschriften, Tabellen, Grafiken, wenn dies aus layouttechnischen Gründen (Platzmangel) erfor-
+  derlich ist,
+
+• Funktions- oder Rollenbezeichnungen beziehungsweise Begriffen mit Nähe zu formalen und ju-
+  ristischen Texten oder domänenspezifischen Fachbegriffen (zum Beispiel „Marktteilnehmer“, „Er‑
+  werbstätiger“, „Auftraggeber“, „(Ver‑)Käufer“, „Konsument“, „Anbieter“, „Verbraucher“, „Arbeit‑
+  nehmer“, „Arbeitgeber“, „Bürger“, „Bürgermeister“),
+
+• massiver Beeinträchtigung der Lesbarkeit.
+
+Selbstverständlich sind auch in all diesen Fällen Personen jeglichen Geschlechts gemeint.
+
+
+
+
+Anhang                                                                                          43
+Bildungsplan 2016 – Gymnasium                                                              Biologie
+
+
+
+
+5.4 Besondere Schriftauszeichnungen
+Klammern und Verbindlichkeit von Beispielen
+Im Fachplan sind einige Begriffe in Klammern gesetzt.
+
+Steht vor den Begriffen in Klammern „zum Beispiel“, so dienen die Begriffe lediglich einer genaue-
+ren Klärung und Einordnung.
+
+Begriffe in Klammern ohne „zum Beispiel“ sind ein verbindlicher Teil der Kompetenzformulierung.
+
+Steht in Klammern ein „unter anderem“, so sind die in der Klammer aufgeführten Aspekte verbind-
+lich zu unterrichten und noch weitere Beispiele der eigenen Wahl darüber hinaus.
+
+Beispiel 1: „Die Schülerinnen und Schüler können die Funktionen von Zellbestandteilen beschreiben
+(Zellkern, Zellwand, Zellmembran, Chloroplast, Vakuole, Mitochondrien)“.
+Die in der Klammer genannten Begriffe können die Schülerinnen und Schüler beschreiben.
+
+Beispiel 2: „Die Schülerinnen und Schüler können Qualitätsmerkmale von Lebensmitteln (zum Bei‑
+spiel Gehalt an Vitaminen, Mineralstoffen und Zusatzstoffen, Herkunft, Produktionsverfahren) im
+Hinblick auf gesunde Ernährung und globale Verantwortung bewerten“.
+Die beschriebene Teilkompetenz kann anhand eines der in der Klammer beschriebenen Beispiele
+veranschaulicht werden.
+
+Beispiel 3: „Die Schülerinnen und Schüler können den Weg der Nahrung und die Funktion der an
+der Verdauung beteiligten Organe beschreiben und an geeigneten Beispielen den Zusammenhang
+zwischen Struktur und Funktion (unter anderem Prinzip der Oberflächenvergrößerung) bei der Ver‑
+dauung erläutern“.
+Die Schülerinnen und Schüler können neben der Oberflächenvergrößerung weitere Zusammenhän-
+ge zwischen Struktur und Funktion bei der Verdauung erläutern.
+
+
+Gestrichelte Unterstreichungen in den gymnasialen Fachplänen
+In den prozessbezogenen Kompetenzen:
+Die gekennzeichneten Stellen sind in der Oberstufe (Klassen 10–12) zu verorten.
+
+In den inhaltsbezogenen Kompetenzen:
+Die gekennzeichneten Stellen reichen über das E-Niveau des gemeinsamen Bildungsplans für die
+Sekundarstufe I hinaus und sind explizit erst in der Klasse 10 zu verorten.
+
+
+
+
+44                                                                                         Anhang
+                        Impressum
+Kultus und Unterricht   Amtsblatt des Ministeriums für Kultus, Jugend und Sport Baden-Württemberg
+Ausgabe C               Bildungsplanplanhefte
+Herausgeber             Ministerium für Kultus, Jugend und Sport Baden-Württemberg, Postfach 103442, 70029 Stuttgart
+                        in Zusammenarbeit mit dem Landesinstitut für Schulentwicklung, Heilbronner Str. 172, 70191 Stuttgart
+Internet                www.bildungsplaene-bw.de
+Verlag und Vertrieb     Neckar-Verlag GmbH, Villingen-Schwenningen
+Urheberrecht            Die fotomechanische oder anderweitig technisch mögliche Reproduktion des Satzes beziehungsweise der Satzordnung
+                        für kommerzielle Zwecke nur mit Genehmigung des Herausgebers.
+Bildnachweis            Robert Thiele, Stuttgart
+Gestaltung              Ilona Hirth Grafik Design GmbH, Karlsruhe
+Druck                   Konrad Triltsch Print und digitale Medien GmbH, Ochsenfurt
+                        Soweit die vorliegende Publikation Nachdrucke enthält, wurden dafür nach bestem Wissen und Gewissen Lizenzen
+                        eingeholt. Die Urheberrechte der Copyrightinhaber werden ausdrücklich anerkannt. Sollten dennoch in einzelnen
+                        Fällen Urheberrechte nicht berücksichtigt worden sein, wenden Sie sich bitte an den Herausgeber.
+                        Alle eingesetzten beziehungsweise verarbeiteten Rohstoffe und Materialien entsprechen den zum Zeitpunkt der
+                        Angebotsabgabe gültigen Normen beziehungsweise geltenden Bestimmungen und Gesetzen der Bundesrepublik
+                        Deutschland. Der Herausgeber hat bei seinen Leistungen sowie bei Zulieferungen Dritter im Rahmen der wirtschaft-
+                        lichen und technischen Möglichkeiten umweltfreundliche Verfahren und Erzeugnisse bevorzugt eingesetzt.
+                        Juni 2016
+Bezugsbedingungen       Die Lieferung der unregelmäßig erscheinenden Bildungsplanplanhefte erfolgt automatisch nach einem festgelegten
+                        Schlüssel. Der Bezug der Ausgabe C des Amtsblattes ist verpflichtend, wenn die betreffende Schule im Verteiler
+                        (abgedruckt auf der zweiten Umschlagseite) vorgesehen ist (Verwaltungsvorschrift vom 22. Mai 2008, K.u.U. S. 141).
+                        Die Bildungsplanplanhefte werden gesondert in Rechnung gestellt.
+                        Die einzelnen Reihen können zusätzlich abonniert werden. Abbestellungen nur halbjährlich zum 30. Juni und
+                        31. Dezember eines jeden Jahres schriftlich acht Wochen vorher bei der Neckar-Verlag GmbH, Postfach 1820,
+                        78008 Villingen-Schwenningen.
+

@@ -1,0 +1,992 @@
+Biologie
+Impressum
+Herausgeber     Ministerium für Kultus, Jugend und Sport Baden-Württemberg, Postfach 103442, 70029 Stuttgart
+Bildungsplan-   Zentrum für Schulqualität und Lehrerbildung, Neckarstr. 207,
+erstellung      70190 Stuttgart (www.zsl.kultus-bw.de)
+Internet        www.bildungsplaene-bw.de
+Urheberrecht    Die fotomechanische oder anderweitig technisch mögliche Reproduktion des Satzes beziehungsweise der
+                Satzordnung für kommerzielle Zwecke nur mit Genehmigung des Herausgebers
+Technische      pirobase imperia GmbH, Von-der-Wettern-Str. 27, 51149 Köln
+Umsetzung
+Titelkonzeption Johannes-Gutenberg-Schule Stuttgart, Fachschule für Visuelle Kommunikation, www.jgs-stuttgart.de
+                Entwurf: Anna Sophie Hofmann, Nora Linda Nann, Nina Pichler
+                Betreuende Lehrer und PrePress-Finishing: Maurizio Di Dario, Roman Wagner
+                                                                                                  Stuttgart, 23. Juli 2020
+
+
+BILDUNGSPLAN FÜR DAS BERUFLICHE GYMNASIUM;
+HIER:
+BERUFLICHES GYMNASIUM DER SECHS- U. DREIJ. AUFBAUFORM
+
+
+Vom 23. Juli 2020                44 – 6512.- 240/211
+
+  I.   Für das Berufliche Gymnasium gilt der als Anlage beigefügte Bildungsplan.
+
+ II.   Der Bildungsplan tritt
+       für die Eingangsklasse am 1. August 2021
+       für die Jahrgangsstufe 1 am 1. August 2022
+       für die Jahrgangsstufe 2 am 1. August 2023
+       in Kraft.
+
+
+       Im Zeitpunkt des jeweiligen Inkrafttretens tritt der im Lehrplanheft 1/2007 veröffentlichte Lehrplan in diesem Fach
+       vom 3. September 2007 (Az. 45-6512-240/109) außer Kraft.
+                                                                                                                Biologie   5
+
+
+
+
+Vorbemerkungen
+
+Fachbezogene Vorbemerkungen
+1.    Fachspezifischer Bildungsauftrag (Bildungswert des Faches)
+Die Naturwissenschaft Biologie hat den Auftrag, den Schülerinnen und Schülern die leben‐
+dige Natur zu erschließen und Verständnis für ihre Gesetzmäßigkeiten und Einzigartigkeit
+zu wecken. Dies setzt voraus, dass Grundlagen der Zytologie, Molekularbiologie, Genetik,
+Evolutionsbiologie, Physiologie und Ökologie vermittelt werden, die es den Schülerinnen
+und Schülern ermöglichen, sich mit sich selbst und mit der Umwelt auseinanderzusetzen.
+Dabei wird ihnen die Vielschichtigkeit biologischer Vorgänge bewusst. Diese Auseinander‐
+setzung führt sie auch zu ethischen und erkenntnistheoretischen Fragestellungen.
+
+Das Fach Biologie der gymnasialen Oberstufe des Beruflichen Gymnasiums bietet viele
+Ansatzpunkte für fächerübergreifende Themen und integriert in besonderer Weise Teilge‐
+biete der anderen naturwissenschaftlichen Disziplinen. Die Leistungsanforderungen im
+heutigen Berufsleben machen dieses fächervernetzende Wissen, Denken und Handeln
+erforderlich. Im Biologieunterricht gehören daher Beobachtung, Vergleich und Experiment
+zu den wesentlichen Grundlagen naturwissenschaftlicher Erkenntnisfindung. Auf der Basis
+problemorientierter Unterrichtskonzeptionen entwickeln die Schülerinnen und Schüler
+eine grundlegende Vorstellung des Weges der wissenschaftlichen Erkenntnisgewinnung
+und fachspezifischer Problemlösestrategien. Hypothesenbildung, Planung, Durchführung
+und Auswertung von Experimenten sind wichtige Bausteine um die Biologie als Experimen‐
+talwissenschaft erlebbar zu machen. Die Anwendung und die Entwicklung von Modellen
+sind dabei wichtige Mittel im Unterricht sowie im Forschungsprozess, um Erkenntnisse
+darzustellen oder zu erklären. Dabei wird vor allem das logische Denk- und Abstraktions‐
+vermögen der Schülerinnen und Schüler gefördert.
+
+Das Fach Biologie erlaubt es den Schülerinnen und Schülern, sich als Mensch und damit
+als Teil biologischer Systeme wahrzunehmen. Dabei setzen sie sich kritisch mit den Auswir‐
+kungen ihrer Lebensweise auf die Umwelt auseinander und verstehen die Bedeutung
+ökologisch nachhaltigen Handelns für den Erhalt der Biosphäre.
+
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+6   Biologie
+
+
+
+
+    2.     Ergänzende Hinweise zur Umsetzung des kompetenzorientierten
+           Bildungsplans
+    Kompetenzorientierter Unterricht bietet die Möglichkeit, Wissen, Fähigkeiten und Fertig‐
+    keiten selbstständig und nachhaltig aufzubauen, zu reflektieren und in verschiedenen
+    Situationen verantwortungsvoll einzusetzen.
+
+    Die Schülerinnen und Schüler entwickeln im aktiven Umgang mit spezifischen Inhalten
+    die Kompetenzen, die für die Naturwissenschaften von zentraler Bedeutung sind. Erkennt‐
+    nisse gewinnen, Kommunizieren und Bewerten stehen für Fähigkeiten und Fertigkeiten,
+    die dafür charakteristisch sind. Naturwissenschaftlich fachkompetente Schülerinnen und
+    Schüler verfügen über Sach‑, Erkenntnisgewinnungs‑, Kommunikations- und Bewertungs‐
+    kompetenz. Diese vier Kompetenzbereiche durchdringen einander und bilden gemeinsam
+    die Fachkompetenz.
+
+    Die Sachkompetenz der Schülerinnen und Schüler zeigt sich in der Kenntnis naturwissen‐
+    schaftlicher Konzepte, Theorien und Verfahren und der Fähigkeit, diese zu beschreiben und
+    zu erklären sowie geeignet auszuwählen und zu nutzen, um Sachverhalte aus fach- und
+    alltagsbezogenen Anwendungsbereichen zu verarbeiten.
+
+    Die Erkenntnisgewinnungskompetenz der Schülerinnen und Schüler zeigt sich in der
+    Kenntnis von naturwissenschaftlichen Denk- und Arbeitsweisen und in der Fähigkeit, diese
+    Fachkompetenz zu beschreiben, zu erklären und zu verknüpfen, um Erkenntnisprozesse
+    nachvollziehen oder gestalten zu können und deren Möglichkeiten und Grenzen zu reflek‐
+    tieren.
+
+    Die Kommunikationskompetenz der Schülerinnen und Schüler zeigt sich in der Kenntnis
+    von Fachsprache, fachtypischen Darstellungen und Argumentationsstrukturen und in der
+    Fähigkeit, diese Fachkompetenz zu nutzen, um fachbezogene Informationen zu erschließen,
+    adressaten- und situationsgerecht darzustellen und auszutauschen.
+
+    Die Bewertungskompetenz der Schülerinnen und Schüler zeigt sich in der Kenntnis von
+    fachlichen und überfachlichen Perspektiven und Bewertungsverfahren und in der Fähig‐
+    keit, diese Fachkompetenz zu nutzen, um Aussagen bzw. Daten anhand verschiedener
+    Kriterien zu beurteilen, sich dazu Meinungen zu bilden, Entscheidungen zu treffen und
+    Entscheidungsprozesse und deren Folgen zu reflektieren.
+
+    Für nachhaltig gewinnbringendes Lernen ist es von großer Bedeutung, dass alle Kompe‐
+    tenzbereiche im Unterricht bewusst und ausgewogen gefördert werden. Die Kompetenzen
+    entwickeln sich bei den Schülerinnen und Schülern über die Jahrgangsstufen hinweg und
+    werden im Bildungsplan vielfältig inhaltsbezogen konkretisiert.
+
+    Der Vielfalt naturwissenschaftlicher Phänomene liegen im Fach Biologie gemeinsame Prin‐
+    zipien zugrunde, die sich als Basiskonzepte beschreiben lassen. Die Basiskonzepte für die
+    Allgemeine Hochschulreife im Fach Biologie
+
+    – Struktur und Funktion,
+    – Stoff- und Energieumwandlung,
+    – Information und Kommunikation,
+    – Steuerung und Regelung,
+
+
+
+    Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                Biologie   7
+
+
+
+
+– individuelle und evolutive Entwicklung
+
+ermöglichen die Vernetzung von Inhalten und deren Betrachtung aus verschiedenen
+Perspektiven. Damit erleichtern sie kumulatives Lernen, den Aufbau von strukturiertem
+Wissen und die Erschließung neuer Inhalte.
+
+Da die Kompetenzen in allen vier Bereichen nur an Fachinhalten erworben werden können,
+stellen die Basiskonzepte eine Grundlage für die Entwicklung der Fachkompetenz dar (vgl.
+Bildungsstandards im Fach Biologie für die Allgemeine Hochschulreife der KMK i. d. F. vom
+18.06.2020).
+
+
+
+3.    Ergänzende fachliche Hinweise
+
+Für den nachhaltigen Erwerb biologischer Fachkompetenzen werden die Sachinhalte mit
+lebensweltbezogenen Kontexten verknüpft. Bei der Behandlung verschiedener Inhalte sind
+die übergreifenden Basiskonzepte der Biologie zu berücksichtigen. Hierdurch kann den
+Schülerinnen und Schülern die systematische Wissensaneignung erleichtert werden, die
+sich nicht vordergründig an den biologischen Inhalten, sondern an den wesentlichen
+Konzepten der Biologie orientiert.
+
+Der Biologieunterricht vertieft unter Nutzung dieser Basiskonzepte das Verständnis vom
+Aufbau der Zellen und ihren speziellen Leistungen in verschiedenen Organismen und
+Organsystemen, bis hin zur Anwendung molekularer Prozesse in aktuellen Forschungs‐
+bereichen und Technik sowie der Wechselwirkungen zwischen belebter und unbelebter
+Natur – auch unter dem Aspekt der Nachhaltigkeit – und leistet durch die Gestaltung
+verschiedener Lehr- und Lernarrangements seinen Beitrag dazu,
+
+– bei den Schülerinnen und Schülern Interesse zu wecken und sie zu motivieren, Phäno‐
+  mene der Natur, der Technik und des Alltags aus biologischer Perspektive – zunehmend
+  abstrakter und komplexer – zu betrachten,
+– lebensweltbezogene Aspekte einzubeziehen, z. B. durch die Auswahl von „Lerngegen‐
+  ständen“, die für die Schülerinnen und Schüler jetzt und im späteren Leben relevant sind,
+– durch Demonstrations- und Schülerexperimente in exemplarischer Weise den empiri‐
+  schen Charakter der Naturwissenschaft Biologie zu verdeutlichen,
+– durch die Nutzung digitaler Medien und Werkzeuge Kompetenzen für das Lernen und
+  Leben in einer digitalen Welt zu entwickeln,
+– die Methoden der Erkenntnisgewinnung mit Modellen zu reflektieren und die Vor- und
+  Nachteile sowie die Grenzen dieser Modelle zu bewerten,
+– naturwissenschaftliche Sachverhalte fachsprachlich darzustellen, zu diskutieren und zu
+  argumentieren und damit eine korrekte Fachsprache zu nutzen und einzufordern,
+– Schülerinnen und Schüler zu einem sicheren, zeitgemäßen und nachhaltigen Umgang
+  mit Ressourcen (Stoffen und Energie) im Sinne einer Bildung für nachhaltige Entwick‐
+  lung zu erziehen,
+– naturwissenschaftliche Fragestellungen auch in fächerübergreifenden Kontexten zu
+  betrachten und zu bewerten.
+
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+8   Biologie
+
+
+
+
+    Ziel eines zeitgemäßen Biologieunterrichtes ist es, jeden Einzelnen zu befähigen, seiner
+    Verantwortung in der durch die Naturwissenschaft Biologie geprägten Lebenswelt bewusst
+    nachzukommen.
+
+
+
+    Hinweise zum Umgang mit dem Bildungsplan
+    Der Bildungsplan zeichnet sich durch eine Inhalts- und eine Kompetenzorientierung aus.
+    In jeder Bildungsplaneinheit (BPE) werden in kursiver Schrift die übergeordneten Ziele
+    beschrieben, die durch Zielformulierungen sowie Inhalts- und Hinweisspalte konkretisiert
+    werden. In den Zielformulierungen werden die jeweiligen fachspezifischen Operatoren
+    als Verben verwendet. Operatoren sind handlungsinitiierende Verben, die signalisieren,
+    welche Tätigkeiten beim Bearbeiten von Aufgaben erwartet werden. Die für das jeweilige
+    Fach relevanten Operatoren sowie deren fachspezifische Bedeutung sind jedem Bildungs‐
+    plan im Anhang beigefügt. Durch die kompetenzorientierte Zielformulierung mittels dieser
+    Operatoren wird das Anforderungsniveau bezüglich der Inhalte und der zu erwerbenden
+    Kompetenzen definiert. Die formulierten Ziele und Inhalte sind verbindlich und damit
+    prüfungsrelevant. Sie stellen die Regelanforderungen im jeweiligen Fach dar. Die Inhalte
+    der Hinweisspalte sind unverbindliche Ergänzungen zur Inhaltsspalte und umfassen
+    Beispiele, didaktische Hinweise und Querverweise auf andere Fächer bzw. BPE.
+
+    Der VIP-Bereich des Bildungsplans umfasst die Vertiefung, individualisiertes Lernen sowie
+    Projektunterricht. Im Rahmen der hier zur Verfügung stehenden Stunden sollen die Schü‐
+    lerinnen und Schüler bestmöglich unterstützt und bei der Weiterentwicklung ihrer perso‐
+    nalen und fachlichen Kompetenzen gefördert werden. Die Fachlehrerinnen und Fachlehrer
+    nutzen diese Unterrichtszeit nach eigenen Schwerpunktsetzungen auf Basis der fächerspe‐
+    zifischen Besonderheiten und nach den Lernvoraussetzungen der einzelnen Schülerinnen
+    und Schüler.
+
+    Der Teil „Zeit für Leistungsfeststellung“ des Bildungsplans berücksichtigt die Zeit, die
+    zur Vorbereitung, Durchführung und Nachbereitung von Leistungsfeststellungen zur Verfü‐
+    gung steht. Dies kann auch die notwendige Zeit für die gleichwertige Feststellung von
+    Schülerleistungen (GFS), Nachbesprechung zu Leistungsfeststellungen sowie Feedback-
+    Gespräche umfassen.
+
+
+
+
+    Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                   Biologie     9
+
+
+
+
+Bildungsplanübersicht
+Schuljahr                              Bildungsplaneinheiten                                             Zeitricht‐           Gesamt‐
+                                                                                                              wert            stunden
+
+
+Eingangsklasse                         Vertiefung – Individualisiertes Lernen – Projektunter‐                    20
+                                       richt (VIP)
+                                           1 | System Zelle                                                      10
+
+                                           2 | Biomoleküle und Biokatalyse                                       26
+
+                                           3 | Immunsystem                                                       14                  70
+
+                                       Zeit für Leistungsfeststellung                                                                10
+
+                                                                                                                                    80
+
+Jahrgangsstufe 1                       Vertiefung – Individualisiertes Lernen – Projektunter‐                    30
+                                       richt (VIP)
+                                           4 | Genetik                                                           40
+
+                                           5 | Evolution                                                         20
+
+                                           6 | Dissimilation                                                     15                 105
+
+                                       Zeit für Leistungsfeststellung                                                                15
+
+                                                                                                                                    120
+
+Jahrgangsstufe 2                       Vertiefung – Individualisiertes Lernen – Projektunter‐                    24
+                                       richt (VIP)
+                                           7 | Assimilation                                                      20
+
+                                           8 | Ökologie                                                          26
+
+                                           9 | Nervensystem                                                      14                  84
+
+                                       Zeit für Leistungsfeststellung                                                                12
+
+                                                                                                                                    96
+
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform      K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+10   Biologie
+
+
+
+
+     Eingangsklasse
+     Vertiefung – Individualisiertes Lernen – Projektunterricht (VIP)                                                   20
+
+
+     Vertiefung                           Individualisiertes Lernen          Projektunterricht
+
+
+     z. B.                                z. B.                              z. B.
+     Übungen                              Selbstorganisiertes Lernen         Praktikum Mikroskopie
+     Anwendungen                          Lernvereinbarungen                 Osmose bei Zwiebelzellen
+     Wiederholungen                       Binnendifferenzierung              Anfärben von Mundschleimhautzellen
+                                                                             Plasmaströmung bei Elodea
+                                                                             Bau eines Zellmodells
+                                                                             Enzym-Experimente
+                                                                             DNA-Isolierung
+                                                                             Enzymimmobilisierung
+     Die Themenauswahl des Projektunterrichts hat aus den nachfolgenden Bildungsplaneinheiten unter Beachtung
+     Fächer verbindender Aspekte zu erfolgen.
+
+
+
+     BPE 1              System Zelle                                                                                    10
+
+
+     Die Schülerinnen und Schüler erkennen das offene System Zelle als Grundbaustein aller Lebewesen und als
+     Funktionseinheit für Vorgänge der Immunabwehr, des Stoffwechsels, der Reproduktion, der Steuerung und
+     Regelung sowie der Stoff- und Energieumwandlung. Sie analysieren elektronenmikroskopische Bilder, um ihre
+     Kenntnisse über den Feinbau von pro- und eukaryotischen Zellen zu erweitern.
+
+
+     BPE 1.1            Die Schülerinnen und Schüler erklären die Struktur und Funktion von Zellorganellen
+                        tierischer und pflanzlicher Zellen, deren Zusammenwirken und vergleichen eukaryo‐
+                        tische und prokaryotische Zellen. Sie beschreiben die Zelle als offenes System und
+                        erläutern die Bedeutung der Kompartimentierung.
+
+                        Zellkern, Mitochondrium, Chloro‐                         Praktikum Mikroskopie
+                        plast, endoplasmatisches Reticulum,                      Zeichnungen
+                        Dictyosom, Lysosom, Ribosom, Vakuole,                    Analogiebeispiele, z. B. Fabrik
+                        Zellwand
+                        Procyte und Eucyte
+                        Kompartimentierung                                       Endosymbiontentheorie
+
+
+     BPE 1.2            Die Schülerinnen und Schüler werten experimentelle Ergebnisse zum Aufbau der
+                        Biomembran aus und beschreiben auf deren Grundlage ein Membran-Modell. Sie
+                        wenden das Struktur-Funktions-Konzept auf Biomembranen an und erläutern damit
+                        die Abgrenzung der Zelle sowie den Stoffaustausch.
+
+                        Bau und Eigenschaften der Biomembran                     historische Entwicklung von Gorter-
+                        (Flüssig-Mosaik-Modell)                                  Grendel zu Singer-Nicolson
+                        Diffusion, Osmose, passiver und aktiver
+                        Transport
+
+
+
+
+     Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                Biologie   11
+
+
+
+
+BPE 2              Biomoleküle und Biokatalyse                                                                      26
+
+
+Die biologische Bedeutung von Proteinen und Nukleinsäuren und der Zusammenhang zwischen deren Struktur
+und Funktion werden den Schülerinnen und Schülern unter anderem durch den Einsatz geeigneter Modelle
+verdeutlicht. Sie erkennen die Bedeutung der Replikation, der Genexpression und die Relevanz der Genpro‐
+dukte für den Organismus. Darüber hinaus verstehen die Schülerinnen und Schüler die biologische Funktion
+von Enzymen für Organismen und beschreiben Beispiele in der technischen Anwendung.
+
+
+BPE 2.1            Die Schülerinnen und Schüler beschreiben die Struktur und Funktion von Proteinen
+                   und erklären die Struktur der DNA am Modell. Die Schülerinnen und Schüler erklären
+                   die Replikation und ihre Bedeutung für Mitose und Zellzyklus.
+
+                   Proteine: Aufbau aus Aminosäuren mit                     Einteilung der Aminosäuren nach Eigen‐
+                   Grundstruktur und Peptidbindung                          schaften
+                   Primär‑, Sekundär‑, Tertiär- und Quar‐                   vgl. BPE 3 (Antikörperstruktur) und BPE
+                   tärstruktur der Proteine                                 4
+                   Denaturierung (Alkohol, Hitze, Säure)                    z. B. Konservierung
+                   DNA: Aufbau aus Nukleotiden (Desoxy‐
+                   ribose, Base, Phosphat)
+                   Strukturmerkmale (Komplementarität,
+                   Antiparallelität, Doppelstrang) der DNA
+                   Replikation, semikonservative Verdopp‐                   Meselson-Stahl
+                   lung der DNA als Voraussetzung für                       im Überblick
+                   Mitose und Zellzyklus
+
+
+BPE 2.2            Die Schülerinnen und Schüler beschreiben die Proteinbiosynthese.
+
+                   Transkription (Zellkern, mRNA)
+                   Genetischer Code                                         Codesonne
+                   Translation (Ribosom, tRNA, Poly‐
+                   peptid)
+
+
+BPE 2.3            Die Schülerinnen und Schüler beschreiben den strukturellen Aufbau eines Enzyms
+                   und dessen Wirkungsweise als Biokatalysator.
+
+                   Biokatalyse                                              Energie-Reaktionsweg-Diagramm
+                   Modellvorstellung zum aktiven Zentrum
+                   Substrat‑, Wirkungsspezifität                            Experiment mit Urease
+                   Schlüssel-Schloss-Prinzip
+                   Technische Anwendung von Enzymen                         z. B. Waschmittel, Medikamente,
+                                                                            Lebensmittelproduktion
+
+
+BPE 2.4            Die Schülerinnen und Schüler werten Daten zur Enzymaktivität in Abhängigkeit von
+                   verschiedenen Faktoren aus.
+
+                   Temperatur, pH-Wert, Substratkonzen‐
+                   tration
+                   Schülerexperiment zu einem der                           digitale Messwert-Erfassung und
+                   Faktoren                                                 Auswertung
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+12   Biologie
+
+
+
+
+     BPE 2.5            Die Schülerinnen und Schüler erklären und vergleichen die reversible und irrever‐
+                        sible Enzymhemmung und erläutern die Wirkungen auf den Organismus.
+
+                        Kompetitive Hemmung                                      z. B. Medikamente vgl. BPE 9, Ethanol/
+                                                                                 Methanol
+                        Irreversible Hemmung durch Schwer‐                       z. B. Schwermetallvergiftung
+                        metall-Ionen, Denaturierung                              Experiment: Urease und Kupfersulfat
+
+
+
+     BPE 3              Immunsystem                                                                                      14
+
+
+     Die Schülerinnen und Schüler begreifen die spezifische Immunreaktion als koordiniertes Zusammenwirken
+     spezialisierter Immunzellen im Körper. Sie verstehen die Bedeutung der Erkennung körpereigener und körper‐
+     fremder Strukturen für die Funktionsfähigkeit des Immunsystems. Die Schülerinnen und Schüler bilden sich
+     kriteriengeleitet eine Meinung zur Impfung.
+
+
+     BPE 3.1            Die Abwehr von Antigenen durch das Immunsystem erklären die Schülerinnen
+                        und Schüler durch das Zusammenwirken verschiedener Zellen und Antikörper.
+                        Dabei erläutern sie die Wechselwirkungen zwischen Immunzellen mittels Zell-Zell-
+                        Kontakten und Signalstoffen. Sie erklären, dass Antigene anhand von Oberflächen‐
+                        strukturen erkannt und diese Information im Immunsystem weitergegeben und
+                        gespeichert wird.
+
+                        Virusaufbau                                              vgl. BPE 1
+                        Unspezifische und spezifische humo‐                      z. B. Influenza, AIDS, Masern
+                        rale und zelluläre Immunantwort am
+                        Beispiel einer viralen Infektionskrank‐
+                        heit
+                        – Kooperation von Immunzellen:                           Cytokine
+                          Signalstoffe, Zell-Zell-Kontakte
+                        – Unterscheidung von körpereigen                         z. B. Allergie, Organtransplantation,
+                          und körperfremd anhand des MHC-                        Autoimmunerkrankung
+                          Systems
+
+
+     BPE 3.2            Die Schülerinnen und Schüler nehmen kriteriengeleitet Stellung zum Thema
+                        Impfung.
+
+                        Impfung                                                  Impfmüdigkeit, Impfpflicht
+
+
+
+
+     Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                Biologie   13
+
+
+
+
+Jahrgangsstufe 1
+Vertiefung – Individualisiertes Lernen – Projektunterricht (VIP)                                                    30
+
+
+Vertiefung                           Individualisiertes Lernen          Projektunterricht
+
+
+z. B.                                z. B.                              z. B.
+Übungen                              Selbstorganisiertes Lernen         molekularbiologische Experimente
+Anwendungen                          Lernvereinbarungen                 Themenkomplex: Hämoglobin – Sichelzel‐
+Wiederholungen                       Binnendifferenzierung              lanämie – Malaria
+                                                                        Gärungsexperimente
+                                                                        Computersimulationen
+                                                                        Exkursion zum Naturkundemuseum
+Die Themenauswahl des Projektunterrichts hat aus den nachfolgenden Bildungsplaneinheiten unter Beachtung
+Fächer verbindender Aspekte zu erfolgen.
+
+
+
+BPE 4              Genetik                                                                                          40
+
+
+Das Wissen über die Weitergabe genetischer Information und deren Verwirklichung im Stoffwechsel der Zellen
+bildet die Grundlage für das Verständnis genetisch bedingter Krankheiten und deren Ursachen. Dabei lernen die
+Schülerinnen und Schüler moderne Diagnose- und Therapiemöglichkeiten einer Erkrankung wie z. B. Chorea
+Huntington kennen und erhalten einen Einblick in gentechnische Verfahren und deren Anwendung in der Praxis.
+Sie setzen sich mit der Bedeutung und den Risiken innovativer Technologien auseinander und reflektieren diese.
+
+
+BPE 4.1            Die Schülerinnen und Schüler erklären die Entstehung genetischer und phänotypi‐
+                   scher Variabilität als Ergebnis sexueller Fortpflanzung.
+
+                   Chromosomenbau, Histone
+                   Chromosomensatz und Karyogramm
+                   des Menschen
+                   Keimzellenbildung und Befruchtung                        ohne Bezeichnung der einzelnen Phasen
+                   Meiose mit inter- und intrachromoso‐
+                   maler Rekombination
+
+
+BPE 4.2            Die Schülerinnen und Schüler vergleichen die Proteinbiosynthese bei Pro- und
+                   Eukaryoten, wenden den genetischen Code an, ermitteln somit die entsprechende
+                   Aminosäuresequenz und begründen Ursachen und Auswirkungen von Mutationen.
+                   Sie werten Stammbäume hinsichtlich der zu Grunde liegenden Erbgänge monogene‐
+                   tischer Erkrankungen aus und beschreiben Regulationsmechanismen der Genexpres‐
+                   sion.
+
+                   Proteinbiosynthese bei Prokaryoten                       vgl. BPE 2
+                   Transkription (mRNA, RNA-Polymerase,
+                   Promotor, Terminator, codogener/nicht-
+                   codogener Strang, 5'-3'-Schreibweise)
+                   Genetischer Code                                         Codesonne
+                   Translation (Ribosom, tRNA, Codon,
+                   Anticodon, Polypeptid)
+
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+14   Biologie
+
+
+
+
+                        Proteinbiosynthese bei Eukaryoten
+                        (Kompartimentierung, 5'-Cap, Poly-A-
+                        Schwanz, Splicing)
+                        Regulation der Genaktivität bei Euka‐
+                        ryoten: Transkriptionsfaktoren, Modifi‐
+                        kationen des Epigenoms durch Methy‐
+                        lierung
+                        Mutationen (Gen‑, Chromosomen‑,                          z. B. Chorea Huntington, Mukoviszi‐
+                        Genommutationen) und deren Auswir‐                       dose, Katzenschrei-Syndrom, Trisomie
+                        kungen                                                   21
+                        Ursachen von Mutationen: Mutagene,
+                        Replikationsfehler, Non-Disjunction
+                        Stammbaumanalysen (autosomale und                        monogene Merkmale (z. B. Sichelzellan‐
+                        X-chromosomale Erbgänge beim                             ämie, Bluter, Rot-Grün-Blindheit)
+                        Menschen)                                                vgl. BPE 2
+
+
+     BPE 4.3            Die Schülerinnen und Schüler erklären die Wirkungsweise von Antibiotika und
+                        beschreiben einen Resistenzmechanismus.
+
+                        Wirkorte und Wirkung von Antibiotika                     vgl. BPE 1
+                        im Überblick
+                        Antibiotikaresistenz am Beispiel der ß-                  Ampicillin oder Penicillin
+                        Lactam-Antibiotika, Plasmide                             vgl. BPE 5
+
+
+     BPE 4.4            Die Schülerinnen und Schüler beschreiben die PCR als Verfahren für einen Gentest
+                        und bewerten Chancen und Risiken eines solchen Tests. Sie beschreiben Methoden
+                        der Gentherapie und stellen das CRISPR/Cas-Verfahren als molekularbiologische
+                        Technik dar, um DNA gezielt zu verändern sowie dessen Bedeutung bei der Phagen-
+                        Abwehr von Bakterien.
+
+                        Polymerase-Kettenreaktion (PCR),
+                        Gelektrophorese
+                        Gentest: genetische Beratung, ethische                   z. B. Brustkrebs, Chorea Huntington,
+                        Betrachtung                                              Trisomie 21
+                        Gentherapie                                              z. B. Therapie vom ADA-SCID
+                        CRISPR/Cas
+
+
+
+     BPE 5              Evolution                                                                                       20
+
+
+     Die Schülerinnen und Schüler erkennen in der Vielfalt der Lebewesen die Anpassung an verschiedene Umwelt‐
+     bedingungen. Aufbauend auf Darwin ermöglicht ihnen die synthetische Evolutionstheorie das Verständnis
+     der grundlegenden Evolutionsmechanismen, die zur Entstehung und Veränderung der Arten führen. Die
+     Schülerinnen und Schüler lernen wissenschaftliche Belege und auch Grenzen der Evolutionstheorie kennen.
+
+
+     BPE 5.1            Die Schülerinnen und Schüler nennen die wichtigsten Aussagen der Evolutionstheo‐
+                        rien von Lamarck und Darwin und vergleichen diese. Sie wenden die beiden Theorien
+                        auf ein konkretes Beispiel an.
+
+                        Evolutionstheorien von Lamarck und                       z. B. Theorie zur Evolution der Giraffe
+                        Darwin                                                   vgl. BPE 4 Epigenetik
+
+
+
+
+     Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                Biologie   15
+
+
+
+BPE 5.2            Die Schülerinnen und Schüler beschreiben die synthetische Evolutionstheorie als
+                   Erweiterung der klassischen Evolutionstheorie von Darwin um Erkenntnisse der
+                   Genetik und Populationsgenetik. Sie erläutern den Einfluss der Evolutionsfaktoren
+                   auf den Genpool. Die Schülerinnen und Schüler analysieren die Kosten und Nutzen
+                   von Verhalten für die reproduktive Fitness an einem Beispiel.
+
+                   Synthetische Evolutionstheorie                           Abgrenzung von nicht-naturwissen‐
+                                                                            schaftlichen Vorstellungen
+                   Grundlegende Prinzipien der Evolution
+                   – genetische Variabilität durch Muta‐                    vgl. BPE 4
+                     tion und Rekombination
+                   – abiotische und biotische Selektions‐
+                     faktoren
+                   – adaptiver Wert von Verhalten:                          Nahrungssuche z. B. Flug zu Beute‐
+                     reproduktive Fitness, Kosten-Nutzen-                   gründen
+                     Analyse
+                   – Gendrift
+                   – Verwandtschaft
+                   – Koevolution
+                   – Isolation: Mechanismen, Artbildung,
+                     populationsgenetischer Artbegriff
+                   Evolution als Veränderung der Genotyp-
+                   und Allelhäufigkeit im Genpool einer
+                   Population
+
+
+BPE 5.3            Die Schülerinnen und Schüler stellen Belege für die Evolution aus der Paläontologie,
+                   vergleichenden Anatomie und Molekularbiologie dar.
+
+                   Bedeutung von Fossilien für die Evoluti‐
+                   onstheorie
+                   Mosaikformen                                             z. B. Archaeopteryx, Schnabeltier
+                   Homologie, Analogie                                      Homologiekriterien
+                   Rudimente und Atavismen
+                   Sequenz-Analyse, molekularbiologische                    Stammbäume mit Alignmentprogramm
+                   Homologien                                               z. B. Clustal Omega, Globin-Familie; vgl.
+                                                                            BPE 2, BPE 4
+
+
+
+BPE 6              Dissimilation                                                                                    15
+
+
+Die Schülerinnen und Schüler erkennen, dass Stoffwechselvorgänge und die damit verbundene Energiebereit‐
+stellung Grundlage des Lebens sind. Sie erklären das Zusammenspiel von organischen Verbindungen, ATP,
+Elektronen- und Wasserstoffüberträgern im Energiestoffwechsel der Organismen. Dabei greifen sie auf ihr
+Vorwissen der Enzymatik und des Aufbaus der Zellen zurück.
+
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+16   Biologie
+
+
+
+
+     BPE 6.1            Die Schülerinnen und Schüler beschreiben die Stoff- und Energiebilanzen sowie
+                        Ablauf, Regulation und Bedeutung des aeroben Abbaus von Glucose.
+
+                        Summengleichung der Zellatmung                           Strukturformel von Glucose
+                        Teilschritte der Zellatmung im Über‐                     vgl. BPE 1, BPE 2
+                        blick:
+                        Glykolyse, Pyruvat-Decarboxylierung,
+                        Citratzyklus, Endoxidation; Reaktions‐
+                        räume und Stofftransport in der Zelle,
+                        Feinbau des Mitochondriums
+                        Regulation eines Stoffwechselvorgangs                    z. B. Hemmung von Hexokinase vgl. BPE
+                        auf Enzymebene                                           2
+                        Bedeutung von NAD als Elektronen-                        ohne Strukturformel
+                        und Wasserstoffüberträger (Redoxreak‐
+                        tionen)
+                        Bedeutung von ATP als Energieträger                      ohne Strukturformel
+                        ATP-Synthese mithilfe eines Protonen‐
+                        gradienten
+
+
+
+
+     Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                Biologie   17
+
+
+
+
+Jahrgangsstufe 2
+Vertiefung – Individualisiertes Lernen – Projektunterricht (VIP)                                                    24
+
+
+Vertiefung                           Individualisiertes Lernen          Projektunterricht
+
+
+z. B.                                z. B.                              z. B.
+Übungen                              Selbstorganisiertes Lernen         Mikroskopieren von Blattquerschnitten
+Anwendungen                          Lernvereinbarungen                 Experimente zur Fotosynthese
+Wiederholungen                       Binnendifferenzierung              Naturschutzprojekt
+Die Themenauswahl des Projektunterrichts hat aus den nachfolgenden Bildungsplaneinheiten unter Beachtung
+Fächer verbindender Aspekte zu erfolgen.
+
+
+
+BPE 7              Assimilation                                                                                     20
+
+
+Anknüpfend an die Dissimilation lernen die Schülerinnen und Schüler die Bedeutung der Assimilation für das
+Leben auf der Erde kennen. Anhand der Auswertung experimenteller Ergebnisse leiten die Schülerinnen und
+Schüler den Ablauf der Fotosynthese auf molekularer Ebene und die daran beteiligten Strukturen ab und ordnen
+die Teilprozesse ihren Reaktionsräumen zu. Dabei erkennen sie die Bedeutung organischer Verbindungen als
+Energieträger.
+
+
+BPE 7.1            Die Schülerinnen und Schüler beschreiben den Aufbau und die Funktionen von
+                   Laubblättern und Chloroplasten als Strukturen der Fotosynthese. Sie erklären die
+                   Anpassung von Pflanzen an Umweltfaktoren.
+
+                   Laubblatt und Chloroplast                                Blattquerschnitt, vgl. BPE 1
+                   Anpassung an die Umweltfaktoren Licht                    Sonnenblatt, Schattenblatt, Xero‐
+                   und Wasserversorgung                                     phyten, Hygrophyten
+
+
+BPE 7.2            Die Schülerinnen und Schüler erklären den Ablauf der Fotosynthese und die Abhän‐
+                   gigkeit der Fotosyntheserate von abiotischen Faktoren, indem sie dazu klassische
+                   Experimente auswerten.
+
+                   Summengleichung der Fotosynthese                         Strukturformel von Glukose
+                   Chromatografie von Blattfarbstoffen
+                   Abiotische Faktoren: Lichtintensität,                    Absorptionsspektrum von Chlorophyll,
+                   ‑qualität, Kohlenstoffdioxid-Konzentra‐                  Engelmann-Versuch, Bläschenzählver‐
+                   tion und Temperatur                                      such bei Elodea
+                   Lichtabhängige Reaktion: Fotolyse des                    Hill-Reaktion, Nachweis der Sauerstoff-
+                   Wassers, Elektronentransport, Proto‐                     Herkunft durch Isotopenmarkierung
+                   nengradient, Bedeutung von ADP/ATP                       vgl. BPE 1
+                   und NADP+/NADPH + H+
+                   Lichtunabhängige Reaktion: Calvinzy‐                     ohne Strukturformeln
+                   klus mit den 3 Phasen CO2-Fixierung,                     vgl. BPE 1
+                   Reduktion von Phosphoglycerinsäure zu
+                   Phosphoglycerinaldehyd und Regenera‐
+                   tion des CO2-Akzeptors
+                   Bedeutung der Fotosynthese                               vgl. BPE 8
+
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+18   Biologie
+
+
+
+
+     BPE 8              Ökologie                                                                                        26
+
+
+     Die Ökologie thematisiert die Wechselwirkungen zwischen Organismen und Umwelt. Die Schülerinnen und
+     Schüler erkennen die Beziehungsgefüge sowie Ursache-Wirkungszusammenhänge in Ökosystemen und setzen
+     sich kritisch mit dem besonderen Verhältnis Mensch-Umwelt auseinander. Sie werden in die Lage versetzt,
+     technische Anwendungen und wirtschaftliche Nutzungen naturwissenschaftlicher Erkenntnisse unter Gesichts‐
+     punkten der nachhaltigen Entwicklung zu beurteilen. Sie erkennen globale Herausforderungen und verknüpfen
+     diese mit lokalem Handeln. Sie verstehen Biodiversität als genetische Vielfalt, Artenvielfalt und Vielfalt an
+     Ökosystemen und erkennen deren Bedeutung.
+
+
+     BPE 8.1            Die Schülerinnen und Schüler stellen die Biosphäre als System unterschiedlicher
+                        Ökosysteme dar. Sie vergleichen Biotop und Biozönose an einem Beispiel. Sie erläu‐
+                        tern den Einfluss abiotischer Faktoren auf Organismen.
+
+                        Ökosysteme                                               z. B. Wald, Meer, Wüste
+                        Erfassung ökologischer Faktoren und                      z. B. Exkursion
+                        qualitative Erfassung von Arten in
+                        einem Areal
+                        Biotop und Biozönose: biotische                          siehe BPE 8.2
+                        und abiotische Faktoren, ökologische
+                        Nischen
+                        Toleranzkurven, ökologische Potenz
+
+
+     BPE 8.2            Die Schülerinnen und Schüler erklären Beziehungen zwischen Organismen. Sie
+                        vergleichen Nahrungskette und Nahrungsnetz und begründen die Rolle der Lebe‐
+                        wesen im Ökosystem für eine nachhaltige Nahrungsbeziehung. Sie werten eine
+                        Biomassepyramide aus und erklären diese mit dem Energiefluss.
+
+                        Produzenten, Konsumenten, Destru‐
+                        enten
+                        Nahrungskette und Nahrungsnetz,
+                        Räuber-Beute-Beziehungen
+                        Biomassepyramide, Trophie-Ebenen,                        vgl. BPE 7
+                        Energiefluss
+                        Konkurrenz, Parasitismus, Symbiose
+
+
+     BPE 8.3            Die Schülerinnen und Schüler stellen den Kohlenstoffkreislauf unter Einbeziehung
+                        menschlicher Einflüsse dar. Sie nennen Aspekte von Nachhaltigkeit und bewerten
+                        diese.
+
+                        Kohlenstoffkreislauf                                     vgl. BPE 6 – 7
+                        Einsatz fossiler Brennstoffe, Emissions‐                 z. B. Aufforstung
+                        reduzierung, Folgen des anthropogenen
+                        Treibhauseffekts
+                        Regenerative Brennstoffe, Biomasse                       nachwachsende Rohstoffe, Biogas
+                        Ökologische, ökonomische und soziale                     z. B. ökologischer Fußabdruck
+                        Aspekte der Nachhaltigkeit
+
+
+
+
+     Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                 Biologie   19
+
+
+
+                   Lokale und globale Maßnahmen                              z. B. lokale Naturschutzprojekte, ökolo‐
+                                                                             gische Landwirtschaft, Müllvermeidung
+                   Erhaltungs- und Renaturierungsmaß‐
+                   nahmen
+
+
+BPE 8.4            Die Schülerinnen und Schüler beschreiben Biodiversität als genetische Vielfalt,
+                   Artenvielfalt und Vielfalt an Ökosystemen. Sie begründen die Verantwortung des
+                   Menschen für die Erhaltung der Biodiversität und die Notwendigkeit einer nachhal‐
+                   tigen Entwicklung im Rahmen des Ökosystemmanagements.
+
+                   Genetische Vielfalt, Artenvielfalt, Viel‐
+                   falt an Ökosystemen
+                   Bedeutung und Erhalt der Biodiversität                    z. B. große Hungersnot in Irland durch
+                   für die Stabilität der Ökosysteme                         Kartoffelfäule, Insektensterben
+                   Bedrohung der Biodiversität durch                         z. B. Bevölkerungswachstum, industria‐
+                   menschliches Handeln                                      lisierte Landwirtschaft
+                   Auswirkungen des Diversitätsverlusts                      Monokulturen
+                   Lösungsansätze zum Erhalt der Diver‐                      z. B. Artenschutzabkommen, Biosphä‐
+                   sität                                                     rengebiete, Genbanken (Svalbard
+                                                                             Global Seed Vault)
+
+
+
+BPE 9              Nervensystem                                                                                      14
+
+
+Aufbauend auf dem Wissen der Zell-Zell-Kommunikation zwischen Immunzellen erweitern Schülerinnen und
+Schüler ihr Verständnis zellulären Zusammenwirkens im Nervensystem. Am Beispiel neuronaler Informations‐
+verarbeitung erkennen sie die Bedeutung von Regulationsvorgängen auf molekularer Ebene im Organismus.
+
+
+BPE 9.1            Die Schülerinnen und Schüler beschreiben das Nervensystem als ein Organsystem,
+                   das der schnellen Informationsverarbeitung dient, und die Vorgänge von der Reizauf‐
+                   nahme über die Wahrnehmung bis zur Reaktion.
+
+                   Aufnahme, Weiterleitung und Verarbei‐                     Reiz-Reaktions-Schema
+                   tung von Informationen (Reiz, Rezeptor,
+                   sensorische/ motorische Nerven, ZNS,
+                   PNS, Effektor-Organ, Reaktion)
+                   Kniesehnenreflex
+                   Aufbau und Funktion der Motoneurone                       Krankheiten z. B. amyothrophe Lateral‐
+                                                                             sklerose (ALS); vgl. BPE 1
+
+
+BPE 9.2            Die Schülerinnen und Schüler erklären das Entstehen und die Messung von
+                   Membranpotenzialen und erläutern die Funktionen des Nervensystems auf zellulärer
+                   und molekularer Ebene.
+
+                   Messung von Membranpotenzialen
+                   Entstehung des Ruhepotenzials (Na+,                       vgl. BPE 1, BPE 6
+                   K+, Cl-, organische Anionen, Na+/K+-
+                   ATPase)
+                   Ablauf des Aktionspotenzials (Schwel‐
+                   lenpotenzial, Depolarisation, Repolari‐
+
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform    K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+20   Biologie
+
+
+
+
+                        sation, Hyperpolarisation, Refraktär‐
+                        zeit)
+                        Kontinuierliche und saltatorische Erre‐                  Myelinisierung
+                        gungsweiterleitung
+                        Neuromuskuläre Synapse                                   vgl. BPE 1 – BPE 2
+                        Übertragung der Erregung und                             z. B. Synapsengifte, Drogen, Multiple
+                        Störungsmöglichkeiten                                    Sklerose
+
+
+
+
+     Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+                                                                                                                Biologie   21
+
+
+
+
+Operatorenliste
+
+In den Zielformulierungen der Bildungsplaneinheiten werden Operatoren (= handlungslei‐
+tende Verben) verwendet. Diese Zielformulierungen (Standards) legen fest, welche Anfor‐
+derungen die Schülerinnen und Schüler in der Regel erfüllen. Zusammen mit der Zuord‐
+nung zu einem der drei Anforderungsbereiche (AFB) dienen Operatoren einer Präzisierung.
+Dies sichert das Erreichen des vorgesehenen Niveaus und die angemessene Interpretation
+der Standards.
+
+
+
+Anforderungsbereiche
+Anforderungsbereich I umfasst das Wiedergeben von Sachverhalten und Kenntnissen im
+gelernten Zusammenhang sowie das Anwenden und Beschreiben geübter Arbeitstechniken
+und Verfahren.
+
+Anforderungsbereich II umfasst das selbstständige Auswählen, Anordnen, Verarbeiten,
+Erklären und Darstellen bekannter Sachverhalte unter vorgegebenen Gesichtspunkten in
+einem durch Übung bekannten Zusammenhang und das selbstständige Übertragen und
+Anwenden des Gelernten auf vergleichbare neue Zusammenhänge und Sachverhalte.
+
+Anforderungsbereich III umfasst das Verarbeiten komplexer Sachverhalte mit dem Ziel,
+zu selbstständigen Lösungen, Gestaltungen oder Deutungen, Folgerungen, Verallgemei‐
+nerungen, Begründungen und Wertungen zu gelangen. Dabei wählen die Schülerinnen
+und Schüler selbstständig geeignete Arbeitstechniken und Verfahren zur Bewältigung
+der Aufgabe, wenden sie auf eine neue Problemstellung an und reflektieren das eigene
+Vorgehen.
+
+Operator                      Erläuterung                                                            Zuordnung
+                                                                                                     AFB I-III
+
+ableiten                      auf der Grundlage von Erkenntnissen oder Daten sachgerechte            II
+                              Schlüsse ziehen
+abschätzen                    durch begründete Überlegungen Größenwerte angeben                      II
+analysieren                   wichtige Bestandteile, Eigenschaften oder Zusammenhänge                II, III
+                              auf eine bestimmte Fragestellung hin herausarbeiten
+aufstellen, formulieren       chemische Formeln, Gleichungen, Reaktionsgleichungen                   I, II
+                              (Wort- oder Formelgleichungen) oder Reaktionsmechanismen
+                              entwickeln
+Hypothesen aufstellen         eine Vermutung über einen unbekannten Sachverhalt formu‐               II, III
+                              lieren, die fachlich fundiert begründet wird
+angeben, nennen               Formeln, Regeln, Sachverhalte, Begriffe oder Daten ohne                I
+                              Erläuterung aufzählen bzw. wiedergeben
+auswerten                     Beobachtungen, Daten, Einzelergebnisse oder Informationen              II, III
+                              in einen Zusammenhang stellen und daraus Schlussfolge‐
+                              rungen ziehen
+begründen                     Gründe oder Argumente für eine Vorgehensweise oder einen               II
+                              Sachverhalt nachvollziehbar darstellen
+
+
+
+Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+22   Biologie
+
+
+
+
+     Operator                      Erläuterung                                                            Zuordnung
+                                                                                                          AFB I-III
+
+     berechnen                     Die Berechnung ist ausgehend von einem Ansatz darzustellen.            I, II
+     beschreiben                   Beobachtungen, Strukturen, Sachverhalte, Methoden,                     I, II
+                                   Verfahren oder Zusammenhänge strukturiert und unter
+                                   Verwendung der Fachsprache formulieren
+     beurteilen                    Das zu fällende Sachurteil ist mithilfe fachlicher Kriterien zu        II, III
+                                   begründen.
+     bewerten                      Das zu fällende Werturteil ist unter Berücksichtigung gesell‐          II, III
+                                   schaftlicher Werte und Normen zu begründen.
+     darstellen                    Strukturen, Sachverhalte oder Zusammenhänge strukturiert               I, II
+                                   und unter Verwendung der Fachsprache formulieren, auch
+                                   mithilfe von Zeichnungen und Tabellen
+     deuten, interpretieren        naturwissenschaftliche Ergebnisse, Beschreibungen und                  II, III
+                                   Annahmen vor dem Hintergrund einer Fragestellung oder
+                                   Hypothese in einen nachvollziehbaren Zusammenhang bringen
+     diskutieren                   Argumente zu einer Aussage oder These einander gegenüber‐              II, III
+                                   stellen und abwägen
+     erklären                      einen Sachverhalt nachvollziehbar und verständlich machen,             II
+                                   indem man ihn auf Regeln und Gesetzmäßigkeiten zurückführt
+     erläutern                     einen Sachverhalt veranschaulichend darstellen und durch               II, III
+                                   zusätzliche Informationen verständlich machen
+     ermitteln                     ein Ergebnis oder einen Zusammenhang rechnerisch, grafisch             II
+                                   oder experimentell bestimmen
+     herleiten                     mithilfe bekannter Gesetzmäßigkeiten einen Zusammenhang                II, III
+                                   zwischen chemischen bzw. physikalischen Größen herstellen
+     ordnen                        Begriffe oder Gegenstände auf der Grundlage bestimmter                 I, II
+                                   Merkmale systematisch einteilen
+     planen                        zu einem vorgegebenen Problem (auch experimentelle)                    II
+                                   Lösungswege entwickeln und dokumentieren
+     skizzieren                    Sachverhalte, Prozesse, Strukturen oder Ergebnisse übersicht‐          II
+                                   lich grafisch darstellen
+     untersuchen                   Sachverhalte oder Phänomene mithilfe fachspezifischer                  II
+                                   Arbeitsweisen erschließen
+     vergleichen                   Gemeinsamkeiten und Unterschiede kriteriengeleitet heraus‐             II
+                                   arbeiten
+     zeichnen                      Objekte grafisch exakt darstellen                                      I, II
+
+
+
+     vgl. Bildungsstandards in den Naturwissenschaften für die Allgemeine Hochschulreife der
+     KMK i. d. F. vom 18.06.2020
+
+
+
+
+     Berufliches Gymnasium der sechs- u. dreij. Aufbauform   K.u.U., LPH Nr. 1/2020 Reihe I Nr. 39   Band 1 vom 23.07.2020
+
