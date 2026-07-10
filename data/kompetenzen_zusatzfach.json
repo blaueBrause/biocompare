@@ -1,0 +1,181 @@
+[
+  {
+    "id": "K-001",
+    "assessment": "Für Zellstruktur und Kompartimentierung ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-002",
+    "assessment": "Für Enzymatik ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-003",
+    "assessment": "Der Themenkomplex umfasst Stoffwechsel; die konkrete Kompetenz Zellatmung und Dissimilation ist bislang nicht auf BPE-Ebene vollständig ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-004",
+    "assessment": "Der Themenkomplex umfasst Stoffwechsel; die konkrete Kompetenz Fotosynthese und Assimilation ist bislang nicht auf BPE-Ebene vollständig ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-005",
+    "assessment": "Für DNA, Replikation, Transkription und Translation ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-006",
+    "assessment": "Für PCR und Gelelektrophorese ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-007",
+    "assessment": "Neurobiologische Grundlagen von Lernen und Verhalten bilden einen eigenen Themenkomplex; die konkrete Kompetenz zu Nervenzelle und Synapse ist noch nicht vollständig auf BPE-Ebene ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-008",
+    "assessment": "Für hormonelle Regulation ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-009",
+    "assessment": "Infektions- und Immunbiologie bildet einen eigenen Themenkomplex; die konkrete Kompetenz zur spezifischen und unspezifischen Immunabwehr ist noch nicht vollständig auf BPE-Ebene ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-010",
+    "assessment": "Evolution bildet einen eigenen Themenkomplex; Selektion, Artbildung und Populationsdaten sind noch nicht vollständig auf BPE-Ebene ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-011",
+    "assessment": "Ökologie und Umwelttoxikologie bilden einen eigenen Themenkomplex; die konkrete Kompetenz zu Ökosystemen, Stoffkreisläufen und Bewertung ist noch nicht vollständig auf BPE-Ebene ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-012",
+    "assessment": "Berechnungen mit dem Hardy-Weinberg-Gesetz sowie die Beurteilung seiner Bedingungen, Aussagekraft und Grenzen sind ausdrücklich vorgesehen.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "BPE 6.4, S. 26"
+      }
+    ],
+    "features": [
+      "quantitativ",
+      "bewertung"
+    ]
+  },
+  {
+    "id": "K-013",
+    "assessment": "Für Genregulation und Epigenetik ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-014",
+    "assessment": "Für Gentherapie und CRISPR/Cas ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-015",
+    "assessment": "Die zunehmend selbstständige Planung, Durchführung und Auswertung von Experimenten sowie der Einsatz biologischer Modelle sind ausdrücklich vorgesehen.",
+    "status": "BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Prozessbezogene Kompetenzen, S. 7"
+      }
+    ],
+    "features": [
+      "experiment",
+      "datenauswertung",
+      "modellierung"
+    ]
+  },
+  {
+    "id": "K-016",
+    "assessment": "Für die Bewertung genetischer Verfahren ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-017",
+    "assessment": "Für Sequenzanalyse und phylogenetische Stammbäume ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  },
+  {
+    "id": "K-018",
+    "assessment": "Infektions- und Immunbiologie ist als Themenkomplex dokumentiert; Antibiotikawirkung und Resistenzmechanismen sind noch nicht spezifisch ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-019",
+    "assessment": "Entwicklungsbiologie und Reproduktionsmedizin bilden einen eigenen Themenkomplex; die konkreten Kompetenzen sind noch nicht vollständig auf BPE-Ebene ausgewertet.",
+    "status": "TEILWEISE BELEGT",
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Fachbezogene Vorbemerkungen und Themenkomplexe, S. 6"
+      }
+    ]
+  },
+  {
+    "id": "K-020",
+    "assessment": "Für Biomembran, Osmose und Stofftransport ist im bisher ausgewerteten Zusatzfachdatensatz keine spezifische Fundstelle hinterlegt.",
+    "status": "OFFEN",
+    "evidence": []
+  }
+]
