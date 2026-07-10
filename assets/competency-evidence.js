@@ -6,6 +6,34 @@ const COMPETENCY_VARIANT_LABELS = {
   bg_regulaer: 'reguläres BG'
 };
 
+function competencyCoverage(items, variantKey) {
+  const counts = {
+    BELEGT: 0,
+    'TEILWEISE BELEGT': 0,
+    OFFEN: 0
+  };
+
+  for (const item of items) {
+    const status = normalizeStatus(item.variants?.[variantKey]?.status);
+    counts[status] += 1;
+  }
+  return counts;
+}
+
+function renderCoverageSummary(items) {
+  return `<section class="coverage-grid" aria-label="Beleglage nach Schulvariante">
+    ${Object.entries(COMPETENCY_VARIANT_LABELS).map(([key, label]) => {
+      const counts = competencyCoverage(items, key);
+      return `<article class="coverage-card">
+        <strong>${escapeHtml(label)}</strong>
+        <span>${counts.BELEGT} belegt</span>
+        <span>${counts['TEILWEISE BELEGT']} teilweise belegt</span>
+        <span>${counts.OFFEN} offen</span>
+      </article>`;
+    }).join('')}
+  </section>`;
+}
+
 function renderCompetencyVariant(variantKey, variant) {
   const data = variant || {
     assessment: 'noch nicht erfasst',
@@ -25,6 +53,10 @@ function renderCompetencyVariant(variantKey, variant) {
 }
 
 function renderCompetencyEvidenceCard(item) {
+  const related = Array.isArray(item.related_supplementary) && item.related_supplementary.length
+    ? `<p class="related-note"><strong>Getrennte optionale Ergänzung:</strong> ${item.related_supplementary.map(escapeHtml).join(', ')} – siehe Ansicht „Zusatzfach“.</p>`
+    : '';
+
   return `<article class="card competency-card">
     <div class="card-header">
       <div>
@@ -32,6 +64,7 @@ function renderCompetencyEvidenceCard(item) {
         <h3>${escapeHtml(item.competency)}</h3>
       </div>
     </div>
+    ${related}
     <div class="variant-grid">
       ${Object.keys(COMPETENCY_VARIANT_LABELS)
         .map(key => renderCompetencyVariant(key, item.variants?.[key]))
@@ -56,6 +89,7 @@ renderCompetencies = function renderCompetenciesWithSeparateEvidence() {
       einen eigenen Status und eigene Fundstellen. Eine Quelle belegt niemals automatisch
       die anderen Varianten.
     </div>
+    ${renderCoverageSummary(state.data.competencies)}
     <div class="controls">
       <div class="control">
         <label for="competency-query">Suche</label>
