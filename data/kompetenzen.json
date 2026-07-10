@@ -5,32 +5,32 @@
     "competency": "Zellstruktur und Kompartimentierung",
     "variants": {
       "ag_basisfach": {
-        "assessment": "enthalten; genaue Teilkompetenz und Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Zellorganellen, Kompartimentierung sowie der Vergleich von Pro- und Eukaryoten sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-001",
-            "location": "Kursstufe Zell-/Molekularbiologie"
+            "location": "3.4.1 System Zelle, S. 24, Teilkompetenzen (1)–(3)"
           }
         ]
       },
       "ag_leistungsfach": {
-        "assessment": "vertieft dokumentiert; genaue Teilkompetenz und Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Zellorganellen und Kompartimentierung sind verbindlich ausgewiesen; zusätzlich werden elektronenmikroskopische Bilder zugeordnet.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-001",
-            "location": "Kursstufe Zell-/Molekularbiologie"
+            "location": "3.5.1.1 Zellorganellen, S. 30, Teilkompetenzen (1)–(4)"
           }
         ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Struktur und Funktion von Zellorganellen, Pro-/Eukaryotenvergleich und Kompartimentierung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 1 System Zelle"
+            "location": "BPE 1.1 System Zelle, S. 10"
           }
         ]
       }
@@ -42,22 +42,32 @@
     "competency": "Enzyme als Biokatalysatoren",
     "variants": {
       "ag_basisfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "Enzymstruktur und -wirkung, Einflussfaktoren, Hemmung und Regulation sowie experimentelle Untersuchung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.2 Biomoleküle und molekulare Genetik, S. 25, Teilkompetenzen (4)–(6)"
+          }
+        ]
       },
       "ag_leistungsfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "Enzymmodelle, experimentelle Untersuchung von Einflussfaktoren sowie Hemmung und Regulation sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.2.2 Biokatalyse, S. 31, Teilkompetenzen (1)–(3)"
+          }
+        ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Biokatalyse, Enzymmodelle, technische Anwendungen, Einflussfaktoren und Enzymhemmung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 2 Biomoleküle und Biokatalyse"
+            "location": "BPE 2.3–2.5 Biomoleküle und Biokatalyse, S. 11–12"
           }
         ]
       }
@@ -69,22 +79,27 @@
     "competency": "Zellatmung und Dissimilation",
     "variants": {
       "ag_basisfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "assessment": "Im zweistündigen Kurs bislang nicht mit einer positiven Oberstufen-Fundstelle nachgewiesen.",
         "status": "OFFEN",
         "evidence": []
       },
       "ag_leistungsfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "Zellatmung, Reaktionsräume und Energieumwandlung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.1.3 Stoffwechselprozesse, S. 30, Teilkompetenzen (1)–(3)"
+          }
+        ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Stoff- und Energiebilanz, Teilprozesse, Regulation, NAD, ATP und Protonengradient sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 6 Dissimilation"
+            "location": "BPE 6.1 Dissimilation, S. 16"
           }
         ]
       }
@@ -96,22 +111,27 @@
     "competency": "Fotosynthese und Assimilation",
     "variants": {
       "ag_basisfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "assessment": "Im zweistündigen Kurs bislang nicht mit einer positiven Oberstufen-Fundstelle nachgewiesen.",
         "status": "OFFEN",
         "evidence": []
       },
       "ag_leistungsfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "Fotosynthese, Reaktionsräume und Energieumwandlung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.1.3 Stoffwechselprozesse, S. 30, Teilkompetenzen (1)–(3)"
+          }
+        ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Blatt- und Chloroplastenbau, abiotische Faktoren sowie lichtabhängige und lichtunabhängige Reaktionen sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 7 Assimilation"
+            "location": "BPE 7.1–7.2 Assimilation, S. 17–18"
           }
         ]
       }
@@ -123,32 +143,40 @@
     "competency": "DNA, Replikation, Transkription und Translation",
     "variants": {
       "ag_basisfach": {
-        "assessment": "enthalten; Zuordnung zu Basisfach und Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "DNA-Struktur, Replikation, Proteinbiosynthese, genetischer Code und Mutationsfolgen sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-001",
-            "location": "Molekulare Genetik"
+            "location": "3.4.2 Biomoleküle und molekulare Genetik, S. 25, Teilkompetenzen (7)–(10)"
           }
         ]
       },
       "ag_leistungsfach": {
-        "assessment": "vertieft dokumentiert; Seite und Teilkompetenzen noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "DNA-Struktur, Replikation, Proteinbiosynthese und Mutationsfolgen sind verbindlich ausgewiesen; Pro- und Eukaryoten werden verglichen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-001",
-            "location": "Molekulare Genetik"
+            "location": "3.5.2.1 Biomoleküle, S. 31, Teilkompetenz (5)"
+          },
+          {
+            "source": "SRC-001",
+            "location": "3.5.2.3 DNA und Genaktivität, S. 31–32, Teilkompetenzen (1)–(4)"
           }
         ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite und Detailtiefe noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "DNA-Struktur, Replikation und Proteinbiosynthese sind grundlegend sowie in BPE 4 vertieft für Pro- und Eukaryoten ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 4 Genetik"
+            "location": "BPE 2.1–2.2 Biomoleküle und Biokatalyse, S. 11"
+          },
+          {
+            "source": "SRC-002",
+            "location": "BPE 4.2 Genetik, S. 13–14"
           }
         ]
       }
@@ -160,24 +188,34 @@
     "competency": "PCR und Gelelektrophorese",
     "variants": {
       "ag_basisfach": {
-        "assessment": "curriculare Zuordnung noch offen",
-        "status": "OFFEN",
-        "evidence": []
-      },
-      "ag_leistungsfach": {
-        "assessment": "in einer IQB-Aufgabe des erhöhten Niveaus prüfungsnah nachgewiesen; Bildungsplanfundstelle fehlt",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "PCR und Gelelektrophorese sind als molekularbiologische Verfahren verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
-            "source": "SRC-010",
-            "location": "IQB-Aufgabe Farbenblindheit"
+            "source": "SRC-001",
+            "location": "3.4.4 Molekularbiologische Verfahren und Gentechnik, S. 27, Teilkompetenz (1)"
+          }
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "PCR und Gelelektrophorese sind verbindlich ausgewiesen; zusätzlich ist ein molekularbiologisches Experiment durchzuführen und auszuwerten.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.3 Molekularbiologische Verfahren und Gentechnik, S. 32–33, Teilkompetenzen (1) und (3)"
           }
         ]
       },
       "bg_regulaer": {
-        "assessment": "mit den bislang hinterlegten Fundstellen nicht nachgewiesen",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "PCR und Gelelektrophorese sind im Zusammenhang mit Gentests verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 4.4 Genetik, S. 14"
+          }
+        ]
       }
     }
   },
@@ -187,22 +225,32 @@
     "competency": "Nervenzelle und synaptische Übertragung",
     "variants": {
       "ag_basisfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "Motoneuron, Ruhe- und Aktionspotenzial, synaptische Übertragung und Reiztransduktion sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.4.3 Nervensystem, S. 26, Teilkompetenzen (2)–(5)"
+          }
+        ]
       },
       "ag_leistungsfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "Ruhe- und Aktionspotenzial, kontinuierliche und saltatorische Erregungsleitung, Synapsen und Signalverrechnung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.4.1 Nervensystem, S. 33–34, Teilkompetenzen (2)–(6)"
+          }
+        ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite und Teilkompetenzen noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Motoneuron, Membranpotenziale, Aktionspotenzial, Erregungsleitung und neuromuskuläre Synapse sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 9 Nervensystem"
+            "location": "BPE 9.1–9.2 Nervensystem, S. 19–20"
           }
         ]
       }
@@ -214,22 +262,22 @@
     "competency": "Hormonelle Regulation",
     "variants": {
       "ag_basisfach": {
-        "assessment": "Zuordnung zum Basisfach noch offen",
+        "assessment": "Im zweistündigen Kurs bislang nicht mit einer positiven Oberstufen-Fundstelle nachgewiesen.",
         "status": "OFFEN",
         "evidence": []
       },
       "ag_leistungsfach": {
-        "assessment": "als eigenständiger Bereich dokumentiert; Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Regelung von Stoffwechselprozessen und unterschiedliche molekulare Wirkmechanismen von Hormonen sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-001",
-            "location": "3.5.4.2 Hormonsystem"
+            "location": "3.5.4.2 Hormonsystem, S. 34, Teilkompetenzen (1)–(2)"
           }
         ]
       },
       "bg_regulaer": {
-        "assessment": "ein gleichwertiger Pflichtblock ist bislang nicht nachgewiesen; vollständige Negativprüfung fehlt",
+        "assessment": "Ein gleichwertiger eigenständiger Pflichtblock ist bislang nicht positiv nachgewiesen.",
         "status": "OFFEN",
         "evidence": []
       }
@@ -241,22 +289,27 @@
     "competency": "Spezifische und unspezifische Immunabwehr",
     "variants": {
       "ag_basisfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "assessment": "Im zweistündigen Oberstufenkurs bislang nicht mit einer eigenen positiven Fundstelle nachgewiesen.",
         "status": "OFFEN",
         "evidence": []
       },
       "ag_leistungsfach": {
-        "assessment": "noch nicht mit eigener Fundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
+        "assessment": "Humorale und zelluläre Immunantwort, Signalstoffe, MHC-System und Antikörpervielfalt sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.4.3 Immunsystem, S. 34–35, Teilkompetenzen (1)–(4)"
+          }
+        ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Unspezifische und spezifische humorale und zelluläre Immunantwort sowie Impfung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 3 Immunsystem"
+            "location": "BPE 3.1–3.2 Immunsystem, S. 12–13"
           }
         ]
       }
@@ -268,27 +321,32 @@
     "competency": "Selektion, Artbildung und Populationsdaten",
     "variants": {
       "ag_basisfach": {
-        "assessment": "noch nicht mit eigener Bildungsplanfundstelle geprüft",
-        "status": "OFFEN",
-        "evidence": []
-      },
-      "ag_leistungsfach": {
-        "assessment": "in einer IQB-Aufgabe des erhöhten Niveaus prüfungsnah nachgewiesen; Bildungsplanfundstelle fehlt",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Evolutionsfaktoren, Genpool und Artbildung nach der synthetischen Evolutionstheorie sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
-            "source": "SRC-009",
-            "location": "IQB-Aufgabe Elefanten und Stoßzähne"
+            "source": "SRC-001",
+            "location": "3.4.6 Evolution und Ökologie, S. 29, Teilkompetenzen (1)–(3)"
+          }
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "Evolutionsfaktoren, Genpool, Selektionsfaktoren, Artbildung und ökologische Einnischung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.5 Evolution und Ökologie, S. 35–36, Teilkompetenzen (2)–(6)"
           }
         ]
       },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite und quantitative Tiefe noch zu präzisieren",
-        "status": "TEILWEISE BELEGT",
+        "assessment": "Synthetische Evolutionstheorie, Evolutionsfaktoren, Genpool, reproduktive Fitness und Artbildung sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 5 Evolution"
+            "location": "BPE 5.2 Evolution, S. 15"
           }
         ]
       }
@@ -300,27 +358,67 @@
     "competency": "Ökosysteme, Stoffkreisläufe und Bewertung",
     "variants": {
       "ag_basisfach": {
-        "assessment": "in einer IQB-Aufgabe des grundlegenden Niveaus prüfungsnah nachgewiesen; Bildungsplanfundstelle fehlt",
+        "assessment": "Biodiversität, menschliche Verantwortung und nachhaltige Entwicklung sind ausgewiesen; Stoffkreisläufe sind in dieser Oberstufenfundstelle nicht vollständig abgedeckt.",
         "status": "TEILWEISE BELEGT",
         "evidence": [
           {
-            "source": "SRC-007",
-            "location": "IQB-Aufgabe Kultivierung von Algen"
+            "source": "SRC-001",
+            "location": "3.4.6 Evolution und Ökologie, S. 29, Teilkompetenzen (4)–(5)"
           }
         ]
       },
       "ag_leistungsfach": {
-        "assessment": "noch nicht mit eigener Bildungsplan- oder Prüfungsfundstelle geprüft",
+        "assessment": "Biodiversität, Selektionsfaktoren, Einnischung und nachhaltige Entwicklung sind ausgewiesen; Stoffkreisläufe sind mit dieser Fundstelle nicht vollständig abgedeckt.",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.5 Evolution und Ökologie, S. 35–36, Teilkompetenzen (4)–(8)"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "Ökosysteme, Wechselbeziehungen, Kohlenstoffkreislauf, Nachhaltigkeit und Biodiversität sind verbindlich ausgewiesen.",
+        "status": "BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 8 Ökologie, S. 18–19"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "K-012",
+    "topic": "Evolution",
+    "competency": "Hardy-Weinberg-Gesetz und Allelfrequenzen",
+    "related_supplementary": [
+      "SG-004"
+    ],
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Das Hardy-Weinberg-Gesetz ist im zweistündigen Kurs bislang nicht ausdrücklich positiv nachgewiesen.",
         "status": "OFFEN",
         "evidence": []
       },
+      "ag_leistungsfach": {
+        "assessment": "Hardy-Weinberg und die Konstanz von Allelfrequenzen in idealen Populationen werden in der amtlichen Jahresplanung ausdrücklich genannt; die Jahresplanung ist einordnend, nicht der verbindliche Bildungsplan selbst.",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-004",
+            "location": "Unterrichtssequenz Mechanismen der Evolution, S. 10"
+          }
+        ]
+      },
       "bg_regulaer": {
-        "assessment": "enthalten; genaue Seite und Teilkompetenzen noch zu präzisieren",
+        "assessment": "Populationsgenetik sowie Veränderungen von Genotyp- und Allelhäufigkeiten sind verbindlich ausgewiesen; das Hardy-Weinberg-Gesetz wird im regulären Fachplan nicht ausdrücklich genannt.",
         "status": "TEILWEISE BELEGT",
         "evidence": [
           {
             "source": "SRC-002",
-            "location": "BPE 8 Ökologie"
+            "location": "BPE 5.2 Evolution, S. 15"
           }
         ]
       }
