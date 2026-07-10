@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-07-10 – Zusatzfach als vierte Kompetenzspalte
+- `data/kompetenzen_zusatzfach.json` mit genau einem optionalen Zusatzfacheintrag je Kompetenz ergänzt.
+- Kompetenzübersicht auf vier getrennte Spalten erweitert: AG Basisfach, AG Leistungsfach, reguläres BG und BG Zusatzfach (optional).
+- Zusatzfachspalte visuell als schulabhängige Erweiterung gekennzeichnet und nicht dem regulären BG-Pflichtumfang zugerechnet.
+- Hardy-Weinberg und experimentelle Fachmethodik seitengenau als Zusatzfachkompetenzen belegt.
+- Allgemeine Themenkomplexe nur als `TEILWEISE BELEGT` erfasst; daraus werden keine konkreten Einzelkompetenzen abgeleitet.
+- Kompetenzvalidator prüft Vollständigkeit, tote IDs, Belegstatus und Merkmale der vierten Spalte.
+
 ## 2026-07-10 – Operationalisierte Kompetenzmerkmale
 - Kompetenzmatrix von 12 auf 20 entscheidungsrelevante Einträge erweitert.
 - Neue Vergleichspunkte ergänzt: Genregulation und Epigenetik, Gentherapie und CRISPR/Cas, experimentelle Erkenntnisgewinnung, Bewertung genetischer Verfahren, Sequenzanalyse, Antibiotikaresistenz, Reproduktionsmedizin und Membrantransport.
