@@ -21,3 +21,5 @@ Gesicherter Zwischenstand:
 - Konkrete Unterrichtsqualität der Zielschule bleibt offen.
 
 Die Daten zum Zusatzfach stehen getrennt in `data/sondergebiete.json` und werden nicht dem regulären BG-Pflichtcurriculum zugerechnet.
+
+Der Kompetenzvergleich wird zellenweise geführt: Basisfach, Leistungsfach und reguläres BG besitzen jeweils eine eigene Bewertung, einen eigenen Status und eigene Fundstellen. Eine Quelle darf nicht als Beleg für eine andere Schulvariante wiederverwendet werden, wenn sie diese nicht tatsächlich beschreibt.
