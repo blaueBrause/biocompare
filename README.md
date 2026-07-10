@@ -20,6 +20,8 @@ Danach im Browser öffnen: `http://localhost:8000`
 
 Auf GitHub Pages funktioniert die Anwendung ohne Build-Schritt.
 
+Die Ansicht **Zusatzfach** führt `Sondergebiete der Biowissenschaften` als optionale und schulabhängige BG-Erweiterung. Diese Inhalte werden ausdrücklich nicht dem regulären BG-Pflichtfach zugerechnet.
+
 ## Daten prüfen
 
 Vor einem Commit mit fachlichen Änderungen:
@@ -34,6 +36,7 @@ Der Validator prüft insbesondere:
 - fehlende und doppelte IDs,
 - tote Quellen- und Dateiverweise,
 - `BELEGT`-Einträge ohne Quelle und Fundstelle,
+- die vollständige Trennung und Belegung des optionalen Zusatzfachs,
 - widersprüchliche Summen der Anforderungsbereiche bei Prüfungsaufgaben.
 
 GitHub Actions führt diese Prüfung bei Änderungen an `data/`, `sources/` oder dem Validator automatisch aus.
@@ -43,6 +46,7 @@ GitHub Actions führt diese Prüfung bei Änderungen an `data/`, `sources/` oder
 - `data/quellen.json`
 - `data/themen.json`
 - `data/kompetenzen.json`
+- `data/sondergebiete.json`
 - `data/pruefungen.json`
 - `data/befunde.json`
 - `data/offene_fragen.json`
