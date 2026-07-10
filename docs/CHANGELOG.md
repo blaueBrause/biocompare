@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-07-10 – Datenqualität
+- `tools/validate_data.py` ergänzt.
+- Prüfung auf ungültiges JSON, doppelte IDs, tote Quellenverweise und unbelegte `BELEGT`-Einträge eingeführt.
+- AFB-Summen der Prüfungsdatensätze werden gegen die Gesamt-Bewertungseinheiten geprüft.
+- GitHub-Action zur automatischen Validierung bei Änderungen an Daten und Quellen ergänzt.
+
 ## 2026-07-10 – Oberfläche
 - Alten Self-Contained-Prototyp ersetzt.
 - Fachliche Daten aus `index.html` entfernt.
