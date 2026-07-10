@@ -1,0 +1,246 @@
+[
+  {
+    "id": "PV-AG-2023",
+    "year": 2023,
+    "system": "AG",
+    "variant": "Biologie-Leistungsfach",
+    "written": {
+      "central": true,
+      "duration_minutes": 270,
+      "tasks_offered": 4,
+      "tasks_required": 3,
+      "assessment_units": null,
+      "scope": "Inhalte und Kompetenzen des Bildungsplans 2016",
+      "exclusions": []
+    },
+    "basisfach": {
+      "central_written": false,
+      "exam_mode": "mündlich",
+      "topics": [
+        "System Zelle",
+        "Biomoleküle und molekulare Genetik",
+        "Nervensystem",
+        "Molekularbiologische Verfahren und Gentechnik",
+        "Reproduktionsbiologie",
+        "Evolution und Ökologie"
+      ]
+    },
+    "leistungsfach_oral_topics": [
+      "System Zelle",
+      "Biomoleküle und molekulare Genetik",
+      "Molekularbiologische Verfahren und Gentechnik",
+      "Kommunikation zwischen Zellen",
+      "Evolution und Ökologie",
+      "Chancen und Risiken biomedizinischer Verfahren"
+    ],
+    "source": {
+      "filename": "Facherlass_2023_Stand_06.07.2021.pdf",
+      "pages": "108–110",
+      "sha256": "f26ac630a49786c47096ddb9278b95bc88ce16d0a0c055f18db61f4e835f5232",
+      "bytes": 1606068
+    }
+  },
+  {
+    "id": "PV-AG-2024",
+    "year": 2024,
+    "system": "AG",
+    "variant": "Biologie-Leistungsfach",
+    "written": {
+      "central": true,
+      "duration_minutes": 270,
+      "tasks_offered": 4,
+      "tasks_required": 3,
+      "assessment_units": null,
+      "scope": "Inhalte und Kompetenzen des Bildungsplans 2016",
+      "exclusions": []
+    },
+    "basisfach": {
+      "central_written": false,
+      "exam_mode": "mündlich",
+      "topics": [
+        "System Zelle",
+        "Biomoleküle und molekulare Genetik",
+        "Nervensystem",
+        "Molekularbiologische Verfahren und Gentechnik",
+        "Reproduktionsbiologie",
+        "Evolution und Ökologie"
+      ]
+    },
+    "leistungsfach_oral_topics": [
+      "System Zelle",
+      "Biomoleküle und molekulare Genetik",
+      "Molekularbiologische Verfahren und Gentechnik",
+      "Kommunikation zwischen Zellen",
+      "Evolution und Ökologie",
+      "Chancen und Risiken biomedizinischer Verfahren"
+    ],
+    "source": {
+      "filename": "ANL_2_Facherlass_2024_Stand_2022-07-05.pdf",
+      "pages": "109–111",
+      "sha256": "bec090de4116b233d1526fc17efc6f62b21c1ea41a58b0273081b9c5b93cf43d",
+      "bytes": 5486619
+    }
+  },
+  {
+    "id": "PV-AG-2025",
+    "year": 2025,
+    "system": "AG",
+    "variant": "Biologie-Leistungsfach",
+    "written": {
+      "central": true,
+      "duration_minutes": 300,
+      "tasks_offered": 4,
+      "tasks_required": 3,
+      "assessment_units": null,
+      "scope": "Überarbeiteter Bildungsplan 2016, Version 2 vom 08.03.2022",
+      "exclusions": [
+        "Kapitel 3.5.7 Immunsystem beziehungsweise alternativer Inhaltsbereich"
+      ]
+    },
+    "basisfach": {
+      "central_written": false,
+      "exam_mode": "mündlich",
+      "topics": [
+        "Biomoleküle und molekulare Genetik",
+        "Stoff- und Energieumwandlung",
+        "Evolution",
+        "Ökologie",
+        "Neurobiologie",
+        "Angewandte Biologie"
+      ]
+    },
+    "leistungsfach_oral_topics": [
+      "Biomoleküle und molekulare Genetik",
+      "Stoff- und Energieumwandlung",
+      "Evolution",
+      "Ökologie",
+      "Neurobiologie und Hormone",
+      "Angewandte Biologie",
+      "Immunsystem beziehungsweise alternativer Inhaltsbereich"
+    ],
+    "notes": [
+      "In jeder Klausur müssen Erkenntnisgewinnung, Kommunikation und Bewertung Anwendung finden."
+    ],
+    "source": {
+      "filename": "Facherlass_2025_Stand_11.07.2024.pdf",
+      "pages": "111–113",
+      "sha256": "054c914fbcb199191e1dc88c1713762dd6e20d24d52348c0f29a9dd21e2a5c11",
+      "bytes": 5552844
+    }
+  },
+  {
+    "id": "PV-BG-2023",
+    "year": 2023,
+    "system": "BG",
+    "variant": "Biologie, 2-stündiges Prüfungsfach",
+    "school_types": [
+      "EG",
+      "SGG",
+      "TG",
+      "WG"
+    ],
+    "written": {
+      "central": true,
+      "duration_minutes": 210,
+      "tasks_offered": 3,
+      "tasks_required": 2,
+      "assessment_units": 60,
+      "scope": "Bildungsplan 2007",
+      "topics": [
+        "Genetik",
+        "Steuerungs- und Regelungsvorgänge",
+        "Stoff- und Energiebereitstellung",
+        "Evolutionstheorien, synthetische Evolutionstheorie und vergleichende Morphologie"
+      ],
+      "exclusions": []
+    },
+    "source": {
+      "filename": "Anlage_3_Abituranforderungen-2023.pdf",
+      "pages": "40",
+      "sha256": "c4189fe9f0dc8f05e7a4863e8d764901c5ff99ccdaf26179e0ee33999bb29358",
+      "bytes": 875154
+    }
+  },
+  {
+    "id": "PV-BG-2024",
+    "year": 2024,
+    "system": "BG",
+    "variant": "Biologie",
+    "school_types": [
+      "EG",
+      "SGGS",
+      "TG",
+      "WG"
+    ],
+    "written": {
+      "central": true,
+      "duration_minutes": 255,
+      "tasks_offered": 4,
+      "tasks_required": 3,
+      "assessment_units": 90,
+      "scope": "Bildungsplan 2021",
+      "topics": [
+        "BPE 4 Genetik",
+        "BPE 5 Evolution",
+        "BPE 6 Dissimilation",
+        "BPE 7 Assimilation",
+        "BPE 8 Ökologie",
+        "BPE 9 Nervensystem"
+      ],
+      "exclusions": []
+    },
+    "notes": [
+      "Die Inhalte der Eingangsklasse sind notwendige Vorstrukturen."
+    ],
+    "source": {
+      "filename": "Anlage_3_Stoffgebiete_Pruefungsmodalitaeten_-Abitur-20241.pdf",
+      "pages": "38",
+      "sha256": "b5c5a8dd8dd83a88a0f42f1ae82575200e1543ef594ea8031417813aaf1c6915",
+      "bytes": 846103
+    }
+  },
+  {
+    "id": "PV-BG-2025",
+    "year": 2025,
+    "system": "BG",
+    "variant": "Biologie",
+    "school_types": [
+      "EG",
+      "SGGS",
+      "TG",
+      "WG"
+    ],
+    "written": {
+      "central": true,
+      "duration_minutes": 255,
+      "tasks_offered": 4,
+      "tasks_required": 3,
+      "assessment_units": 90,
+      "scope": "Bildungsplan 2021",
+      "topics": [
+        "BPE 4 Genetik",
+        "BPE 5 Evolution",
+        "BPE 6 Dissimilation",
+        "BPE 7 Assimilation",
+        "BPE 8 Ökologie",
+        "BPE 9 Nervensystem"
+      ],
+      "exclusions": [
+        "BPE 4.3 Antibiotika",
+        "Evolution als Veränderung der Genotyp- und Allelhäufigkeit im Genpool einer Population",
+        "Ökologische, ökonomische und soziale Aspekte der Nachhaltigkeit sowie lokale und globale Maßnahmen",
+        "Kniesehnenreflex"
+      ]
+    },
+    "oral": {
+      "full_bpe_scope": true,
+      "note": "Die Einschränkungen gelten nur für die schriftliche Prüfung; mündlich sind die genannten BPE vollständig prüfungsrelevant."
+    },
+    "source": {
+      "filename": "Anlage_3_Pruefungsrelevante-Stoffgebiete-Abitur-2025.pdf",
+      "pages": "46",
+      "sha256": "94bd1e921ed49626ffe964e56189987c323346b904d0c0f5e7c1bcc73febef17",
+      "bytes": 1102604
+    }
+  }
+]
