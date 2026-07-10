@@ -3,110 +3,327 @@
     "id": "K-001",
     "topic": "Zellbiologie",
     "competency": "Zellstruktur und Kompartimentierung",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten",
-    "status": "BELEGT",
-    "evidence": [{"source":"SRC-001","location":"Kursstufe Zell-/Molekularbiologie"},{"source":"SRC-002","location":"BPE 1 System Zelle"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "enthalten; genaue Teilkompetenz und Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "Kursstufe Zell-/Molekularbiologie"
+          }
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "vertieft dokumentiert; genaue Teilkompetenz und Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "Kursstufe Zell-/Molekularbiologie"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 1 System Zelle"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-002",
     "topic": "Stoffwechsel",
     "competency": "Enzyme als Biokatalysatoren",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten",
-    "status": "BELEGT",
-    "evidence": [{"source":"SRC-002","location":"BPE 2 Biomoleküle und Biokatalyse"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 2 Biomoleküle und Biokatalyse"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-003",
     "topic": "Stoffwechsel",
-    "competency": "Zellatmung/Dissimilation",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten",
-    "status": "BELEGT",
-    "evidence": [{"source":"SRC-002","location":"BPE 6 Dissimilation"}]
+    "competency": "Zellatmung und Dissimilation",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 6 Dissimilation"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-004",
     "topic": "Stoffwechsel",
-    "competency": "Fotosynthese/Assimilation",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten",
-    "status": "BELEGT",
-    "evidence": [{"source":"SRC-002","location":"BPE 7 Assimilation"}]
+    "competency": "Fotosynthese und Assimilation",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 7 Assimilation"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-005",
     "topic": "Genetik",
-    "competency": "DNA, Replikation, Transkription, Translation",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten; Detailtiefe weiter prüfen",
-    "status": "TEILWEISE BELEGT",
-    "evidence": [{"source":"SRC-001","location":"Molekulare Genetik"},{"source":"SRC-002","location":"BPE 4 Genetik"}]
+    "competency": "DNA, Replikation, Transkription und Translation",
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "enthalten; Zuordnung zu Basisfach und Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "Molekulare Genetik"
+          }
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "vertieft dokumentiert; Seite und Teilkompetenzen noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "Molekulare Genetik"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite und Detailtiefe noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 4 Genetik"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-006",
     "topic": "Gentechnik",
     "competency": "PCR und Gelelektrophorese",
-    "basisfach": "angewandte Biologie",
-    "leistungsfach": "vertieft und prüfungsnah",
-    "bg": "teilweise belegt",
-    "status": "TEILWEISE BELEGT",
-    "evidence": [{"source":"SRC-010","location":"Aufgabe Farbenblindheit"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "curriculare Zuordnung noch offen",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "in einer IQB-Aufgabe des erhöhten Niveaus prüfungsnah nachgewiesen; Bildungsplanfundstelle fehlt",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-010",
+            "location": "IQB-Aufgabe Farbenblindheit"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "mit den bislang hinterlegten Fundstellen nicht nachgewiesen",
+        "status": "OFFEN",
+        "evidence": []
+      }
+    }
   },
   {
     "id": "K-007",
     "topic": "Neurobiologie",
     "competency": "Nervenzelle und synaptische Übertragung",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten",
-    "status": "BELEGT",
-    "evidence": [{"source":"SRC-002","location":"BPE 9 Nervensystem"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite und Teilkompetenzen noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 9 Nervensystem"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-008",
     "topic": "Hormonsystem",
     "competency": "Hormonelle Regulation",
-    "basisfach": "noch exakt zuordnen",
-    "leistungsfach": "eigenständiger Bereich",
-    "bg": "kein gleichwertiger Pflichtblock nachgewiesen",
-    "status": "TEILWEISE BELEGT",
-    "evidence": [{"source":"SRC-001","location":"3.5.4.2 Hormonsystem"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "Zuordnung zum Basisfach noch offen",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "als eigenständiger Bereich dokumentiert; Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-001",
+            "location": "3.5.4.2 Hormonsystem"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "ein gleichwertiger Pflichtblock ist bislang nicht nachgewiesen; vollständige Negativprüfung fehlt",
+        "status": "OFFEN",
+        "evidence": []
+      }
+    }
   },
   {
     "id": "K-009",
     "topic": "Immunbiologie",
     "competency": "Spezifische und unspezifische Immunabwehr",
-    "basisfach": "noch exakt zuordnen",
-    "leistungsfach": "enthalten",
-    "bg": "enthalten",
-    "status": "TEILWEISE BELEGT",
-    "evidence": [{"source":"SRC-002","location":"BPE 3 Immunsystem"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "noch nicht mit eigener Fundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 3 Immunsystem"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-010",
     "topic": "Evolution",
     "competency": "Selektion, Artbildung und Populationsdaten",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten",
-    "status": "BELEGT",
-    "evidence": [{"source":"SRC-002","location":"BPE 5 Evolution"},{"source":"SRC-009","location":"IQB Elefanten"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "noch nicht mit eigener Bildungsplanfundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "ag_leistungsfach": {
+        "assessment": "in einer IQB-Aufgabe des erhöhten Niveaus prüfungsnah nachgewiesen; Bildungsplanfundstelle fehlt",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-009",
+            "location": "IQB-Aufgabe Elefanten und Stoßzähne"
+          }
+        ]
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite und quantitative Tiefe noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 5 Evolution"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "K-011",
     "topic": "Ökologie",
     "competency": "Ökosysteme, Stoffkreisläufe und Bewertung",
-    "basisfach": "enthalten",
-    "leistungsfach": "vertieft",
-    "bg": "enthalten",
-    "status": "BELEGT",
-    "evidence": [{"source":"SRC-002","location":"BPE 8 Ökologie"},{"source":"SRC-007","location":"IQB Algen"}]
+    "variants": {
+      "ag_basisfach": {
+        "assessment": "in einer IQB-Aufgabe des grundlegenden Niveaus prüfungsnah nachgewiesen; Bildungsplanfundstelle fehlt",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-007",
+            "location": "IQB-Aufgabe Kultivierung von Algen"
+          }
+        ]
+      },
+      "ag_leistungsfach": {
+        "assessment": "noch nicht mit eigener Bildungsplan- oder Prüfungsfundstelle geprüft",
+        "status": "OFFEN",
+        "evidence": []
+      },
+      "bg_regulaer": {
+        "assessment": "enthalten; genaue Seite und Teilkompetenzen noch zu präzisieren",
+        "status": "TEILWEISE BELEGT",
+        "evidence": [
+          {
+            "source": "SRC-002",
+            "location": "BPE 8 Ökologie"
+          }
+        ]
+      }
+    }
   }
 ]
