@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-07-10 – Seitengenaue Kompetenzmatrix
+- Kompetenzmatrix von 11 auf 12 Einträge erweitert; Hardy-Weinberg als eigener Vergleichspunkt ergänzt.
+- Zellbiologie, Enzymatik, Genetik, PCR/Gelelektrophorese, Neurobiologie und Evolution für Basisfach, Leistungsfach und reguläres BG mit Seiten, BPE-Unterpunkten und Teilkompetenzen präzisiert.
+- Dissimilation und Assimilation für Leistungsfach und BG seitengenau belegt; Basisfach bleibt mangels positiver Oberstufen-Fundstelle offen.
+- Hormonsystem, Immunbiologie und Ökologie differenzierter bewertet, statt pauschale Gleichwertigkeit zu behaupten.
+- Kompetenzansicht um eine Belegübersicht je Schulvariante ergänzt.
+- Hardy-Weinberg verweist aus der Kompetenzmatrix auf den getrennten Zusatzfachdatensatz `SG-004`.
+- Kompetenzvalidator prüft nun auch Teilbelege und tote Zusatzfachreferenzen.
+
 ## 2026-07-10 – Zellenweise Kompetenzbelege
 - `data/kompetenzen.json` auf getrennte Variantenobjekte für Basisfach, Leistungsfach und reguläres BG umgestellt.
 - Bewertungen ohne eigene Fundstelle auf `OFFEN` oder `TEILWEISE BELEGT` zurückgestuft, statt Belege zwischen Schulvarianten zu übertragen.
