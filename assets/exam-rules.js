@@ -22,6 +22,12 @@ function ruleExclusions(rule) {
   return `<ul class="evidence-list">${exclusions.map(value => `<li>${escapeHtml(value)}</li>`).join('')}</ul>`;
 }
 
+function ruleNotes(rule) {
+  const notes = Array.isArray(rule.notes) ? rule.notes : [];
+  if (!notes.length) return '';
+  return `<details><summary>Methodische Hinweise</summary><ul class="evidence-list">${notes.map(value => `<li>${escapeHtml(value)}</li>`).join('')}</ul></details>`;
+}
+
 function examRuleRow(rule) {
   const written = rule.written || {};
   const choice = written.tasks_offered && written.tasks_required
@@ -40,10 +46,50 @@ function examRuleRow(rule) {
     <td><strong>${escapeHtml(rule.year)}</strong><br><span class="muted">${escapeHtml(rule.id)}</span></td>
     <td><strong>${escapeHtml(rule.system)}</strong><br>${escapeHtml(rule.variant)}${schools ? `<br><span class="muted">${escapeHtml(schools)}</span>` : ''}</td>
     <td>${escapeHtml(written.duration_minutes || '–')} Minuten<br><span class="muted">${escapeHtml(choice)} Aufgaben · ${escapeHtml(units)}</span>${basis}</td>
-    <td><div class="chip-list">${ruleTopics(rule)}</div></td>
+    <td><div class="chip-list">${ruleTopics(rule)}</div>${ruleNotes(rule)}</td>
     <td>${ruleExclusions(rule)}${oral}</td>
     <td><span class="muted">${escapeHtml(ruleSourceLabel(rule))}</span></td>
   </tr>`;
+}
+
+function gradeScaleTable(assessment) {
+  const scale = Array.isArray(assessment?.grade_scale) ? assessment.grade_scale : [];
+  if (!scale.length) return '';
+  return `<div class="table-wrap"><table>
+    <thead><tr><th>BE</th><th>Notenpunkte</th></tr></thead>
+    <tbody>${scale.map(row => `<tr><td>${escapeHtml(row.min_be)}–${escapeHtml(row.max_be)}</td><td><strong>${escapeHtml(row.notenpunkte)}</strong></td></tr>`).join('')}</tbody>
+  </table></div>`;
+}
+
+function renderAssessmentRules() {
+  const rule = examRules.find(item => item.system === 'AG' && item.year === 2027 && item.assessment);
+  if (!rule) return '';
+
+  const assessment = rule.assessment;
+  const formal = assessment.correction_codes?.formal || [];
+  const contentCodes = assessment.correction_codes?.content || [];
+  const penalty = assessment.language_form_penalty_notenpunkte || [];
+  const source = assessment.source || {};
+  const sourceHash = source.sha256 ? `${source.sha256.slice(0, 12)}…` : 'kein Hash';
+
+  return `
+    <div class="section-heading"><div><h2>Bewertungsmaßstab AG 2027</h2><p>Amtliche Korrekturrichtlinien für Biologie und Chemie</p></div></div>
+    <section class="grid">
+      <article class="panel">
+        <h3>Was bewertet wird</h3>
+        <p>Die Bewertungseinheiten der Teilaufgaben ergeben sich aus dem Erwartungshorizont. Es werden nur ganze Bewertungseinheiten vergeben.</p>
+        <p>Alternative, in sich schlüssige Lösungen sind zulässig. Schwerwiegende oder gehäufte Verstöße gegen Sprache oder äußere Form können zu einem Abzug von ${escapeHtml(penalty.join(' bis '))} Notenpunkten führen.</p>
+        <h4>Sprachlich-formale Korrekturzeichen</h4>
+        <div class="chip-list">${formal.map(value => `<span class="tag">${escapeHtml(value)}</span>`).join('')}</div>
+        <h4>Inhaltliche Korrekturzeichen</h4>
+        <div class="chip-list">${contentCodes.map(value => `<span class="tag">${escapeHtml(value)}</span>`).join('')}</div>
+        <p class="muted">${escapeHtml(source.filename || 'Quelle')} · S. ${escapeHtml(source.pages || '–')} · SHA-256 ${escapeHtml(sourceHash)}</p>
+      </article>
+      <article class="panel">
+        <h3>Umrechnung 120 BE → Notenpunkte</h3>
+        ${gradeScaleTable(assessment)}
+      </article>
+    </section>`;
 }
 
 function renderExamRules() {
@@ -51,32 +97,33 @@ function renderExamRules() {
     return `<div class="notice warning"><strong>Prüfungsvorgaben nicht geladen</strong>${escapeHtml(examRulesLoadError)}</div>`;
   }
   if (!examRules.length) {
-    return '<div class="notice"><strong>Prüfungsvorgaben werden geladen</strong>Die Jahresreihe 2023–2025 wird vorbereitet.</div>';
+    return '<div class="notice"><strong>Prüfungsvorgaben werden geladen</strong>Die Jahresreihe 2023–2027 wird vorbereitet.</div>';
   }
 
   const ordered = [...examRules].sort((a, b) => a.year - b.year || a.system.localeCompare(b.system));
   return `
     <div class="notice">
-      <strong>Neue Belegreihe 2023–2025</strong>
+      <strong>Belegreihe 2023–2027</strong>
       Die Tabelle trennt jährliche Prüfungsumfänge vom allgemeinen Curriculum. Eine jahresspezifische Ausnahme ist kein Beleg dafür, dass der Inhalt im Unterricht fehlt.
     </div>
     <div class="grid">
       <section class="panel">
         <h2>Was sich belastbar zeigt</h2>
-        <p><strong>AG-Leistungsfach:</strong> zentrale schriftliche Prüfung mit vier Aufgaben, von denen drei gewählt werden; 270 Minuten in 2023/2024 und 300 Minuten in 2025.</p>
+        <p><strong>AG-Leistungsfach:</strong> zentrale schriftliche Prüfung mit vier Aufgaben, von denen drei gewählt werden; 270 Minuten in 2023/2024 und 300 Minuten seit 2025.</p>
         <p><strong>Reguläres BG:</strong> 2023 noch nach altem Plan mit 210 Minuten und zwei von drei Aufgaben; seit 2024 nach Bildungsplan 2021 mit 255 Minuten und drei von vier Aufgaben.</p>
       </section>
       <section class="panel">
-        <h2>Wichtige Grenze</h2>
-        <p>Die 2025 beim BG genannten Ausschlüsse gelten ausdrücklich nur schriftlich. Die vollständigen BPE bleiben für die mündliche Prüfung relevant.</p>
+        <h2>Wichtige Grenzen</h2>
+        <p>Für das BG liegen in dieser Reihe derzeit Jahresvorgaben bis 2025 vor; AG-Vorgaben sind bis 2027 erfasst.</p>
         <p>Beim AG ist das Basisfach in diesen Erlassen als mündliches Prüfungsfach dokumentiert; die zentrale schriftliche Prüfung betrifft das Leistungsfach.</p>
       </section>
     </div>
     <div class="section-heading"><div><h2>Prüfungsvorgaben im Zeitvergleich</h2><p>Amtliche Jahresvorgaben, nicht geschätzte Unterrichtstiefe</p></div></div>
     <div class="table-wrap"><table>
-      <thead><tr><th>Jahr</th><th>Variante</th><th>Schriftlicher Rahmen</th><th>Themen</th><th>Einschränkungen</th><th>Quelle</th></tr></thead>
+      <thead><tr><th>Jahr</th><th>Variante</th><th>Schriftlicher Rahmen</th><th>Themen und Hinweise</th><th>Einschränkungen</th><th>Quelle</th></tr></thead>
       <tbody>${ordered.map(examRuleRow).join('')}</tbody>
-    </table></div>`;
+    </table></div>
+    ${renderAssessmentRules()}`;
 }
 
 renderExams = function renderExamsWithRules() {
