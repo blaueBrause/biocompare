@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-07-10 – Operationalisierte Kompetenzmerkmale
+- Kompetenzmatrix von 12 auf 20 entscheidungsrelevante Einträge erweitert.
+- Neue Vergleichspunkte ergänzt: Genregulation und Epigenetik, Gentherapie und CRISPR/Cas, experimentelle Erkenntnisgewinnung, Bewertung genetischer Verfahren, Sequenzanalyse, Antibiotikaresistenz, Reproduktionsmedizin und Membrantransport.
+- Freie Aussagen wie „vertieft“ durch konkrete Inhaltsbeschreibungen ersetzt.
+- Positive Vergleichsmerkmale eingeführt: Experiment, Datenauswertung, Modellierung, quantitative Anforderung und Bewertung.
+- Nicht angezeigte Merkmale werden ausdrücklich nicht als curricular fehlend interpretiert.
+- Kompetenzansicht um Merkmalschips und eine methodische Legende ergänzt.
+- Kompetenzvalidator prüft unbekannte oder doppelte Merkmale, Merkmale ohne Fundstelle und unscharfe Vergleichsurteile.
+- Keine Punktwerte, Rankings oder Gesamtnoten eingeführt.
+
 ## 2026-07-10 – Seitengenaue Kompetenzmatrix
 - Kompetenzmatrix von 11 auf 12 Einträge erweitert; Hardy-Weinberg als eigener Vergleichspunkt ergänzt.
 - Zellbiologie, Enzymatik, Genetik, PCR/Gelelektrophorese, Neurobiologie und Evolution für Basisfach, Leistungsfach und reguläres BG mit Seiten, BPE-Unterpunkten und Teilkompetenzen präzisiert.
