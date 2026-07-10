@@ -15,6 +15,7 @@ FILES = {
     "sources": ("quellen.json", ("id", "source_id")),
     "topics": ("themen.json", ("id", "topic_id")),
     "competencies": ("kompetenzen.json", ("id", "competence_id")),
+    "supplementary": ("sondergebiete.json", ("id", "supplement_id")),
     "exams": ("pruefungen.json", ("id", "exam_id")),
     "findings": ("befunde.json", ("id", "finding_id")),
     "questions": ("offene_fragen.json", ("id", "question_id")),
@@ -103,7 +104,7 @@ def validate() -> tuple[list[str], list[str]]:
         if not source.get("original_url") and not repo_file:
             warnings.append(f"QUELLE OHNE ZUGRIFF: {source_id} hat weder Datei noch Original-URL")
 
-    evidence_datasets = ("topics", "competencies", "findings")
+    evidence_datasets = ("topics", "competencies", "supplementary", "findings")
     for dataset_name in evidence_datasets:
         filename, id_keys = FILES[dataset_name]
         for item in datasets[dataset_name]:
@@ -129,6 +130,17 @@ def validate() -> tuple[list[str], list[str]]:
                 )
                 if not complete:
                     errors.append(f"BELEGT OHNE FUNDSTELLE: {item_id} in data/{filename}")
+
+    for item in datasets["supplementary"]:
+        item_id = str(first_value(item, FILES["supplementary"][1]) or "?")
+        if item.get("kind") == "comparison":
+            for key in ("regular_bg", "supplement", "ag_lf"):
+                if not item.get(key):
+                    errors.append(f"UNVOLLSTÄNDIGER VERGLEICH: {item_id} enthält kein Feld {key}")
+        if item.get("required") is True:
+            warnings.append(
+                f"OPTIONALES FACH ALS PFLICHT MARKIERT: {item_id}; fachliche Einordnung prüfen"
+            )
 
     exam_filename, exam_id_keys = FILES["exams"]
     for exam in datasets["exams"]:
