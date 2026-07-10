@@ -1,0 +1,30 @@
+[
+  {
+    "id":"P-001","source":"SRC-007","title":"Kultivierung von Algen","level":"grundlegend","be":30,
+    "afb":{"I":11,"II":14,"III":5},
+    "topics":["Ökologie","Fotosynthese","Nachhaltigkeit"],
+    "operators":["beschreiben","begründen","diskutieren","interpretieren"],
+    "materials":["Sachtext","Diagramm","Modellrechnung"]
+  },
+  {
+    "id":"P-002","source":"SRC-008","title":"Cyanobakterien","level":"erhöht","be":40,
+    "afb":{"I":12,"II":19,"III":9},
+    "topics":["Fotosynthese","Enzymkinetik","Zellstruktur"],
+    "operators":["erläutern","vergleichen","ableiten","Hypothese aufstellen"],
+    "materials":["Diagramm","Schema","Tabelle","Versuchsdaten"]
+  },
+  {
+    "id":"P-003","source":"SRC-009","title":"Elefanten und Stoßzähne","level":"erhöht","be":40,
+    "afb":{"I":13,"II":19,"III":8},
+    "topics":["Evolution","Populationsgenetik","Artbegriffe"],
+    "operators":["erklären","beurteilen","auswerten","argumentieren"],
+    "materials":["Abbildung","Tabelle","Populationsdiagramm","Konfliktmaterial"]
+  },
+  {
+    "id":"P-004","source":"SRC-010","title":"Farbenblindheit","level":"erhöht","be":40,
+    "afb":{"I":11,"II":21,"III":8},
+    "topics":["Genetik","Diagnostik","Gentherapie"],
+    "operators":["ableiten","erklären","interpretieren","bewerten"],
+    "materials":["Stammbaum","DNA-Sequenz","Gelelektrophorese","Spleißmodell","Sachtext"]
+  }
+]
