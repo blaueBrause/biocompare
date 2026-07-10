@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-07-10 – Amtliche BG-Abiturprüfung 2025
+- Amtlichen Haupttermin 2025 für das Prüfungsfach 4.3 Biologie als `SRC-013` erfasst.
+- Vier BG-Aufgaben zu Genetik, Evolution, Neurobiologie und Ökologie in `data/pruefungen.json` ausgewertet.
+- Schriftliche Biologieprüfung für EG, SGGS, TG und WG als Befund dokumentiert.
+- Offene Frage zur BG-Prüfungsquellenlage auf „teilweise beantwortet“ gesetzt.
+- Prüfungsansicht trennt nun amtliche BG-Aufgaben und IQB-Referenzaufgaben.
+- AFB-Anteile der BG-Aufgaben werden ohne Erwartungshorizont ausdrücklich nicht geschätzt.
+- Ausschluss populationsgenetischer Allelhäufigkeiten im Haupttermin 2025 beim Hardy-Weinberg-Vergleich ergänzt.
+
 ## 2026-07-10 – BG-Zusatzfach
 - `data/sondergebiete.json` als eigene Datenebene ergänzt.
 - Neue Ansicht „Zusatzfach“ in Navigation und Dashboard integriert.
