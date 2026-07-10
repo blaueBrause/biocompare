@@ -35,5 +35,5 @@ jobs:
         run: python tools/validate_data.py
       - name: Kompetenzbelege zellenweise validieren
         run: python tools/validate_competencies.py
-      - name: Prüfungsvorgaben 2023–2025 validieren
+      - name: Prüfungsvorgaben 2023–2027 validieren
         run: python tools/validate_exam_rules.py
