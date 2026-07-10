@@ -1,1 +1,188 @@
-[{"id":"F-001","status":"BELEGT","claim":"Zentrale biologische Themenfelder fehlen im BG nicht grundsätzlich.","evidence":[{"source":"SRC-001","location":"Kursstufenbereiche"},{"source":"SRC-002","location":"BPE 1–9"}]},{"id":"F-002","status":"BELEGT","claim":"Das Leistungsfach ist stärker als vertieftes schriftliches Biologiefach dokumentiert.","evidence":[{"source":"SRC-001","location":"Leistungsfach 3.5"},{"source":"SRC-004","location":"Jahresplanung Leistungsfach"},{"source":"SRC-008","location":"IQB erhöhtes Niveau"}]},{"id":"F-003","status":"BELEGT","claim":"Sondergebiete sind optional und schulabhängig.","evidence":[{"source":"SRC-003","location":"Wahl-/Modulstruktur"}]},{"id":"F-004","status":"BELEGT","claim":"Im SGG Soziales ist Biologie nicht Profilfach.","evidence":[{"source":"SRC-006","location":"Prüfungsanforderungen SGG Soziales"}]},{"id":"F-005","status":"OFFEN","claim":"Die konkrete Unterrichtsqualität der Zielschule ist öffentlich nicht abschließend belegbar.","evidence":[]},{"id":"F-006","status":"BELEGT","claim":"Für SGGS liegt mit dem Haupttermin 2025 eine amtliche schriftliche BG-Abiturprüfung im Fach Biologie vor.","evidence":[{"source":"SRC-013","location":"Deckblatt, S. 1: Prüfungsfach 4.3 Biologie (EG, SGGS, TG, WG)"}]}]
+[
+  {
+    "id": "F-001",
+    "category": "gemeinsamer_kern",
+    "status": "BELEGT",
+    "claim": "In zehn untersuchten Kompetenzbereichen sind AG-Basisfach, AG-Leistungsfach und reguläres BG jeweils positiv und seitengenau belegt.",
+    "interpretation": "Der gemeinsame Kern umfasst Zellbiologie, Enzymatik, Molekulargenetik, PCR und Gelelektrophorese, Neurobiologie, Evolution, experimentelle Erkenntnisgewinnung, Bewertung genetischer Verfahren, phylogenetische Analysen sowie Biomembranen. Das belegt gemeinsame verbindliche Inhalte, aber keine identische Unterrichtstiefe.",
+    "competency_ids": [
+      "K-001",
+      "K-002",
+      "K-005",
+      "K-006",
+      "K-007",
+      "K-010",
+      "K-015",
+      "K-016",
+      "K-017",
+      "K-020"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-001",
+        "location": "Kursstufenstandards 3.4 und 3.5, S. 24–36"
+      },
+      {
+        "source": "SRC-002",
+        "location": "BPE 1–9, S. 10–20"
+      }
+    ]
+  },
+  {
+    "id": "F-002",
+    "category": "ag_spezifisch",
+    "status": "TEILWEISE BELEGT",
+    "claim": "Für hormonelle Regulation sowie Reproduktionsmedizin und Pränataldiagnostik liegen positive AG-Oberstufenbelege vor; für das reguläre BG sind diese eigenständigen Kompetenzblöcke in der bisherigen Matrix offen.",
+    "interpretation": "Das ist ein entscheidungsrelevanter Unterschied im aktuellen Belegstand. Ein offener BG-Eintrag ist jedoch kein Beweis, dass einzelne Inhalte im Unterricht niemals vorkommen.",
+    "competency_ids": [
+      "K-008",
+      "K-019"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-001",
+        "location": "3.5.4.2 Hormonsystem, S. 34"
+      },
+      {
+        "source": "SRC-001",
+        "location": "3.4.5 Reproduktionsbiologie, S. 27–28"
+      },
+      {
+        "source": "SRC-001",
+        "location": "3.5.6 Chancen und Risiken biomedizinischer Verfahren, S. 36–37"
+      }
+    ]
+  },
+  {
+    "id": "F-003",
+    "category": "bg_spezifisch",
+    "status": "TEILWEISE BELEGT",
+    "claim": "Das reguläre BG weist CRISPR/Cas sowie einen konkreten β-Lactam-Resistenzmechanismus ausdrücklich aus; die ausgewerteten AG-Fundstellen decken diese Kombination bislang nicht vollständig ab.",
+    "interpretation": "Auch das BG besitzt damit ausdrücklich ausgewiesene Akzente, die in der bisherigen AG-Matrix nicht in gleicher Kombination positiv belegt sind. Wegen des noch begrenzten Quellenabgleichs ist daraus kein allgemeiner BG-Vorsprung abzuleiten.",
+    "competency_ids": [
+      "K-014",
+      "K-018"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-002",
+        "location": "BPE 4.3–4.4 Genetik, S. 14"
+      },
+      {
+        "source": "SRC-001",
+        "location": "3.4.4 Molekularbiologische Verfahren und Gentechnik, S. 27"
+      },
+      {
+        "source": "SRC-001",
+        "location": "3.5.2.3 DNA und Genaktivität, S. 32"
+      }
+    ]
+  },
+  {
+    "id": "F-004",
+    "category": "hardy_weinberg",
+    "status": "TEILWEISE BELEGT",
+    "claim": "Das Hardy-Weinberg-Gesetz ist im regulären BG-Fachplan nicht ausdrücklich genannt, im optionalen Zusatzfach aber verbindlich ausgewiesen; für das AG-Leistungsfach ist es in der amtlichen Jahresplanung dokumentiert.",
+    "interpretation": "Hardy-Weinberg ist deshalb kein nachgewiesener Bestandteil des regulären BG-Pflichtumfangs. Ein BG mit angebotenem Zusatzfach kann diesen konkreten Unterschied ausdrücklich abdecken.",
+    "competency_ids": [
+      "K-012"
+    ],
+    "supplementary_ids": [
+      "SG-004"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-002",
+        "location": "BPE 5.2 Evolution, S. 15"
+      },
+      {
+        "source": "SRC-003",
+        "location": "BPE 6.4, S. 26"
+      },
+      {
+        "source": "SRC-004",
+        "location": "Unterrichtssequenz Mechanismen der Evolution, S. 10"
+      }
+    ]
+  },
+  {
+    "id": "F-005",
+    "category": "methodik",
+    "status": "BELEGT",
+    "claim": "Planen, Durchführen oder Auswerten von Experimenten ist in allen drei regulären Vergleichsvarianten ausdrücklich dokumentiert.",
+    "interpretation": "Experimentelle Arbeit ist damit kein ausschließliches Merkmal des Leistungsfachs. Umfang, Selbstständigkeit und konkrete schulische Ausstattung müssen kompetenz- und schulbezogen getrennt geprüft werden.",
+    "competency_ids": [
+      "K-001",
+      "K-002",
+      "K-015",
+      "K-020"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-001",
+        "location": "3.4.1–3.4.2, S. 24–25"
+      },
+      {
+        "source": "SRC-001",
+        "location": "3.5.1–3.5.3, S. 29–33"
+      },
+      {
+        "source": "SRC-002",
+        "location": "BPE 1.2 und 2.4, S. 10–11"
+      }
+    ]
+  },
+  {
+    "id": "F-006",
+    "category": "zusatzfach",
+    "status": "BELEGT",
+    "claim": "Sondergebiete der Biowissenschaften ist eine optionale, schulabhängige BG-Erweiterung und gehört nicht automatisch zum regulären BG-Pflichtfach.",
+    "interpretation": "Inhalte des Zusatzfachs dürfen nur dann in eine konkrete Schulwahl einbezogen werden, wenn die Zielschule das Fach und die relevanten Module tatsächlich anbietet.",
+    "supplementary_ids": [
+      "SG-001",
+      "SG-002",
+      "SG-003",
+      "SG-004",
+      "SG-005"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-003",
+        "location": "Einordnung des Fachplans, S. 4"
+      }
+    ]
+  },
+  {
+    "id": "F-007",
+    "category": "pruefung",
+    "status": "BELEGT",
+    "claim": "Der BG-Haupttermin 2025 enthält eine schriftliche Biologieprüfung für SGGS mit vier Aufgaben aus Genetik, Evolution, Neurobiologie und Ökologie.",
+    "interpretation": "Der Aufgabensatz belegt die Existenz und thematische Breite einer amtlichen SGGS-Prüfung in einem Jahr. Er ersetzt noch kein mehrjähriges, symmetrisches Prüfungskorpus.",
+    "exam_ids": [
+      "P-005",
+      "P-006",
+      "P-007",
+      "P-008"
+    ],
+    "evidence": [
+      {
+        "source": "SRC-013",
+        "location": "Deckblatt und Aufgaben 1–4, S. 1–16"
+      }
+    ]
+  },
+  {
+    "id": "F-008",
+    "category": "umsetzung",
+    "status": "OFFEN",
+    "claim": "Für die konkrete Zielschule sind Zusatzfachangebot, Wochenstunden, Prüfungsoptionen sowie Labor- und Projektangebote noch nicht belegt.",
+    "interpretation": "Ohne diese schulbezogenen Angaben ist ein personalisiertes Gesamturteil zur Schulwahl nicht belastbar.",
+    "question_ids": [
+      "O-001",
+      "O-002",
+      "O-003",
+      "O-005"
+    ],
+    "evidence": []
+  }
+]
